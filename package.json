@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "source .env && PORT=$PORT NODE_OPTIONS='--inspect --enable-source-maps=true' next dev --turbopack",
     "export": "sh ./script/build.sh",
-    "tag": "sh ./script/tag.sh $(jq \".version\" package.json | tr -d '\"')",
+    "tag": "sh ./script/tag.sh",
     "css": "tailwindcss -o asset/scss/tailwind.css --watch"
   },
   "main": "./dist/index.js",
