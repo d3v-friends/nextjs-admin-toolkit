@@ -13,10 +13,13 @@ import WindowRestore from "./window-restore.svg";
 import Cross from "./cross.svg";
 import MenuDots from "./menu-dots.svg";
 import RocketLaunch from "./rocket-launch.svg";
+import Check from "./check.svg";
+import Refresh from "./refresh.svg";
 
 export default {
 	AngleSmallDown,
 	AngleSmallUp,
+	Check,
 	Clock,
 	Cross,
 	IdBadge,
@@ -25,6 +28,7 @@ export default {
 	MenuBurger,
 	MenuDots,
 	PollH,
+	Refresh,
 	RocketLaunch,
 	SubscriptionAlt,
 	TableLayout,
