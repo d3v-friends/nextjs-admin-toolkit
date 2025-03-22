@@ -17,9 +17,20 @@ const cols: TableCol<ArrayElement<typeof list>>[] = [
 		name: "이름",
 		colClassName: "w-1/2 lg:w-1/4",
 		cellClassName: "text-center",
-		parser: (v) => <VBase align={"justify-center"}>{v.name}</VBase>,
+		parser: (v) => (
+			<VBase
+				ellipsis={true}
+				align={"justify-center"}>
+				{v.name}
+			</VBase>
+		),
 	},
-	{name: "나이", colClassName: "w-1/2 lg:w-1/4", cellClassName: "text-right", parser: (v) => <VIp>{v.age}</VIp>},
+	{
+		name: "나이",
+		colClassName: "w-1/2 lg:w-1/4",
+		cellClassName: "text-right",
+		parser: (v) => <VIp>{v.age}</VIp>,
+	},
 	{
 		name: "키",
 		colClassName: "w-0 lg:w-2/4",

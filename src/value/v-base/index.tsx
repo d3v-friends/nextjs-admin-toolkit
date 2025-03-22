@@ -2,6 +2,7 @@
 import Image from "next/image";
 import {fnCss} from "nextjs-tools";
 import React, {MouseEventHandler, ReactNode} from "react";
+import {Tooltip} from "@root";
 
 export interface Props {
 	iconSrc?: string;
@@ -55,7 +56,7 @@ export default function ({iconSrc, className, children, align, copy, ellipsis, l
 			<div
 				className={fnCss.concat(copy && "value-copy")}
 				onClick={onCopy}>
-				{value}
+				{ellipsis ? <Tooltip text={value}>{value}</Tooltip> : value}
 			</div>
 		</span>
 	);
