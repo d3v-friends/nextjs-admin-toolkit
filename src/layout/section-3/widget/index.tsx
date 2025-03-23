@@ -12,11 +12,12 @@ export interface Props extends AccordionProps {
 
 export default function ({header, asideMenus, top}: Readonly<Props>) {
 	const [open, setOpen] = useState(false);
+	
 	return (
 		<>
 			<header
 				className={fnCss.sum(`
-					flex items-center top-0
+					flex items-center top-0 z-10
 					sticky lg:left-(--width-aside) lg:w-(--width-main) w-full left-0 h-(--height-header) px-2 
 					bg-(--color-background-nav) border-bottom
 					transition-all duration-300
