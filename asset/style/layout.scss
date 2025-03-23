@@ -3,29 +3,37 @@
     --color-background-body: #f1f1f1;
     --color-background-nav: #fff;
     --color-background-layout-section-3-aside-submenu: #e0f3ff;
+    --color-layout-section-aside-menu: rgb(169, 176, 176);
+    --color-layout-section-aside-menu-hover: rgb(169, 176, 176);
+    --filter-layout-section-aside-menu-hover: invert(18%) sepia(2%) saturate(6168%) hue-rotate(178deg) brightness(90%) contrast(81%);
+    --filter-layout-section-aside-menu: invert(74%) sepia(6%) saturate(184%) hue-rotate(131deg) brightness(94%) contrast(91%);
   }
 
   html.dark {
-    --color-background-body: #2a2f39;
+    --color-background-body: #1d242c;
     --color-background-nav: #282e38;
     --color-background-layout-section-3-aside-submenu: #e0f3ff;
+    --color-layout-section-aside-menu: rgb(231, 242, 242);
+    --color-layout-section-aside-menu-hover: rgb(50 58 70);
+    --filter-layout-section-aside-menu-hover: invert(21%) sepia(30%) saturate(345%) hue-rotate(176deg) brightness(92%) contrast(94%);
+    --filter-layout-section-aside-menu: invert(91%) sepia(22%) saturate(43%) hue-rotate(132deg) brightness(100%) contrast(97%);
   }
 
   // section-3
   .layout-section-3-aside-submenu {
-    color: var(--light);
+    color: var(--color-layout-section-aside-menu);
 
     img {
-      filter: var(--light-filter);
+      filter: var(--filter-layout-section-aside-menu);
     }
   }
 
   .layout-section-3-aside-submenu:hover {
-    //color: var(--dark);
+    color: var(--color-layout-section-aside-menu-hover);
     background-color: var(--color-background-layout-section-3-aside-submenu);
 
     img {
-      //filter: var(--dark-filter);
+      filter: var(--filter-layout-section-aside-menu-hover);
     }
   }
 
@@ -48,7 +56,7 @@
   }
 
   html.dark {
-    --color-panel-background: #333845;
+    --color-panel-background: #313844;
     --color-panel-border: transparent;
   }
 

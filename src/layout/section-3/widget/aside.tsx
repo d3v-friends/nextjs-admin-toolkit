@@ -12,13 +12,14 @@ export default function ({children, open, onClose}: Readonly<Props>) {
 	return (
 		<>
 			<aside
-				className={fnCss.sum(`
-					z-20
+				className={fnCss.sum(
+					`z-20
 					w-(--width-aside) fixed lg:fixed top-0 left-0 h-full 
 					overflow-hidden overscroll-y-auto 
 					bg-(--color-background-nav) border-right
-					transition-transform duration-200 lg:translate-x-0 ${open ? "translate-x-0" : "-translate-x-full"}
-				`)}
+					transition-transform duration-200 lg:translate-x-0`,
+					open ? "translate-x-0" : "-translate-x-full"
+				)}
 				onClick={(e) => {
 					e.preventDefault();
 					onClose();
