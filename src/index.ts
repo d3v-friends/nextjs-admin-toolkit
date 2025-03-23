@@ -9,8 +9,9 @@ import Pager from "./pager";
 import Table from "./table";
 import Value from "./value";
 import Widget from "./widget";
+import Animation from "./animation";
 
-export {Asset, Base, Layout, Widget, Value, Modal, Pager, Form, Action, Table};
+export {Asset, Base, Layout, Widget, Value, Modal, Pager, Form, Action, Table, Animation};
 
 export * from "./action";
 export * from "./asset";
@@ -22,6 +23,7 @@ export * from "./pager";
 export * from "./table";
 export * from "./value";
 export * from "./widget";
+export * from "./animation";
 
 export type ColorStyle =
 	| "primary"

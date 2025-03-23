@@ -1,6 +1,0 @@
-import TableClick from "./table-click";
-import TableLink from "./table-link";
-import TableList from "./table-list";
-export { TableClick, TableLink, TableList };
-export default { Click: TableClick, Link: TableLink, List: TableList };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJpbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLFVBQVUsTUFBTSxlQUFlLENBQUM7QUFDdkMsT0FBTyxTQUFTLE1BQU0sY0FBYyxDQUFDO0FBQ3JDLE9BQU8sU0FBUyxNQUFNLGNBQWMsQ0FBQztBQUVyQyxPQUFPLEVBQUMsVUFBVSxFQUFFLFNBQVMsRUFBRSxTQUFTLEVBQUMsQ0FBQztBQUMxQyxlQUFlLEVBQUMsS0FBSyxFQUFFLFVBQVUsRUFBRSxJQUFJLEVBQUUsU0FBUyxFQUFFLElBQUksRUFBRSxTQUFTLEVBQUMsQ0FBQyJ9

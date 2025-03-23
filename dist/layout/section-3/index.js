@@ -1,0 +1,7 @@
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+import Widget from "./widget";
+import { fnCss } from "nextjs-tools";
+export default function ({ children, header, asideMenus, top }) {
+    return (_jsxs("div", { className: "flex flex-col h-full min-h-screen relative", children: [_jsx(Widget, { header, asideMenus, top }), _jsx("main", { className: fnCss.sum("flex-1 lg:ml-(--width-aside) min-h-screen transition-all duration-300"), children: _jsx("div", { className: "p-2", children: children }) })] }));
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvbGF5b3V0L3NlY3Rpb24tMy9pbmRleC50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUNBLE9BQU8sTUFBOEIsTUFBTSxVQUFVLENBQUM7QUFDdEQsT0FBTyxFQUFDLEtBQUssRUFBQyxNQUFNLGNBQWMsQ0FBQztBQU1uQyxNQUFNLENBQUMsT0FBTyxXQUFXLEVBQUMsUUFBUSxFQUFFLE1BQU0sRUFBRSxVQUFVLEVBQUUsR0FBRyxFQUFrQjtJQUM1RSxPQUFPLENBQ04sZUFBSyxTQUFTLEVBQUUsNENBQTRDLGFBQzNELEtBQUMsTUFBTSxJQUFNLE1BQU0sRUFBRSxVQUFVLEVBQUUsR0FBRyxHQUFLLEVBQ3pDLGVBQ0MsU0FBUyxFQUFFLEtBQUssQ0FBQyxHQUFHLENBQ25CLHVFQUF1RSxDQUN2RSxZQUNELGNBQUssU0FBUyxFQUFDLEtBQUssWUFBRSxRQUFRLEdBQU8sR0FDL0IsSUFDRixDQUNOLENBQUM7QUFDSCxDQUFDIn0=

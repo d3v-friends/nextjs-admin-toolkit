@@ -2,7 +2,7 @@
 import Image from "next/image";
 import {fnCss} from "nextjs-tools";
 import React, {MouseEventHandler, ReactNode} from "react";
-import {ColorStyle} from "../../..";
+import {ColorStyle} from "../..";
 
 export interface Props {
 	children?: ReactNode;

@@ -1,6 +1,6 @@
 import {Viewport} from "next";
 import React, {ReactNode} from "react";
-import {ApplyStyle} from "../..";
+import {ScssProvider} from "../..";
 
 interface Props {
 	lang?: string;
@@ -14,10 +14,10 @@ export const viewport: Viewport = {
 
 export default function ({children, lang}: Readonly<Props>) {
 	return (
-		<ApplyStyle>
+		<ScssProvider>
 			<html lang={lang || "en"}>
 				<body className="text-12 lg:text-16 bg-(--color-background-body)">{children}</body>
 			</html>
-		</ApplyStyle>
+		</ScssProvider>
 	);
 }
