@@ -1,7 +1,6 @@
-import Animation from "./animation";
-import ApplyStyle from "./style";
-import Svg from "./svg";
+import Dazzle from "./dazzle";
+import Flat from "./flat";
+import ScssProvider from "./scss-provider";
 
-export * from "./svg";
-export {ApplyStyle, Animation};
-export default {Animation, Svg, ApplyStyle};
+export {Dazzle, Flat, ScssProvider};
+export default {Dazzle, Flat, ScssProvider};

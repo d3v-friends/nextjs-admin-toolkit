@@ -1,6 +1,0 @@
-import FormAskConfirm from "./form-ask-confirm";
-import InputField from "./input-field";
-import InputString from "./input-string";
-export { InputString, InputField, FormAskConfirm };
-export default { String: InputString, Field: InputField, FormAskConfirm };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJpbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLGNBQWMsTUFBTSxvQkFBb0IsQ0FBQztBQUNoRCxPQUFPLFVBQVUsTUFBTSxlQUFlLENBQUM7QUFDdkMsT0FBTyxXQUFXLE1BQU0sZ0JBQWdCLENBQUM7QUFFekMsT0FBTyxFQUFDLFdBQVcsRUFBRSxVQUFVLEVBQUUsY0FBYyxFQUFDLENBQUM7QUFDakQsZUFBZSxFQUFDLE1BQU0sRUFBRSxXQUFXLEVBQUUsS0FBSyxFQUFFLFVBQVUsRUFBRSxjQUFjLEVBQUMsQ0FBQyJ9

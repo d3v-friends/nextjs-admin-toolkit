@@ -1,7 +1,0 @@
-import ActErrors from "./act-errors";
-import ActLoading from "./act-loading";
-import ActRedirect from "./act-redirect";
-import ActResponseModal from "./act-response-modal";
-export { ActErrors, ActLoading, ActRedirect, ActResponseModal };
-export default { Errors: ActErrors, Loading: ActLoading, Redirect: ActRedirect, ResponseModal: ActResponseModal };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJpbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLFNBQVMsTUFBTSxjQUFjLENBQUM7QUFDckMsT0FBTyxVQUFVLE1BQU0sZUFBZSxDQUFDO0FBQ3ZDLE9BQU8sV0FBVyxNQUFNLGdCQUFnQixDQUFDO0FBQ3pDLE9BQU8sZ0JBQWdCLE1BQU0sc0JBQXNCLENBQUM7QUFFcEQsT0FBTyxFQUFDLFNBQVMsRUFBRSxVQUFVLEVBQUUsV0FBVyxFQUFFLGdCQUFnQixFQUFDLENBQUM7QUFDOUQsZUFBZSxFQUFDLE1BQU0sRUFBRSxTQUFTLEVBQUUsT0FBTyxFQUFFLFVBQVUsRUFBRSxRQUFRLEVBQUUsV0FBVyxFQUFFLGFBQWEsRUFBRSxnQkFBZ0IsRUFBQyxDQUFDIn0=

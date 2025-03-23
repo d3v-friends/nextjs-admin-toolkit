@@ -1,6 +1,0 @@
-import Section3 from "./section-3";
-import Panel from "./panel";
-import Markdown from "./markdown";
-export { Section3, Panel, Markdown };
-export default { Section3, Panel, Markdown };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJpbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLFFBQVEsTUFBTSxhQUFhLENBQUM7QUFDbkMsT0FBTyxLQUFLLE1BQU0sU0FBUyxDQUFDO0FBQzVCLE9BQU8sUUFBUSxNQUFNLFlBQVksQ0FBQztBQUVsQyxPQUFPLEVBQUMsUUFBUSxFQUFFLEtBQUssRUFBRSxRQUFRLEVBQUMsQ0FBQztBQUVuQyxlQUFlLEVBQUMsUUFBUSxFQUFFLEtBQUssRUFBRSxRQUFRLEVBQUMsQ0FBQyJ9

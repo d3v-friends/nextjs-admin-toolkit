@@ -6,14 +6,15 @@
     "removeComments": true,
     "declaration": true,
     "inlineSourceMap": true,
-    "outDir": "./src"
+    "outDir": "./dist"
   },
   "include": [
     "./src"
   ],
   "exclude": [
     "node_modules",
-    "./app"
+    "./app",
+    "./asset"
   ],
   "tsc-alias": {
     "verbose": true

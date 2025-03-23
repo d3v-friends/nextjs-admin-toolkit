@@ -7,8 +7,14 @@
     * src 에 ts와 js 중첩하니 이 레포지토리를 사용하는 프로젝트에서 컴파일시 @types/* 도 필요하게 됨. dependency 에 @types/* 필요한 라이브러리의 경우 같이 포함해준다.
 * ts, tsx 등은 모두 src 디렉토리에 있어야 한다.
 * tag 업데이트시 package.json 의 version 과 동기화 되므로 주의 하기. 커밋 전에 수정해야 한다.
-* tailwind 는 사용하되 postcss 말고 tailwindcss 를 사용해서 실시간으로 css 가 작성되도록 한다
-  -> export 시 tailwind 중복을 방지하기 위해서 한쪽만 사용한다.
+* ~~tailwind 는 사용하되 postcss 말고 tailwindcss 를 사용해서 실시간으로 css 가 작성되도록 한다~~
+    * ~~export 시 tailwind 중복을 방지하기 위해서 한쪽만 사용한다.~~
+    * 이 레포지토리를 이용하는 상위 레포지토리에서 내부로 스타일로 입력하여 디자인 할 시 내부에 같은 클래스가 없을 때 스타일이 지정되지 않는 문제가 생김
+      | tailwind 를 외부에서 전체에서 관리하는 방식으로 변경 함
+    * 상위 레포지토리에 스타일에 다음과 같은 경로를 추가해 주어야 한다. css 로하는 방식밖에 못찾음. scss 에서 같은 효과를 내는 명령어가 있다면 교체 하는 것이 좋을 것 같음.
+    ~~~css
+        @source "node_modules/nextjs-admin-toolkit";
+    ~~~
 * 디렉토리 규칙
     * ./src[대분류]/[소분류]
     * 2단 을 유지. 소분류의 경우 모든 이름이 unique 하도록 명명한다.

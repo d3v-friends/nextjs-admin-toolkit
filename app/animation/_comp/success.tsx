@@ -1,6 +1,6 @@
 "use client";
 
-import {Animation, Button} from "@root";
+import {AnimSuccess, Button} from "@root";
 import {useState} from "react";
 
 export default function () {
@@ -8,7 +8,7 @@ export default function () {
 
 	return (
 		<>
-			<Animation.Success
+			<AnimSuccess
 				loop={loop}
 				className={"mb-10"}
 			/>

@@ -1,0 +1,34 @@
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+import { Flat } from "../..";
+import Image from "next/image";
+import { fnCss } from "nextjs-tools";
+export default function ({ className, width = 120, height = 120, stroke = 6, color = "success", loop = true }) {
+    const cx = width / 2;
+    const cy = height / 2;
+    const r = Math.min(width, height) / 2 - 10;
+    const animationCssWrapper = loop ? "draw-svg loop" : "draw-svg";
+    const computedColor = getColor(color);
+    return (_jsx("div", { className: fnCss.concat(animationCssWrapper, className), children: _jsxs("svg", { className: "draw-svg", width: width, height: height, viewBox: `0 0 ${width} ${height}`, style: { "--cx": cx, "--cy": cy, "--r": r }, children: [_jsx("circle", { className: "inner-circle", cx: cx, cy: cy, r: r, fill: computedColor, strokeWidth: "none" }), _jsx("circle", { className: "outer-circle", cx: cx, cy: cy, r: r, fill: computedColor, strokeWidth: "none" }), _jsx("circle", { className: "draw-circle", cx: cx, cy: cy, r: r, fill: "none", stroke: computedColor, strokeWidth: stroke }), _jsx("foreignObject", { x: 0, y: 0, width: width, height: height, children: _jsx("div", { className: "check-svg", children: _jsx(Image, { src: Flat.Check, className: "check-svg", width: width, height: height, alt: "success" }) }) })] }) }));
+}
+const validColorStyle = [
+    "primary",
+    "secondary",
+    "primary",
+    "secondary",
+    "success",
+    "info",
+    "warning",
+    "danger",
+    "light",
+    "dark",
+    "pink",
+    "purple",
+    "blue",
+];
+const getColor = (color) => {
+    if (validColorStyle.includes(color)) {
+        return `var(--${color})`;
+    }
+    return color;
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYW5pbWF0aW9uL2FuaW0tc3VjY2Vzcy9pbmRleC50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUNBLE9BQU8sRUFBYSxJQUFJLEVBQUMsTUFBTSxPQUFPLENBQUM7QUFDdkMsT0FBTyxLQUFLLE1BQU0sWUFBWSxDQUFDO0FBQy9CLE9BQU8sRUFBQyxLQUFLLEVBQUMsTUFBTSxjQUFjLENBQUM7QUFXbkMsTUFBTSxDQUFDLE9BQU8sV0FBVyxFQUFDLFNBQVMsRUFBRSxLQUFLLEdBQUcsR0FBRyxFQUFFLE1BQU0sR0FBRyxHQUFHLEVBQUUsTUFBTSxHQUFHLENBQUMsRUFBRSxLQUFLLEdBQUcsU0FBUyxFQUFFLElBQUksR0FBRyxJQUFJLEVBQVE7SUFDakgsTUFBTSxFQUFFLEdBQUcsS0FBSyxHQUFHLENBQUMsQ0FBQztJQUNyQixNQUFNLEVBQUUsR0FBRyxNQUFNLEdBQUcsQ0FBQyxDQUFDO0lBQ3RCLE1BQU0sQ0FBQyxHQUFHLElBQUksQ0FBQyxHQUFHLENBQUMsS0FBSyxFQUFFLE1BQU0sQ0FBQyxHQUFHLENBQUMsR0FBRyxFQUFFLENBQUM7SUFFM0MsTUFBTSxtQkFBbUIsR0FBRyxJQUFJLENBQUMsQ0FBQyxDQUFDLGVBQWUsQ0FBQyxDQUFDLENBQUMsVUFBVSxDQUFDO0lBQ2hFLE1BQU0sYUFBYSxHQUFHLFFBQVEsQ0FBQyxLQUFLLENBQUMsQ0FBQztJQUV0QyxPQUFPLENBQ04sY0FBSyxTQUFTLEVBQUUsS0FBSyxDQUFDLE1BQU0sQ0FBQyxtQkFBbUIsRUFBRSxTQUFTLENBQUMsWUFDM0QsZUFDQyxTQUFTLEVBQUUsVUFBVSxFQUNyQixLQUFLLEVBQUUsS0FBSyxFQUNaLE1BQU0sRUFBRSxNQUFNLEVBQ2QsT0FBTyxFQUFFLE9BQU8sS0FBSyxJQUFJLE1BQU0sRUFBRSxFQUNqQyxLQUFLLEVBQUUsRUFBQyxNQUFNLEVBQUUsRUFBRSxFQUFFLE1BQU0sRUFBRSxFQUFFLEVBQUUsS0FBSyxFQUFFLENBQUMsRUFBa0IsYUFDMUQsaUJBQ0MsU0FBUyxFQUFFLGNBQWMsRUFDekIsRUFBRSxFQUFFLEVBQUUsRUFDTixFQUFFLEVBQUUsRUFBRSxFQUNOLENBQUMsRUFBRSxDQUFDLEVBQ0osSUFBSSxFQUFFLGFBQWEsRUFDbkIsV0FBVyxFQUFDLE1BQU0sR0FDakIsRUFDRixpQkFDQyxTQUFTLEVBQUUsY0FBYyxFQUN6QixFQUFFLEVBQUUsRUFBRSxFQUNOLEVBQUUsRUFBRSxFQUFFLEVBQ04sQ0FBQyxFQUFFLENBQUMsRUFDSixJQUFJLEVBQUUsYUFBYSxFQUNuQixXQUFXLEVBQUMsTUFBTSxHQUNqQixFQUNGLGlCQUNDLFNBQVMsRUFBQyxhQUFhLEVBQ3ZCLEVBQUUsRUFBRSxFQUFFLEVBQ04sRUFBRSxFQUFFLEVBQUUsRUFDTixDQUFDLEVBQUUsQ0FBQyxFQUNKLElBQUksRUFBQyxNQUFNLEVBQ1gsTUFBTSxFQUFFLGFBQWEsRUFDckIsV0FBVyxFQUFFLE1BQU0sR0FDbEIsRUFDRix3QkFDQyxDQUFDLEVBQUUsQ0FBQyxFQUNKLENBQUMsRUFBRSxDQUFDLEVBQ0osS0FBSyxFQUFFLEtBQUssRUFDWixNQUFNLEVBQUUsTUFBTSxZQUNkLGNBQUssU0FBUyxFQUFFLFdBQVcsWUFDMUIsS0FBQyxLQUFLLElBQ0wsR0FBRyxFQUFFLElBQUksQ0FBQyxLQUFLLEVBQ2YsU0FBUyxFQUFFLFdBQVcsRUFDdEIsS0FBSyxFQUFFLEtBQUssRUFDWixNQUFNLEVBQUUsTUFBTSxFQUNkLEdBQUcsRUFBRSxTQUFTLEdBQ2IsR0FDRyxHQUNTLElBQ1gsR0FDRCxDQUNOLENBQUM7QUFDSCxDQUFDO0FBRUQsTUFBTSxlQUFlLEdBQWlCO0lBQ3JDLFNBQVM7SUFDVCxXQUFXO0lBQ1gsU0FBUztJQUNULFdBQVc7SUFDWCxTQUFTO0lBQ1QsTUFBTTtJQUNOLFNBQVM7SUFDVCxRQUFRO0lBQ1IsT0FBTztJQUNQLE1BQU07SUFDTixNQUFNO0lBQ04sUUFBUTtJQUNSLE1BQU07Q0FDTixDQUFDO0FBRUYsTUFBTSxRQUFRLEdBQUcsQ0FBQyxLQUEwQixFQUFVLEVBQUU7SUFDdkQsSUFBSSxlQUFlLENBQUMsUUFBUSxDQUFDLEtBQW1CLENBQUMsRUFBRSxDQUFDO1FBQ25ELE9BQU8sU0FBUyxLQUFLLEdBQUcsQ0FBQztJQUMxQixDQUFDO0lBQ0QsT0FBTyxLQUFLLENBQUM7QUFDZCxDQUFDLENBQUMifQ==

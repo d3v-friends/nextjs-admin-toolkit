@@ -1,0 +1,49 @@
+@use "tailwindcss";
+@use "animation";
+@use "color";
+@use "form";
+@use "layout";
+@use "modal";
+@use "pager";
+@use "size";
+@use "table";
+@use "tag";
+@use "value";
+@use "widget";
+
+@layer base {
+  body {
+
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .no-drag {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .border-all {
+    border: 1px solid var(--color-border);
+  }
+
+  .border-top {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .border-bottom {
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .border-left {
+    border-left: 1px solid var(--color-border);
+  }
+
+  .border-right {
+    border-right: 1px solid var(--color-border);
+  }
+}

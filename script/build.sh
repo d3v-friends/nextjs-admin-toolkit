@@ -1,12 +1,10 @@
 #!/bin/zsh
 
 
-rm ./**/*.js
-rm ./**/*.d.ts
-
-pnpm tailwindcss -o ./src/asset/style/tailwind.css;
+rm -rf ./dist
 
 tsc -p tsconfig.export.json;
+tsc-alias -p tsconfig.export.json --verbose;
 rm ./**/tsconfig.export.tsbuildinfo;
 
 pnpm git add .;
