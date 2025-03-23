@@ -1,8 +1,7 @@
 "use client";
 
+import {Animation, Button} from "@root";
 import {useState} from "react";
-import Animation from "../../../src/asset/animation";
-import {Button} from "@root";
 
 export default function () {
 	const [loop, setLoop] = useState(false);

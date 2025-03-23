@@ -1,7 +1,7 @@
-import Svg from "./svg";
-import ApplyStyle from "./style";
 import Animation from "./animation";
+import ApplyStyle from "./style";
+import Svg from "./svg";
 
 export * from "./svg";
-export {ApplyStyle};
+export {ApplyStyle, Animation};
 export default {Animation, Svg, ApplyStyle};
