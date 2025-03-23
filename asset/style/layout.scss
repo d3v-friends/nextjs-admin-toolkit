@@ -5,6 +5,12 @@
     --color-background-layout-section-3-aside-submenu: #e0f3ff;
   }
 
+  html.dark {
+    --color-background-body: #2a2f39;
+    --color-background-nav: #282e38;
+    --color-background-layout-section-3-aside-submenu: #e0f3ff;
+  }
+
   // section-3
   .layout-section-3-aside-submenu {
     color: var(--light);
@@ -32,11 +38,18 @@
       filter: var(--purple-filter);
     }
   }
+}
 
-  // panel
+// panel
+@layer base {
   html {
     --color-panel-background: #fff;
     --color-panel-border: #d8d8d8;
+  }
+
+  html.dark {
+    --color-panel-background: #333845;
+    --color-panel-border: transparent;
   }
 
   .layout-panel {

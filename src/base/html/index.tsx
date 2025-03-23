@@ -1,21 +1,23 @@
-import {Viewport} from "next";
+"use server";
 import React, {ReactNode} from "react";
 import {ScssProvider} from "../..";
+import {cookies} from "next/headers";
+import {validate} from "../theme/fn";
 
 interface Props {
 	lang?: string;
 	children?: ReactNode;
 }
 
-export const viewport: Viewport = {
-	width: "device-width",
-	initialScale: 1.0,
-};
+export default async function ({children, lang}: Readonly<Props>) {
+	const c = await cookies();
+	const theme = validate(c.get("theme")?.value || "light");
 
-export default function ({children, lang}: Readonly<Props>) {
 	return (
 		<ScssProvider>
-			<html lang={lang || "en"}>
+			<html
+				lang={lang || "en"}
+				className={theme}>
 				<body className="text-12 lg:text-16 bg-(--color-background-body)">{children}</body>
 			</html>
 		</ScssProvider>

@@ -1,11 +1,12 @@
 import {Flat, HTML, Section3} from "@root";
 import {NextLayoutProps} from "nextjs-tools";
+import Header from "./_comp/header";
 
 export default async function ({children}: NextLayoutProps) {
 	return (
 		<HTML>
 			<Section3
-				top={"Top"}
+				top={<Header />}
 				header={{
 					iconSrc: Flat.MenuBurger,
 					children: "Title",
