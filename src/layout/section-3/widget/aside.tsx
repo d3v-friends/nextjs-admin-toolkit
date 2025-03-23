@@ -11,34 +11,26 @@ interface Props {
 export default function ({children, open, onClose}: Readonly<Props>) {
 	return (
 		<>
-			{open && (
-				<aside
-					className={fnCss.sum(`
-						lg:hidden fixed top-0 left-0 w-full h-full
-						backdrop-blur-xs backdrop-grayscale-40
-						bg-(--color-background-modal)
-					`)}
-					onClick={() => onClose()}>
-					<div
-						className={fnCss.sum(`
-							fixed left-0 top-0 w-4/5 h-full
-							overflow-hidden overscroll-y-auto 
-							bg-(--color-background-nav)	
-							border-right
-						`)}>
-						{children}
-					</div>
-				</aside>
-			)}
 			<aside
 				className={fnCss.sum(`
-					hidden lg:block
-					w-(--width-aside) fixed top-0 left-0 h-full 
+					w-(--width-aside) fixed lg:fixed top-0 left-0 h-full z-3 lg:z-auto
 					overflow-hidden overscroll-y-auto 
 					bg-(--color-background-nav) border-right
+					transition-transform duration-300 lg:translate-x-0 ${open ? "translate-x-0" : "-translate-x-full"}
 				`)}>
 				{children}
 			</aside>
+			{open && (
+				<div
+					className={fnCss.concat(
+						"fixed lg:hidden top-0 left-0 z-2",
+						"w-screen h-full min-h-screen",
+						"transition-opacity duration-300",
+						open ? "backdrop-blur-sm" : "opacity-0 pointer-events-none"
+					)}
+					onClick={onClose}
+				/>
+			)}
 		</>
 	);
 }
