@@ -1,4 +1,5 @@
 import HTML from "./html";
+import ThemeToggle from "./theme/toggle";
 
-export {HTML};
-export default {HTML};
+export {HTML, ThemeToggle};
+export default {HTML, ThemeToggle};

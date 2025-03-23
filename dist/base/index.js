@@ -1,4 +1,5 @@
 import HTML from "./html";
-export { HTML };
-export default { HTML };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvYmFzZS9pbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLElBQUksTUFBTSxRQUFRLENBQUM7QUFFMUIsT0FBTyxFQUFDLElBQUksRUFBQyxDQUFDO0FBQ2QsZUFBZSxFQUFDLElBQUksRUFBQyxDQUFDIn0=
+import ThemeToggle from "./theme/toggle";
+export { HTML, ThemeToggle };
+export default { HTML, ThemeToggle };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvYmFzZS9pbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLElBQUksTUFBTSxRQUFRLENBQUM7QUFDMUIsT0FBTyxXQUFXLE1BQU0sZ0JBQWdCLENBQUM7QUFFekMsT0FBTyxFQUFDLElBQUksRUFBRSxXQUFXLEVBQUMsQ0FBQztBQUMzQixlQUFlLEVBQUMsSUFBSSxFQUFFLFdBQVcsRUFBQyxDQUFDIn0=
