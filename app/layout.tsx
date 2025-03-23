@@ -41,6 +41,11 @@ export default async function ({children}: NextLayoutProps) {
 								iconSrc: Flat.TextInputLeft,
 								href: "/value",
 							},
+							{
+								title: "Animation",
+								iconSrc: Flat.Refresh,
+								href: "/animation",
+							},
 						],
 					},
 					{
