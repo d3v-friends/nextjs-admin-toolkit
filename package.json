@@ -1,6 +1,6 @@
 {
   "name": "nextjs-admin-toolkit",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "scripts": {
     "dev": "source .env && PORT=$PORT NODE_OPTIONS='--inspect --enable-source-maps=true' next dev --turbopack",
     "export": "sh ./script/build.sh",
