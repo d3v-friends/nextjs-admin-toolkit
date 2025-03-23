@@ -1,7 +1,7 @@
-import "prismjs/themes/prism-okaidia.css";
+import "prismjs/plugins/line-numbers/prism-line-numbers.css";
+import "prismjs/themes/prism-okaidia.min.css";
 import "prismjs/components/prism-go";
 import "prismjs/components/prism-typescript";
-import "prismjs/plugins/line-numbers/prism-line-numbers.css";
 interface Props {
     className?: string;
     children?: string;

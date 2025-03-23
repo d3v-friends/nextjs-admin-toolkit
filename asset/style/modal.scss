@@ -2,6 +2,12 @@
   html {
     --color-background-modal: rgba(0, 0, 0, 0.3);
     --color-background-modal-content: #fff;
-    --color-hover-modal-close-button: #444444;
+    --filter-hover-modal-close-button: invert(26%) sepia(8%) saturate(11%) hue-rotate(2deg) brightness(89%) contrast(88%);
+  }
+
+  html.dark {
+    --color-background-modal: rgba(0, 0, 0, 0.3);
+    --color-background-modal-content: #40454b;
+    --filter-hover-modal-close-button: invert(67%) sepia(91%) saturate(3%) hue-rotate(335deg) brightness(101%) contrast(91%);
   }
 }

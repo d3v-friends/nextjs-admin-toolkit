@@ -6,12 +6,14 @@ import rehype from "remark-rehype";
 import stringify from "rehype-stringify";
 import {unified} from "unified";
 import prism from "rehype-prism";
+import {validate} from "../../base/theme/fn";
+import {cookies} from "next/headers";
 
 // todo 추후 테마에 따라 다른 css 불러오는 방식에 대해서 고민해보기
-import "prismjs/themes/prism-okaidia.css";
+import "prismjs/plugins/line-numbers/prism-line-numbers.css";
+import "prismjs/themes/prism-okaidia.min.css";
 import "prismjs/components/prism-go";
 import "prismjs/components/prism-typescript";
-import "prismjs/plugins/line-numbers/prism-line-numbers.css";
 
 interface Props {
 	className?: string;
@@ -27,6 +29,17 @@ export default async function ({children = "", className}: Readonly<Props>) {
 		.use(prism, {plugins: ["line-numbers"]})
 		.use(stringify)
 		.process(children);
+
+	const c = await cookies();
+	const theme = validate(c.get("theme")?.value || "light");
+
+	switch (theme) {
+		case "dark":
+			break;
+		case "light":
+			break;
+	}
+
 	return (
 		<div
 			className={className}

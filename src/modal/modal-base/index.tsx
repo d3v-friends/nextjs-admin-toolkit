@@ -26,7 +26,7 @@ export default function ({open, onClose, children, disableEscapeKey, disableBack
 					<div className="w-full pb-2 flex justify-end">
 						<Image
 							className={fnCss.concat(
-								"hover:bg-(--color-hover-modal-close-button) p-[0.2rem] cursor-pointer rounded-full"
+								"p-[0.2rem] cursor-pointer rounded-full filter-(--filter-hover-modal-close-button)"
 							)}
 							width={30}
 							height={30}

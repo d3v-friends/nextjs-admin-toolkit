@@ -1,6 +1,12 @@
 @layer base {
   html {
     --color-h: #495057;
+    color: #373737;
+  }
+
+  html.dark {
+    --color-h: #fff;
+    color: #d4d4d4;
   }
 
   h1, h2, h3, h4, h5, h6 {
