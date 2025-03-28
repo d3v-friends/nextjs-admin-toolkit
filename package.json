@@ -1,6 +1,6 @@
 {
   "name": "nextjs-admin-toolkit",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "scripts": {
     "dev": "source .env && PORT=$PORT NODE_OPTIONS='--inspect --enable-source-maps=true' next dev --turbopack",
     "export": "sh ./script/build.sh",
@@ -15,13 +15,13 @@
   "dependencies": {
     "luxon": "3.5.0",
     "next": "15.2.1",
-    "nextjs-tools": "github:d3v-friends/nextjs-tools#0.1.22",
+    "nextjs-tools": "github:d3v-friends/nextjs-tools#0.1.23",
     "prismjs": "1.30.0",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-markdown": "10.1.0",
-    "rehype-highlight": "^7.0.2",
-    "rehype-prism": "^2.3.3",
+    "rehype-highlight": "7.0.2",
+    "rehype-prism": "2.3.3",
     "rehype-stringify": "10.0.1",
     "remark-gfm": "4.0.1",
     "remark-parse": "11.0.0",

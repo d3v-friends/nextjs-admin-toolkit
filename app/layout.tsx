@@ -1,4 +1,4 @@
-import {Flat, HTML, Section3} from "@root";
+import {Flat, FlatForm, FlatIconStar, HTML, Section3} from "@root";
 import {NextLayoutProps} from "nextjs-tools";
 import Header from "./_comp/header";
 
@@ -47,6 +47,11 @@ export default async function ({children}: NextLayoutProps) {
 								iconSrc: Flat.Refresh,
 								href: "/animation",
 							},
+							{
+								title: "Icon",
+								iconSrc: FlatIconStar,
+								href: "/icon",
+							},
 						],
 					},
 					{
@@ -57,6 +62,11 @@ export default async function ({children}: NextLayoutProps) {
 								title: "action",
 								iconSrc: Flat.RocketLaunch,
 								href: "/action",
+							},
+							{
+								title: "form",
+								iconSrc: FlatForm,
+								href: "/form",
 							},
 						],
 					},
