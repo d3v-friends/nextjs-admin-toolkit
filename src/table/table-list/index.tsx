@@ -22,6 +22,7 @@ export default function <T>({className, cols, list, empty}: Props<T>) {
 						<RowBuilder
 							cols={cols}
 							value={row}
+							index={key}
 						/>
 					</tr>
 				))}
