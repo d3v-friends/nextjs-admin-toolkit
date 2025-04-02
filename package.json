@@ -1,8 +1,8 @@
 {
   "name": "nextjs-admin-toolkit",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "scripts": {
-    "dev": "source .env && PORT=$PORT NODE_OPTIONS='--inspect --enable-source-maps=true' next dev --turbopack",
+    "dev": "source .env && PORT=$PORT next dev --turbopack",
     "export": "sh ./script/build.sh",
     "tag": "sh ./script/tag.sh $(jq \".version\" package.json | tr -d '\"')"
   },
@@ -13,6 +13,7 @@
     "url": "https://github.com/d3v-friends/nextjs-admin-toolkit"
   },
   "dependencies": {
+    "@flaticon/flaticon-uicons": "3.3.1",
     "luxon": "3.5.0",
     "next": "15.2.1",
     "nextjs-tools": "github:d3v-friends/nextjs-tools#0.1.23",

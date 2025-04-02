@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import {usePathname} from "next/navigation";
 import React, {ReactNode, useState} from "react";
-import {Flat} from "../../..";
+import {FlatAngleSmallDown, FlatAngleSmallUp} from "../../..";
 
 type AsideMenu = Pick<MenuProps, "title" | "collapsed"> & {submenus: SubmenuProps[]};
 
@@ -68,7 +68,7 @@ export interface MenuProps {
 
 function Menu({children, collapsed, title}: Readonly<MenuProps>) {
 	const [collapse, setCollapse] = useState(collapsed);
-	const icon = collapse ? Flat.AngleSmallDown : Flat.AngleSmallUp;
+	const icon = collapse ? FlatAngleSmallDown : FlatAngleSmallUp;
 
 	return (
 		<>

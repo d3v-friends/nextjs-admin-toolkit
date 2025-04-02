@@ -11,7 +11,7 @@ export default function <T>({cols, value}: Readonly<Props<T>>) {
 		<td
 			key={key}
 			className={v.cellClassName}>
-			{v.parser(value)}
+			{v.parser(value, key)}
 		</td>
 	));
 }

@@ -1,9 +1,9 @@
 "use client";
-import {Dazzle} from "../..";
-import Backdrop, {Props as BaseProps} from "../modal-backdrop";
 import Image from "next/image";
 import {fnCss} from "nextjs-tools";
 import React from "react";
+import {FlatCross} from "../..";
+import Backdrop, {Props as BaseProps} from "../modal-backdrop";
 
 type Props = {
 	disableCloseButton?: boolean;
@@ -30,7 +30,7 @@ export default function ({open, onClose, children, disableEscapeKey, disableBack
 							)}
 							width={30}
 							height={30}
-							src={Dazzle.Cross}
+							src={FlatCross}
 							alt={"close"}
 							onClick={onClose}
 						/>

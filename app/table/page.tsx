@@ -25,7 +25,7 @@ const cols: TableCol<ArrayElement<typeof list>>[] = [
 		colClassName: "w-0 lg:w-2/4",
 		headerClassName: "hidden lg:table-cell",
 		cellClassName: "hidden lg:table-cell",
-		parser: (v) => <>{v.height}</>,
+		parser: (v, i) => <>{v.height}</>,
 	},
 ];
 

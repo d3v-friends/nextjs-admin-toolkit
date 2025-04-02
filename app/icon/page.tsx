@@ -12,7 +12,7 @@ export default async function ({searchParams}: NextPageProps) {
 		size: 50,
 	});
 
-	const ls = fs.readdirSync("./asset/svg/flat-origin/svg");
+	const ls = fs.readdirSync("./asset/svg/flat");
 
 	// const imports = ls.map(
 	// 	(v) => `import Flat${toPascalCase(v.slice(6, v.length - 4))} from "../../asset/svg/flat-origin/svg/${v}";`
@@ -38,7 +38,7 @@ export default async function ({searchParams}: NextPageProps) {
 								className="light"
 								width={30}
 								height={30}
-								src={require(`../../asset/svg/flat-origin/svg/${v}`).default}
+								src={require(`../../asset/svg/flat/${v}`).default}
 								alt={`${v}`}
 							/>
 						</div>

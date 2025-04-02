@@ -1,7 +1,7 @@
-import {Flat} from "../..";
-import Base, {Props as BaseProps} from "../v-base";
-import React from "react";
 import {DateTime} from "luxon";
+import React from "react";
+import {FlatClock} from "../..";
+import Base, {Props as BaseProps} from "../v-base";
 
 type Props = Pick<BaseProps, "className" | "align" | "copy"> & {
 	children: string;
@@ -22,7 +22,7 @@ export default function ({className, align, copy, timezone, hideTime, hideDate, 
 	return (
 		<Base
 			{...{className, align, copy}}
-			iconSrc={Flat.Clock}>
+			iconSrc={FlatClock}>
 			{DateTime.fromISO(children).setZone(timezone).toFormat(format)}
 		</Base>
 	);

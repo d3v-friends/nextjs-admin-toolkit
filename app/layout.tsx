@@ -1,4 +1,17 @@
-import {Flat, FlatForm, FlatIconStar, HTML, Section3} from "@root";
+import {
+	FlatForm,
+	FlatIconStar,
+	FlatMenuBurger,
+	FlatMenuDots,
+	FlatRefresh,
+	FlatRocketLunch,
+	FlatSubscriptionAlt,
+	FlatTableLayout,
+	FlatTextInputLeft,
+	FlatWindowRestore,
+	HTML,
+	Section3,
+} from "@root";
 import {NextLayoutProps} from "nextjs-tools";
 import Header from "./_comp/header";
 
@@ -8,7 +21,7 @@ export default async function ({children}: NextLayoutProps) {
 			<Section3
 				top={<Header />}
 				header={{
-					iconSrc: Flat.MenuBurger,
+					iconSrc: FlatMenuBurger,
 					children: "Title",
 					href: "/",
 				}}
@@ -19,32 +32,32 @@ export default async function ({children}: NextLayoutProps) {
 						submenus: [
 							{
 								title: "Button",
-								iconSrc: Flat.SubscriptionAlt,
+								iconSrc: FlatSubscriptionAlt,
 								href: "/button",
 							},
 							{
 								title: "Modal",
-								iconSrc: Flat.WindowRestore,
+								iconSrc: FlatWindowRestore,
 								href: "/modal",
 							},
 							{
 								title: "Pager",
-								iconSrc: Flat.MenuDots,
+								iconSrc: FlatMenuDots,
 								href: "/pager",
 							},
 							{
 								title: "Table",
-								iconSrc: Flat.TableLayout,
+								iconSrc: FlatTableLayout,
 								href: "/table",
 							},
 							{
 								title: "Value",
-								iconSrc: Flat.TextInputLeft,
+								iconSrc: FlatTextInputLeft,
 								href: "/value",
 							},
 							{
 								title: "Animation",
-								iconSrc: Flat.Refresh,
+								iconSrc: FlatRefresh,
 								href: "/animation",
 							},
 							{
@@ -60,7 +73,7 @@ export default async function ({children}: NextLayoutProps) {
 						submenus: [
 							{
 								title: "action",
-								iconSrc: Flat.RocketLaunch,
+								iconSrc: FlatRocketLunch,
 								href: "/action",
 							},
 							{

@@ -1,5 +1,6 @@
 import { ReactNode } from "react";
 import Action from "./action";
+import Animation from "./animation";
 import Asset from "./asset";
 import Base from "./base";
 import Form from "./form";
@@ -9,7 +10,6 @@ import Pager from "./pager";
 import Table from "./table";
 import Value from "./value";
 import Widget from "./widget";
-import Animation from "./animation";
 export { Asset, Base, Layout, Widget, Value, Modal, Pager, Form, Action, Table, Animation };
 export * from "./action";
 export * from "./asset";
@@ -25,7 +25,7 @@ export * from "./animation";
 export type ColorStyle = "primary" | "secondary" | "success" | "info" | "warning" | "danger" | "light" | "dark" | "pink" | "purple" | "blue";
 export type TableCol<T> = {
     name: ReactNode;
-    parser: (v: T) => ReactNode;
+    parser: (v: T, i: number) => ReactNode;
     colClassName?: string;
     headerClassName?: string;
     cellClassName?: string;

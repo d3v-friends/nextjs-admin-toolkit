@@ -1,7 +1,7 @@
-import {CSSProperties} from "react";
-import {ColorStyle, Flat} from "../..";
 import Image from "next/image";
 import {fnCss} from "nextjs-tools";
+import {CSSProperties} from "react";
+import {ColorStyle, FlatCheck} from "../..";
 
 type Props = {
 	className?: string;
@@ -60,7 +60,7 @@ export default function ({className, width = 120, height = 120, stroke = 6, colo
 					height={height}>
 					<div className={"check-svg"}>
 						<Image
-							src={Flat.Check}
+							src={FlatCheck}
 							className={"check-svg"}
 							width={width}
 							height={height}
