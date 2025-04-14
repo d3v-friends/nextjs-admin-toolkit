@@ -1,0 +1,3 @@
+import FlatRegularMusicNote from "../../../asset/svg/regular/fi-rr-music-note.svg";
+export { FlatRegularMusicNote };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW11c2ljLW5vdGUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItbXVzaWMtbm90ZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLG9CQUFvQixNQUFNLGlEQUFpRCxDQUFDO0FBQ3BGLE9BQU8sRUFBQyxvQkFBb0IsRUFBQyxDQUFDIn0=

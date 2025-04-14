@@ -1,0 +1,3 @@
+import FlatRegularItAlt from "../../../asset/svg/regular/fi-rr-it-alt.svg";
+export { FlatRegularItAlt };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWl0LWFsdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1pdC1hbHQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxnQkFBZ0IsTUFBTSw2Q0FBNkMsQ0FBQztBQUM1RSxPQUFPLEVBQUMsZ0JBQWdCLEVBQUMsQ0FBQyJ9

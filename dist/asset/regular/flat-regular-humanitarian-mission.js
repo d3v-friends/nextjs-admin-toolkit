@@ -1,0 +1,3 @@
+import FlatRegularHumanitarianMission from "../../../asset/svg/regular/fi-rr-humanitarian-mission.svg";
+export { FlatRegularHumanitarianMission };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWh1bWFuaXRhcmlhbi1taXNzaW9uLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWh1bWFuaXRhcmlhbi1taXNzaW9uLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsOEJBQThCLE1BQU0sMkRBQTJELENBQUM7QUFDeEcsT0FBTyxFQUFDLDhCQUE4QixFQUFDLENBQUMifQ==

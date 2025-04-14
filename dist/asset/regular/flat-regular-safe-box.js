@@ -1,0 +1,3 @@
+import FlatRegularSafeBox from "../../../asset/svg/regular/fi-rr-safe-box.svg";
+export { FlatRegularSafeBox };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNhZmUtYm94LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXNhZmUtYm94LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsa0JBQWtCLE1BQU0sK0NBQStDLENBQUM7QUFDaEYsT0FBTyxFQUFDLGtCQUFrQixFQUFDLENBQUMifQ==

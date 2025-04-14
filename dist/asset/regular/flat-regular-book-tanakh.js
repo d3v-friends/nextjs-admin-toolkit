@@ -1,0 +1,3 @@
+import FlatRegularBookTanakh from "../../../asset/svg/regular/fi-rr-book-tanakh.svg";
+export { FlatRegularBookTanakh };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJvb2stdGFuYWtoLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWJvb2stdGFuYWtoLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEscUJBQXFCLE1BQU0sa0RBQWtELENBQUM7QUFDdEYsT0FBTyxFQUFDLHFCQUFxQixFQUFDLENBQUMifQ==

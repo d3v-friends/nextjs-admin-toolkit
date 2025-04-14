@@ -1,0 +1,3 @@
+import FlatRegularPassword from "../../../asset/svg/regular/fi-rr-password.svg";
+export { FlatRegularPassword };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBhc3N3b3JkLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXBhc3N3b3JkLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsbUJBQW1CLE1BQU0sK0NBQStDLENBQUM7QUFDakYsT0FBTyxFQUFDLG1CQUFtQixFQUFDLENBQUMifQ==

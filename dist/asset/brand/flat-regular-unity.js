@@ -1,0 +1,3 @@
+import FlatRegularUnity from "../../../asset/svg/brand/fi-brands-unity.svg";
+export { FlatRegularUnity };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXVuaXR5LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtcmVndWxhci11bml0eS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGdCQUFnQixNQUFNLDhDQUE4QyxDQUFDO0FBQzdFLE9BQU8sRUFBQyxnQkFBZ0IsRUFBQyxDQUFDIn0=

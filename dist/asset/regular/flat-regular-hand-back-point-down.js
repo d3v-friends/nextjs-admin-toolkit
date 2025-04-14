@@ -1,0 +1,3 @@
+import FlatRegularHandBackPointDown from "../../../asset/svg/regular/fi-rr-hand-back-point-down.svg";
+export { FlatRegularHandBackPointDown };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWhhbmQtYmFjay1wb2ludC1kb3duLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWhhbmQtYmFjay1wb2ludC1kb3duLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNEJBQTRCLE1BQU0sMkRBQTJELENBQUM7QUFDdEcsT0FBTyxFQUFDLDRCQUE0QixFQUFDLENBQUMifQ==

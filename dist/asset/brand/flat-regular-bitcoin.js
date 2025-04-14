@@ -1,0 +1,3 @@
+import FlatRegularBitcoin from "../../../asset/svg/brand/fi-brands-bitcoin.svg";
+export { FlatRegularBitcoin };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJpdGNvaW4uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLWJpdGNvaW4udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxrQkFBa0IsTUFBTSxnREFBZ0QsQ0FBQztBQUNqRixPQUFPLEVBQUMsa0JBQWtCLEVBQUMsQ0FBQyJ9

@@ -1,0 +1,3 @@
+import FlatRegularClapperboardPlay from "../../../asset/svg/regular/fi-rr-clapperboard-play.svg";
+export { FlatRegularClapperboardPlay };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNsYXBwZXJib2FyZC1wbGF5LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNsYXBwZXJib2FyZC1wbGF5LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsMkJBQTJCLE1BQU0sd0RBQXdELENBQUM7QUFDbEcsT0FBTyxFQUFDLDJCQUEyQixFQUFDLENBQUMifQ==

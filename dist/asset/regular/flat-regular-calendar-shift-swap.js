@@ -1,0 +1,3 @@
+import FlatRegularCalendarShiftSwap from "../../../asset/svg/regular/fi-rr-calendar-shift-swap.svg";
+export { FlatRegularCalendarShiftSwap };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNhbGVuZGFyLXNoaWZ0LXN3YXAuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItY2FsZW5kYXItc2hpZnQtc3dhcC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDRCQUE0QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3JHLE9BQU8sRUFBQyw0QkFBNEIsRUFBQyxDQUFDIn0=

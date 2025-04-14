@@ -1,0 +1,3 @@
+import FlatRegularIntroduction from "../../../asset/svg/regular/fi-rr-introduction.svg";
+export { FlatRegularIntroduction };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWludHJvZHVjdGlvbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1pbnRyb2R1Y3Rpb24udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx1QkFBdUIsTUFBTSxtREFBbUQsQ0FBQztBQUN6RixPQUFPLEVBQUMsdUJBQXVCLEVBQUMsQ0FBQyJ9

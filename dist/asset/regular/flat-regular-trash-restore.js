@@ -1,0 +1,3 @@
+import FlatRegularTrashRestore from "../../../asset/svg/regular/fi-rr-trash-restore.svg";
+export { FlatRegularTrashRestore };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRyYXNoLXJlc3RvcmUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItdHJhc2gtcmVzdG9yZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHVCQUF1QixNQUFNLG9EQUFvRCxDQUFDO0FBQzFGLE9BQU8sRUFBQyx1QkFBdUIsRUFBQyxDQUFDIn0=

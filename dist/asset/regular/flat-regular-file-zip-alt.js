@@ -1,0 +1,3 @@
+import FlatRegularFileZipAlt from "../../../asset/svg/regular/fi-rr-file-zip-alt.svg";
+export { FlatRegularFileZipAlt };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZpbGUtemlwLWFsdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1maWxlLXppcC1hbHQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxxQkFBcUIsTUFBTSxtREFBbUQsQ0FBQztBQUN2RixPQUFPLEVBQUMscUJBQXFCLEVBQUMsQ0FBQyJ9

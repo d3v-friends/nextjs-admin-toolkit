@@ -1,0 +1,3 @@
+import FlatRegularSpeedometerArrow from "../../../asset/svg/regular/fi-rr-speedometer-arrow.svg";
+export { FlatRegularSpeedometerArrow };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNwZWVkb21ldGVyLWFycm93LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXNwZWVkb21ldGVyLWFycm93LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsMkJBQTJCLE1BQU0sd0RBQXdELENBQUM7QUFDbEcsT0FBTyxFQUFDLDJCQUEyQixFQUFDLENBQUMifQ==

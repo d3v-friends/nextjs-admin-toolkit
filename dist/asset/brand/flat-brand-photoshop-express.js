@@ -1,0 +1,3 @@
+import FlatBrandPhotoshopExpress from "../../../asset/svg/brand/fi-brands-photoshop-express.svg";
+export { FlatBrandPhotoshopExpress };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1waG90b3Nob3AtZXhwcmVzcy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LWJyYW5kLXBob3Rvc2hvcC1leHByZXNzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEseUJBQXlCLE1BQU0sMERBQTBELENBQUM7QUFDbEcsT0FBTyxFQUFDLHlCQUF5QixFQUFDLENBQUMifQ==

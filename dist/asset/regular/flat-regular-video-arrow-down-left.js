@@ -1,0 +1,3 @@
+import FlatRegularVideoArrowDownLeft from "../../../asset/svg/regular/fi-rr-video-arrow-down-left.svg";
+export { FlatRegularVideoArrowDownLeft };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXZpZGVvLWFycm93LWRvd24tbGVmdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci12aWRlby1hcnJvdy1kb3duLWxlZnQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw2QkFBNkIsTUFBTSw0REFBNEQsQ0FBQztBQUN4RyxPQUFPLEVBQUMsNkJBQTZCLEVBQUMsQ0FBQyJ9

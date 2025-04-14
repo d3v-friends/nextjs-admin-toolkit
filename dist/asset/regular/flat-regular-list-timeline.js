@@ -1,0 +1,3 @@
+import FlatRegularListTimeline from "../../../asset/svg/regular/fi-rr-list-timeline.svg";
+export { FlatRegularListTimeline };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWxpc3QtdGltZWxpbmUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItbGlzdC10aW1lbGluZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHVCQUF1QixNQUFNLG9EQUFvRCxDQUFDO0FBQzFGLE9BQU8sRUFBQyx1QkFBdUIsRUFBQyxDQUFDIn0=

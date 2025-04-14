@@ -1,0 +1,3 @@
+import FlatRegularBeautyMask from "../../../asset/svg/regular/fi-rr-beauty-mask.svg";
+export { FlatRegularBeautyMask };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJlYXV0eS1tYXNrLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWJlYXV0eS1tYXNrLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEscUJBQXFCLE1BQU0sa0RBQWtELENBQUM7QUFDdEYsT0FBTyxFQUFDLHFCQUFxQixFQUFDLENBQUMifQ==

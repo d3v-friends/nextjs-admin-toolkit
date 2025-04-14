@@ -1,0 +1,3 @@
+import FlatRegularNoFee from "../../../asset/svg/regular/fi-rr-no-fee.svg";
+export { FlatRegularNoFee };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW5vLWZlZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1uby1mZWUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxnQkFBZ0IsTUFBTSw2Q0FBNkMsQ0FBQztBQUM1RSxPQUFPLEVBQUMsZ0JBQWdCLEVBQUMsQ0FBQyJ9

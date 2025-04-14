@@ -1,0 +1,3 @@
+import FlatRegularLampDesk from "../../../asset/svg/regular/fi-rr-lamp-desk.svg";
+export { FlatRegularLampDesk };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWxhbXAtZGVzay5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1sYW1wLWRlc2sudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxtQkFBbUIsTUFBTSxnREFBZ0QsQ0FBQztBQUNsRixPQUFPLEVBQUMsbUJBQW1CLEVBQUMsQ0FBQyJ9

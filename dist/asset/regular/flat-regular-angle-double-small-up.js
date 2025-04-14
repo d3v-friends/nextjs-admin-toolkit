@@ -1,0 +1,3 @@
+import FlatRegularAngleDoubleSmallUp from "../../../asset/svg/regular/fi-rr-angle-double-small-up.svg";
+export { FlatRegularAngleDoubleSmallUp };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFuZ2xlLWRvdWJsZS1zbWFsbC11cC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1hbmdsZS1kb3VibGUtc21hbGwtdXAudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw2QkFBNkIsTUFBTSw0REFBNEQsQ0FBQztBQUN4RyxPQUFPLEVBQUMsNkJBQTZCLEVBQUMsQ0FBQyJ9

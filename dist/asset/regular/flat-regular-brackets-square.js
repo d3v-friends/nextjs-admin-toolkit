@@ -1,0 +1,3 @@
+import FlatRegularBracketsSquare from "../../../asset/svg/regular/fi-rr-brackets-square.svg";
+export { FlatRegularBracketsSquare };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJyYWNrZXRzLXNxdWFyZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1icmFja2V0cy1zcXVhcmUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx5QkFBeUIsTUFBTSxzREFBc0QsQ0FBQztBQUM5RixPQUFPLEVBQUMseUJBQXlCLEVBQUMsQ0FBQyJ9

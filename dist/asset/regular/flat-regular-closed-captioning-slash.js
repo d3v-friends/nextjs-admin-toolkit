@@ -1,0 +1,3 @@
+import FlatRegularClosedCaptioningSlash from "../../../asset/svg/regular/fi-rr-closed-captioning-slash.svg";
+export { FlatRegularClosedCaptioningSlash };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNsb3NlZC1jYXB0aW9uaW5nLXNsYXNoLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNsb3NlZC1jYXB0aW9uaW5nLXNsYXNoLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0NBQWdDLE1BQU0sOERBQThELENBQUM7QUFDN0csT0FBTyxFQUFDLGdDQUFnQyxFQUFDLENBQUMifQ==

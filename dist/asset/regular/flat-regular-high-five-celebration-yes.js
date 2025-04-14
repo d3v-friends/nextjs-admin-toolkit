@@ -1,0 +1,3 @@
+import FlatRegularHighFiveCelebrationYes from "../../../asset/svg/regular/fi-rr-high-five-celebration-yes.svg";
+export { FlatRegularHighFiveCelebrationYes };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWhpZ2gtZml2ZS1jZWxlYnJhdGlvbi15ZXMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItaGlnaC1maXZlLWNlbGVicmF0aW9uLXllcy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGlDQUFpQyxNQUFNLGdFQUFnRSxDQUFDO0FBQ2hILE9BQU8sRUFBQyxpQ0FBaUMsRUFBQyxDQUFDIn0=

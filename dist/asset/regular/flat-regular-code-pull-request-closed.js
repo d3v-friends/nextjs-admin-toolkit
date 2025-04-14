@@ -1,0 +1,3 @@
+import FlatRegularCodePullRequestClosed from "../../../asset/svg/regular/fi-rr-code-pull-request-closed.svg";
+export { FlatRegularCodePullRequestClosed };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNvZGUtcHVsbC1yZXF1ZXN0LWNsb3NlZC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1jb2RlLXB1bGwtcmVxdWVzdC1jbG9zZWQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxnQ0FBZ0MsTUFBTSwrREFBK0QsQ0FBQztBQUM5RyxPQUFPLEVBQUMsZ0NBQWdDLEVBQUMsQ0FBQyJ9

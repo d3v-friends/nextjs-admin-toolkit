@@ -1,0 +1,3 @@
+import FlatRegularHighlighterLine from "../../../asset/svg/regular/fi-rr-highlighter-line.svg";
+export { FlatRegularHighlighterLine };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWhpZ2hsaWdodGVyLWxpbmUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItaGlnaGxpZ2h0ZXItbGluZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDBCQUEwQixNQUFNLHVEQUF1RCxDQUFDO0FBQ2hHLE9BQU8sRUFBQywwQkFBMEIsRUFBQyxDQUFDIn0=

@@ -1,0 +1,3 @@
+import FlatRegularBlockchain3 from "../../../asset/svg/regular/fi-rr-blockchain-3.svg";
+export { FlatRegularBlockchain3 };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJsb2NrY2hhaW4tMy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1ibG9ja2NoYWluLTMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxzQkFBc0IsTUFBTSxtREFBbUQsQ0FBQztBQUN4RixPQUFPLEVBQUMsc0JBQXNCLEVBQUMsQ0FBQyJ9

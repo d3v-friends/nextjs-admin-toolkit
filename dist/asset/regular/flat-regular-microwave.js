@@ -1,0 +1,3 @@
+import FlatRegularMicrowave from "../../../asset/svg/regular/fi-rr-microwave.svg";
+export { FlatRegularMicrowave };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1pY3Jvd2F2ZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1taWNyb3dhdmUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxvQkFBb0IsTUFBTSxnREFBZ0QsQ0FBQztBQUNuRixPQUFPLEVBQUMsb0JBQW9CLEVBQUMsQ0FBQyJ9

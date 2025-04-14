@@ -1,0 +1,3 @@
+import FlatRegularScreencast from "../../../asset/svg/regular/fi-rr-screencast.svg";
+export { FlatRegularScreencast };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNjcmVlbmNhc3QuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItc2NyZWVuY2FzdC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHFCQUFxQixNQUFNLGlEQUFpRCxDQUFDO0FBQ3JGLE9BQU8sRUFBQyxxQkFBcUIsRUFBQyxDQUFDIn0=

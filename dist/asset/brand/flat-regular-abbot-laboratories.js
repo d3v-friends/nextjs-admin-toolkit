@@ -1,0 +1,3 @@
+import FlatRegularAbbotLaboratories from "../../../asset/svg/brand/fi-brands-abbot-laboratories.svg";
+export { FlatRegularAbbotLaboratories };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFiYm90LWxhYm9yYXRvcmllcy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItYWJib3QtbGFib3JhdG9yaWVzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNEJBQTRCLE1BQU0sMkRBQTJELENBQUM7QUFDdEcsT0FBTyxFQUFDLDRCQUE0QixFQUFDLENBQUMifQ==

@@ -1,0 +1,3 @@
+import FlatRegularClockOne from "../../../asset/svg/regular/fi-rr-clock-one.svg";
+export { FlatRegularClockOne };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNsb2NrLW9uZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1jbG9jay1vbmUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxtQkFBbUIsTUFBTSxnREFBZ0QsQ0FBQztBQUNsRixPQUFPLEVBQUMsbUJBQW1CLEVBQUMsQ0FBQyJ9

@@ -1,0 +1,3 @@
+import FlatRegularOctagonCheck from "../../../asset/svg/regular/fi-rr-octagon-check.svg";
+export { FlatRegularOctagonCheck };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW9jdGFnb24tY2hlY2suanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItb2N0YWdvbi1jaGVjay50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHVCQUF1QixNQUFNLG9EQUFvRCxDQUFDO0FBQzFGLE9BQU8sRUFBQyx1QkFBdUIsRUFBQyxDQUFDIn0=

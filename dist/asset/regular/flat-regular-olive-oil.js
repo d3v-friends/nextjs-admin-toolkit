@@ -1,0 +1,3 @@
+import FlatRegularOliveOil from "../../../asset/svg/regular/fi-rr-olive-oil.svg";
+export { FlatRegularOliveOil };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW9saXZlLW9pbC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1vbGl2ZS1vaWwudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxtQkFBbUIsTUFBTSxnREFBZ0QsQ0FBQztBQUNsRixPQUFPLEVBQUMsbUJBQW1CLEVBQUMsQ0FBQyJ9

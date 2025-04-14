@@ -1,0 +1,3 @@
+import FlatRegularCommentAltMiddle from "../../../asset/svg/regular/fi-rr-comment-alt-middle.svg";
+export { FlatRegularCommentAltMiddle };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNvbW1lbnQtYWx0LW1pZGRsZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1jb21tZW50LWFsdC1taWRkbGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwyQkFBMkIsTUFBTSx5REFBeUQsQ0FBQztBQUNuRyxPQUFPLEVBQUMsMkJBQTJCLEVBQUMsQ0FBQyJ9

@@ -1,0 +1,3 @@
+import FlatRegularHatSanta from "../../../asset/svg/regular/fi-rr-hat-santa.svg";
+export { FlatRegularHatSanta };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWhhdC1zYW50YS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1oYXQtc2FudGEudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxtQkFBbUIsTUFBTSxnREFBZ0QsQ0FBQztBQUNsRixPQUFPLEVBQUMsbUJBQW1CLEVBQUMsQ0FBQyJ9

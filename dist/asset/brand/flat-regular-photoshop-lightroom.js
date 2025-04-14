@@ -1,0 +1,3 @@
+import FlatRegularPhotoshopLightroom from "../../../asset/svg/brand/fi-brands-photoshop-lightroom.svg";
+export { FlatRegularPhotoshopLightroom };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBob3Rvc2hvcC1saWdodHJvb20uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLXBob3Rvc2hvcC1saWdodHJvb20udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw2QkFBNkIsTUFBTSw0REFBNEQsQ0FBQztBQUN4RyxPQUFPLEVBQUMsNkJBQTZCLEVBQUMsQ0FBQyJ9

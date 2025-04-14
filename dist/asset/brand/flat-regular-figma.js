@@ -1,0 +1,3 @@
+import FlatRegularFigma from "../../../asset/svg/brand/fi-brands-figma.svg";
+export { FlatRegularFigma };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZpZ21hLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtcmVndWxhci1maWdtYS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGdCQUFnQixNQUFNLDhDQUE4QyxDQUFDO0FBQzdFLE9BQU8sRUFBQyxnQkFBZ0IsRUFBQyxDQUFDIn0=

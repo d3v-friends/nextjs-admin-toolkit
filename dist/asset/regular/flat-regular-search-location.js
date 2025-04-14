@@ -1,0 +1,3 @@
+import FlatRegularSearchLocation from "../../../asset/svg/regular/fi-rr-search-location.svg";
+export { FlatRegularSearchLocation };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNlYXJjaC1sb2NhdGlvbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1zZWFyY2gtbG9jYXRpb24udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx5QkFBeUIsTUFBTSxzREFBc0QsQ0FBQztBQUM5RixPQUFPLEVBQUMseUJBQXlCLEVBQUMsQ0FBQyJ9

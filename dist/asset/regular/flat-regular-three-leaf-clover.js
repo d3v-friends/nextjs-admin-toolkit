@@ -1,0 +1,3 @@
+import FlatRegularThreeLeafClover from "../../../asset/svg/regular/fi-rr-three-leaf-clover.svg";
+export { FlatRegularThreeLeafClover };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRocmVlLWxlYWYtY2xvdmVyLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXRocmVlLWxlYWYtY2xvdmVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsMEJBQTBCLE1BQU0sd0RBQXdELENBQUM7QUFDakcsT0FBTyxFQUFDLDBCQUEwQixFQUFDLENBQUMifQ==

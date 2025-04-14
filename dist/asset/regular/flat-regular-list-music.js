@@ -1,0 +1,3 @@
+import FlatRegularListMusic from "../../../asset/svg/regular/fi-rr-list-music.svg";
+export { FlatRegularListMusic };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWxpc3QtbXVzaWMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItbGlzdC1tdXNpYy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLG9CQUFvQixNQUFNLGlEQUFpRCxDQUFDO0FBQ3BGLE9BQU8sRUFBQyxvQkFBb0IsRUFBQyxDQUFDIn0=

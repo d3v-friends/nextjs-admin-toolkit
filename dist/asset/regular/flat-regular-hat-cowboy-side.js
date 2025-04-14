@@ -1,0 +1,3 @@
+import FlatRegularHatCowboySide from "../../../asset/svg/regular/fi-rr-hat-cowboy-side.svg";
+export { FlatRegularHatCowboySide };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWhhdC1jb3dib3ktc2lkZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1oYXQtY293Ym95LXNpZGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx3QkFBd0IsTUFBTSxzREFBc0QsQ0FBQztBQUM3RixPQUFPLEVBQUMsd0JBQXdCLEVBQUMsQ0FBQyJ9

@@ -1,0 +1,3 @@
+import FlatRegularWomanScientist from "../../../asset/svg/regular/fi-rr-woman-scientist.svg";
+export { FlatRegularWomanScientist };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXdvbWFuLXNjaWVudGlzdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci13b21hbi1zY2llbnRpc3QudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx5QkFBeUIsTUFBTSxzREFBc0QsQ0FBQztBQUM5RixPQUFPLEVBQUMseUJBQXlCLEVBQUMsQ0FBQyJ9

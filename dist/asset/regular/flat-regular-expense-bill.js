@@ -1,0 +1,3 @@
+import FlatRegularExpenseBill from "../../../asset/svg/regular/fi-rr-expense-bill.svg";
+export { FlatRegularExpenseBill };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWV4cGVuc2UtYmlsbC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1leHBlbnNlLWJpbGwudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxzQkFBc0IsTUFBTSxtREFBbUQsQ0FBQztBQUN4RixPQUFPLEVBQUMsc0JBQXNCLEVBQUMsQ0FBQyJ9

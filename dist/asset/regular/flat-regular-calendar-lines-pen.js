@@ -1,0 +1,3 @@
+import FlatRegularCalendarLinesPen from "../../../asset/svg/regular/fi-rr-calendar-lines-pen.svg";
+export { FlatRegularCalendarLinesPen };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNhbGVuZGFyLWxpbmVzLXBlbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1jYWxlbmRhci1saW5lcy1wZW4udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwyQkFBMkIsTUFBTSx5REFBeUQsQ0FBQztBQUNuRyxPQUFPLEVBQUMsMkJBQTJCLEVBQUMsQ0FBQyJ9

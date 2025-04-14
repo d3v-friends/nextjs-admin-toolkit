@@ -1,0 +1,3 @@
+import FlatRegularPfizer from "../../../asset/svg/brand/fi-brands-pfizer.svg";
+export { FlatRegularPfizer };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBmaXplci5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItcGZpemVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsaUJBQWlCLE1BQU0sK0NBQStDLENBQUM7QUFDL0UsT0FBTyxFQUFDLGlCQUFpQixFQUFDLENBQUMifQ==

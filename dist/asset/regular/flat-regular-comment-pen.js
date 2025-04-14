@@ -1,0 +1,3 @@
+import FlatRegularCommentPen from "../../../asset/svg/regular/fi-rr-comment-pen.svg";
+export { FlatRegularCommentPen };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNvbW1lbnQtcGVuLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNvbW1lbnQtcGVuLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEscUJBQXFCLE1BQU0sa0RBQWtELENBQUM7QUFDdEYsT0FBTyxFQUFDLHFCQUFxQixFQUFDLENBQUMifQ==

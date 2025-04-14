@@ -1,0 +1,3 @@
+import FlatRegularHandBackPointRibbon from "../../../asset/svg/regular/fi-rr-hand-back-point-ribbon.svg";
+export { FlatRegularHandBackPointRibbon };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWhhbmQtYmFjay1wb2ludC1yaWJib24uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItaGFuZC1iYWNrLXBvaW50LXJpYmJvbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDhCQUE4QixNQUFNLDZEQUE2RCxDQUFDO0FBQzFHLE9BQU8sRUFBQyw4QkFBOEIsRUFBQyxDQUFDIn0=

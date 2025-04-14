@@ -1,0 +1,3 @@
+import FlatRegularDigitalTachograph from "../../../asset/svg/regular/fi-rr-digital-tachograph.svg";
+export { FlatRegularDigitalTachograph };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWRpZ2l0YWwtdGFjaG9ncmFwaC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1kaWdpdGFsLXRhY2hvZ3JhcGgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw0QkFBNEIsTUFBTSx5REFBeUQsQ0FBQztBQUNwRyxPQUFPLEVBQUMsNEJBQTRCLEVBQUMsQ0FBQyJ9

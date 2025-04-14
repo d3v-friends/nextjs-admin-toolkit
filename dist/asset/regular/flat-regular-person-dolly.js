@@ -1,0 +1,3 @@
+import FlatRegularPersonDolly from "../../../asset/svg/regular/fi-rr-person-dolly.svg";
+export { FlatRegularPersonDolly };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBlcnNvbi1kb2xseS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1wZXJzb24tZG9sbHkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxzQkFBc0IsTUFBTSxtREFBbUQsQ0FBQztBQUN4RixPQUFPLEVBQUMsc0JBQXNCLEVBQUMsQ0FBQyJ9

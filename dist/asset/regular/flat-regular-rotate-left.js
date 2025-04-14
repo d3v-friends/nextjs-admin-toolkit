@@ -1,0 +1,3 @@
+import FlatRegularRotateLeft from "../../../asset/svg/regular/fi-rr-rotate-left.svg";
+export { FlatRegularRotateLeft };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXJvdGF0ZS1sZWZ0LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXJvdGF0ZS1sZWZ0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEscUJBQXFCLE1BQU0sa0RBQWtELENBQUM7QUFDdEYsT0FBTyxFQUFDLHFCQUFxQixFQUFDLENBQUMifQ==

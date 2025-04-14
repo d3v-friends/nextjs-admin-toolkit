@@ -1,0 +1,3 @@
+import FlatRegularStationaryBike from "../../../asset/svg/regular/fi-rr-stationary-bike.svg";
+export { FlatRegularStationaryBike };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXN0YXRpb25hcnktYmlrZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1zdGF0aW9uYXJ5LWJpa2UudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx5QkFBeUIsTUFBTSxzREFBc0QsQ0FBQztBQUM5RixPQUFPLEVBQUMseUJBQXlCLEVBQUMsQ0FBQyJ9

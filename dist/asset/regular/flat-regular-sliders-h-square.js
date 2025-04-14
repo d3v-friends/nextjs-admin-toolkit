@@ -1,0 +1,3 @@
+import FlatRegularSlidersHSquare from "../../../asset/svg/regular/fi-rr-sliders-h-square.svg";
+export { FlatRegularSlidersHSquare };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNsaWRlcnMtaC1zcXVhcmUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItc2xpZGVycy1oLXNxdWFyZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHlCQUF5QixNQUFNLHVEQUF1RCxDQUFDO0FBQy9GLE9BQU8sRUFBQyx5QkFBeUIsRUFBQyxDQUFDIn0=

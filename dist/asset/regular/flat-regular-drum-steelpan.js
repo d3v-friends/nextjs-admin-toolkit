@@ -1,0 +1,3 @@
+import FlatRegularDrumSteelpan from "../../../asset/svg/regular/fi-rr-drum-steelpan.svg";
+export { FlatRegularDrumSteelpan };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWRydW0tc3RlZWxwYW4uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZHJ1bS1zdGVlbHBhbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHVCQUF1QixNQUFNLG9EQUFvRCxDQUFDO0FBQzFGLE9BQU8sRUFBQyx1QkFBdUIsRUFBQyxDQUFDIn0=

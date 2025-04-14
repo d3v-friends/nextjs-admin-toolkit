@@ -1,0 +1,3 @@
+import FlatRegularN1 from "../../../asset/svg/regular/fi-rr-n-1.svg";
+export { FlatRegularN1 };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW4tMS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1uLTEudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxhQUFhLE1BQU0sMENBQTBDLENBQUM7QUFDdEUsT0FBTyxFQUFDLGFBQWEsRUFBQyxDQUFDIn0=

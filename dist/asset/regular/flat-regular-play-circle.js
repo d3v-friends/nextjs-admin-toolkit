@@ -1,0 +1,3 @@
+import FlatRegularPlayCircle from "../../../asset/svg/regular/fi-rr-play-circle.svg";
+export { FlatRegularPlayCircle };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBsYXktY2lyY2xlLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXBsYXktY2lyY2xlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEscUJBQXFCLE1BQU0sa0RBQWtELENBQUM7QUFDdEYsT0FBTyxFQUFDLHFCQUFxQixFQUFDLENBQUMifQ==

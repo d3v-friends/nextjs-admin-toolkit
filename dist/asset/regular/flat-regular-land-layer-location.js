@@ -1,0 +1,3 @@
+import FlatRegularLandLayerLocation from "../../../asset/svg/regular/fi-rr-land-layer-location.svg";
+export { FlatRegularLandLayerLocation };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWxhbmQtbGF5ZXItbG9jYXRpb24uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItbGFuZC1sYXllci1sb2NhdGlvbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDRCQUE0QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3JHLE9BQU8sRUFBQyw0QkFBNEIsRUFBQyxDQUFDIn0=

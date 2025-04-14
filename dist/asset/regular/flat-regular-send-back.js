@@ -1,0 +1,3 @@
+import FlatRegularSendBack from "../../../asset/svg/regular/fi-rr-send-back.svg";
+export { FlatRegularSendBack };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNlbmQtYmFjay5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1zZW5kLWJhY2sudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxtQkFBbUIsTUFBTSxnREFBZ0QsQ0FBQztBQUNsRixPQUFPLEVBQUMsbUJBQW1CLEVBQUMsQ0FBQyJ9

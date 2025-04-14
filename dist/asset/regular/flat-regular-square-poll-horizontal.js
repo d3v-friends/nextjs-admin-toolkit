@@ -1,0 +1,3 @@
+import FlatRegularSquarePollHorizontal from "../../../asset/svg/regular/fi-rr-square-poll-horizontal.svg";
+export { FlatRegularSquarePollHorizontal };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNxdWFyZS1wb2xsLWhvcml6b250YWwuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItc3F1YXJlLXBvbGwtaG9yaXpvbnRhbC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLCtCQUErQixNQUFNLDZEQUE2RCxDQUFDO0FBQzNHLE9BQU8sRUFBQywrQkFBK0IsRUFBQyxDQUFDIn0=

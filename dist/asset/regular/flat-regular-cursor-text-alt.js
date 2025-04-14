@@ -1,0 +1,3 @@
+import FlatRegularCursorTextAlt from "../../../asset/svg/regular/fi-rr-cursor-text-alt.svg";
+export { FlatRegularCursorTextAlt };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWN1cnNvci10ZXh0LWFsdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1jdXJzb3ItdGV4dC1hbHQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx3QkFBd0IsTUFBTSxzREFBc0QsQ0FBQztBQUM3RixPQUFPLEVBQUMsd0JBQXdCLEVBQUMsQ0FBQyJ9

@@ -1,0 +1,3 @@
+import FlatRegularFlyInsect from "../../../asset/svg/regular/fi-rr-fly-insect.svg";
+export { FlatRegularFlyInsect };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZseS1pbnNlY3QuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZmx5LWluc2VjdC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLG9CQUFvQixNQUFNLGlEQUFpRCxDQUFDO0FBQ3BGLE9BQU8sRUFBQyxvQkFBb0IsRUFBQyxDQUFDIn0=

@@ -1,0 +1,3 @@
+import FlatRegularWater from "../../../asset/svg/regular/fi-rr-water.svg";
+export { FlatRegularWater };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXdhdGVyLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXdhdGVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0JBQWdCLE1BQU0sNENBQTRDLENBQUM7QUFDM0UsT0FBTyxFQUFDLGdCQUFnQixFQUFDLENBQUMifQ==

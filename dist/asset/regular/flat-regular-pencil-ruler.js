@@ -1,0 +1,3 @@
+import FlatRegularPencilRuler from "../../../asset/svg/regular/fi-rr-pencil-ruler.svg";
+export { FlatRegularPencilRuler };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBlbmNpbC1ydWxlci5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1wZW5jaWwtcnVsZXIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxzQkFBc0IsTUFBTSxtREFBbUQsQ0FBQztBQUN4RixPQUFPLEVBQUMsc0JBQXNCLEVBQUMsQ0FBQyJ9

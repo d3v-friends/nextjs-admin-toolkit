@@ -1,0 +1,3 @@
+import FlatRegular500px from "../../../asset/svg/brand/fi-brands-500px.svg";
+export { FlatRegular500px };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLTUtMC0wcHguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLTUtMC0wcHgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxnQkFBZ0IsTUFBTSw4Q0FBOEMsQ0FBQztBQUM3RSxPQUFPLEVBQUMsZ0JBQWdCLEVBQUMsQ0FBQyJ9

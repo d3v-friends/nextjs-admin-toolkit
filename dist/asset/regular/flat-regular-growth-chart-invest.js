@@ -1,0 +1,3 @@
+import FlatRegularGrowthChartInvest from "../../../asset/svg/regular/fi-rr-growth-chart-invest.svg";
+export { FlatRegularGrowthChartInvest };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWdyb3d0aC1jaGFydC1pbnZlc3QuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZ3Jvd3RoLWNoYXJ0LWludmVzdC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDRCQUE0QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3JHLE9BQU8sRUFBQyw0QkFBNEIsRUFBQyxDQUFDIn0=

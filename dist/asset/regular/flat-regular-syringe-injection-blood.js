@@ -1,0 +1,3 @@
+import FlatRegularSyringeInjectionBlood from "../../../asset/svg/regular/fi-rr-syringe-injection-blood.svg";
+export { FlatRegularSyringeInjectionBlood };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXN5cmluZ2UtaW5qZWN0aW9uLWJsb29kLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXN5cmluZ2UtaW5qZWN0aW9uLWJsb29kLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0NBQWdDLE1BQU0sOERBQThELENBQUM7QUFDN0csT0FBTyxFQUFDLGdDQUFnQyxFQUFDLENBQUMifQ==

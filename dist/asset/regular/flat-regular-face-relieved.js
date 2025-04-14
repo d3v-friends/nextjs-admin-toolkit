@@ -1,0 +1,3 @@
+import FlatRegularFaceRelieved from "../../../asset/svg/regular/fi-rr-face-relieved.svg";
+export { FlatRegularFaceRelieved };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZhY2UtcmVsaWV2ZWQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZmFjZS1yZWxpZXZlZC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHVCQUF1QixNQUFNLG9EQUFvRCxDQUFDO0FBQzFGLE9BQU8sRUFBQyx1QkFBdUIsRUFBQyxDQUFDIn0=

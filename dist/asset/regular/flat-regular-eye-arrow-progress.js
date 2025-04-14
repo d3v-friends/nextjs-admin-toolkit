@@ -1,0 +1,3 @@
+import FlatRegularEyeArrowProgress from "../../../asset/svg/regular/fi-rr-eye-arrow-progress.svg";
+export { FlatRegularEyeArrowProgress };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWV5ZS1hcnJvdy1wcm9ncmVzcy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1leWUtYXJyb3ctcHJvZ3Jlc3MudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwyQkFBMkIsTUFBTSx5REFBeUQsQ0FBQztBQUNuRyxPQUFPLEVBQUMsMkJBQTJCLEVBQUMsQ0FBQyJ9

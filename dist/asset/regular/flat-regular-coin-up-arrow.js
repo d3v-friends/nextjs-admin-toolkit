@@ -1,0 +1,3 @@
+import FlatRegularCoinUpArrow from "../../../asset/svg/regular/fi-rr-coin-up-arrow.svg";
+export { FlatRegularCoinUpArrow };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNvaW4tdXAtYXJyb3cuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItY29pbi11cC1hcnJvdy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHNCQUFzQixNQUFNLG9EQUFvRCxDQUFDO0FBQ3pGLE9BQU8sRUFBQyxzQkFBc0IsRUFBQyxDQUFDIn0=

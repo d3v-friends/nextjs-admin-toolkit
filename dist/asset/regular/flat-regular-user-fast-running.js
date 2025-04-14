@@ -1,0 +1,3 @@
+import FlatRegularUserFastRunning from "../../../asset/svg/regular/fi-rr-user-fast-running.svg";
+export { FlatRegularUserFastRunning };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXVzZXItZmFzdC1ydW5uaW5nLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXVzZXItZmFzdC1ydW5uaW5nLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsMEJBQTBCLE1BQU0sd0RBQXdELENBQUM7QUFDakcsT0FBTyxFQUFDLDBCQUEwQixFQUFDLENBQUMifQ==

@@ -1,0 +1,3 @@
+import FlatRegularMemoCircleCheck from "../../../asset/svg/regular/fi-rr-memo-circle-check.svg";
+export { FlatRegularMemoCircleCheck };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1lbW8tY2lyY2xlLWNoZWNrLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLW1lbW8tY2lyY2xlLWNoZWNrLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsMEJBQTBCLE1BQU0sd0RBQXdELENBQUM7QUFDakcsT0FBTyxFQUFDLDBCQUEwQixFQUFDLENBQUMifQ==

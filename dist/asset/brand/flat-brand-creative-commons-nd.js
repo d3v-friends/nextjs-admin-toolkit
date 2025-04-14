@@ -1,0 +1,3 @@
+import FlatBrandCreativeCommonsNd from "../../../asset/svg/brand/fi-brands-creative-commons-nd.svg";
+export { FlatBrandCreativeCommonsNd };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1jcmVhdGl2ZS1jb21tb25zLW5kLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtYnJhbmQtY3JlYXRpdmUtY29tbW9ucy1uZC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDBCQUEwQixNQUFNLDREQUE0RCxDQUFDO0FBQ3JHLE9BQU8sRUFBQywwQkFBMEIsRUFBQyxDQUFDIn0=

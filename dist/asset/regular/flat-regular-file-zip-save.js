@@ -1,0 +1,3 @@
+import FlatRegularFileZipSave from "../../../asset/svg/regular/fi-rr-file-zip-save.svg";
+export { FlatRegularFileZipSave };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZpbGUtemlwLXNhdmUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZmlsZS16aXAtc2F2ZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHNCQUFzQixNQUFNLG9EQUFvRCxDQUFDO0FBQ3pGLE9BQU8sRUFBQyxzQkFBc0IsRUFBQyxDQUFDIn0=

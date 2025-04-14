@@ -1,0 +1,3 @@
+import FlatRegularTtyAnswer from "../../../asset/svg/regular/fi-rr-tty-answer.svg";
+export { FlatRegularTtyAnswer };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXR0eS1hbnN3ZXIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItdHR5LWFuc3dlci50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLG9CQUFvQixNQUFNLGlEQUFpRCxDQUFDO0FBQ3BGLE9BQU8sRUFBQyxvQkFBb0IsRUFBQyxDQUFDIn0=

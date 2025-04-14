@@ -1,0 +1,3 @@
+import FlatRegularN70sMusicDisc from "../../../asset/svg/regular/fi-rr-n-70s-music-disc.svg";
+export { FlatRegularN70sMusicDisc };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW4tNy0wcy1tdXNpYy1kaXNjLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLW4tNy0wcy1tdXNpYy1kaXNjLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsd0JBQXdCLE1BQU0sdURBQXVELENBQUM7QUFDOUYsT0FBTyxFQUFDLHdCQUF3QixFQUFDLENBQUMifQ==

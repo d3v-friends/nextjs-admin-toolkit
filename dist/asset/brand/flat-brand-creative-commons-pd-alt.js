@@ -1,0 +1,3 @@
+import FlatBrandCreativeCommonsPdAlt from "../../../asset/svg/brand/fi-brands-creative-commons-pd-alt.svg";
+export { FlatBrandCreativeCommonsPdAlt };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1jcmVhdGl2ZS1jb21tb25zLXBkLWFsdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LWJyYW5kLWNyZWF0aXZlLWNvbW1vbnMtcGQtYWx0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNkJBQTZCLE1BQU0sZ0VBQWdFLENBQUM7QUFDNUcsT0FBTyxFQUFDLDZCQUE2QixFQUFDLENBQUMifQ==

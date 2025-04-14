@@ -1,0 +1,3 @@
+import FlatRegularBriefcaseArrowRight from "../../../asset/svg/regular/fi-rr-briefcase-arrow-right.svg";
+export { FlatRegularBriefcaseArrowRight };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJyaWVmY2FzZS1hcnJvdy1yaWdodC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1icmllZmNhc2UtYXJyb3ctcmlnaHQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw4QkFBOEIsTUFBTSw0REFBNEQsQ0FBQztBQUN6RyxPQUFPLEVBQUMsOEJBQThCLEVBQUMsQ0FBQyJ9

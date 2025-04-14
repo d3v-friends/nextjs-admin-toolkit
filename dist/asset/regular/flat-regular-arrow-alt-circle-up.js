@@ -1,0 +1,3 @@
+import FlatRegularArrowAltCircleUp from "../../../asset/svg/regular/fi-rr-arrow-alt-circle-up.svg";
+export { FlatRegularArrowAltCircleUp };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93LWFsdC1jaXJjbGUtdXAuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItYXJyb3ctYWx0LWNpcmNsZS11cC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDJCQUEyQixNQUFNLDBEQUEwRCxDQUFDO0FBQ3BHLE9BQU8sRUFBQywyQkFBMkIsRUFBQyxDQUFDIn0=

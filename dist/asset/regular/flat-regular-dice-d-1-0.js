@@ -1,0 +1,3 @@
+import FlatRegularDiceD10 from "../../../asset/svg/regular/fi-rr-dice-d10.svg";
+export { FlatRegularDiceD10 };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWRpY2UtZC0xLTAuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZGljZS1kLTEtMC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGtCQUFrQixNQUFNLCtDQUErQyxDQUFDO0FBQ2hGLE9BQU8sRUFBQyxrQkFBa0IsRUFBQyxDQUFDIn0=

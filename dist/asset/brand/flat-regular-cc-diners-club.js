@@ -1,0 +1,3 @@
+import FlatRegularCcDinersClub from "../../../asset/svg/brand/fi-brands-cc-diners-club.svg";
+export { FlatRegularCcDinersClub };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNjLWRpbmVycy1jbHViLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtcmVndWxhci1jYy1kaW5lcnMtY2x1Yi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHVCQUF1QixNQUFNLHVEQUF1RCxDQUFDO0FBQzdGLE9BQU8sRUFBQyx1QkFBdUIsRUFBQyxDQUFDIn0=

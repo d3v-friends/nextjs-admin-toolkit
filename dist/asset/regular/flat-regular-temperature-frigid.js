@@ -1,0 +1,3 @@
+import FlatRegularTemperatureFrigid from "../../../asset/svg/regular/fi-rr-temperature-frigid.svg";
+export { FlatRegularTemperatureFrigid };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRlbXBlcmF0dXJlLWZyaWdpZC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci10ZW1wZXJhdHVyZS1mcmlnaWQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw0QkFBNEIsTUFBTSx5REFBeUQsQ0FBQztBQUNwRyxPQUFPLEVBQUMsNEJBQTRCLEVBQUMsQ0FBQyJ9

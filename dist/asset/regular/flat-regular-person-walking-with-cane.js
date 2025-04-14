@@ -1,0 +1,3 @@
+import FlatRegularPersonWalkingWithCane from "../../../asset/svg/regular/fi-rr-person-walking-with-cane.svg";
+export { FlatRegularPersonWalkingWithCane };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBlcnNvbi13YWxraW5nLXdpdGgtY2FuZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1wZXJzb24td2Fsa2luZy13aXRoLWNhbmUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxnQ0FBZ0MsTUFBTSwrREFBK0QsQ0FBQztBQUM5RyxPQUFPLEVBQUMsZ0NBQWdDLEVBQUMsQ0FBQyJ9

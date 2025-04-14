@@ -1,0 +1,3 @@
+import FlatRegularProductHunt from "../../../asset/svg/brand/fi-brands-product-hunt.svg";
+export { FlatRegularProductHunt };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXByb2R1Y3QtaHVudC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItcHJvZHVjdC1odW50LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsc0JBQXNCLE1BQU0scURBQXFELENBQUM7QUFDMUYsT0FBTyxFQUFDLHNCQUFzQixFQUFDLENBQUMifQ==

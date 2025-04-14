@@ -1,0 +1,3 @@
+import FlatRegularMp3File from "../../../asset/svg/regular/fi-rr-mp3-file.svg";
+export { FlatRegularMp3File };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1wLTMtZmlsZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1tcC0zLWZpbGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxrQkFBa0IsTUFBTSwrQ0FBK0MsQ0FBQztBQUNoRixPQUFPLEVBQUMsa0JBQWtCLEVBQUMsQ0FBQyJ9

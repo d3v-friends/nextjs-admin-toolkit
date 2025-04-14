@@ -1,0 +1,3 @@
+import FlatRegularChartArea from "../../../asset/svg/regular/fi-rr-chart-area.svg";
+export { FlatRegularChartArea };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNoYXJ0LWFyZWEuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItY2hhcnQtYXJlYS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLG9CQUFvQixNQUFNLGlEQUFpRCxDQUFDO0FBQ3BGLE9BQU8sRUFBQyxvQkFBb0IsRUFBQyxDQUFDIn0=

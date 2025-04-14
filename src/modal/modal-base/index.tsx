@@ -2,7 +2,7 @@
 import Image from "next/image";
 import {fnCss} from "nextjs-tools";
 import React from "react";
-import {FlatCross} from "../..";
+import {FlatRegularCross} from "../../asset/regular/flat-regular-cross";
 import Backdrop, {Props as BaseProps} from "../modal-backdrop";
 
 type Props = {
@@ -30,7 +30,7 @@ export default function ({open, onClose, children, disableEscapeKey, disableBack
 							)}
 							width={30}
 							height={30}
-							src={FlatCross}
+							src={FlatRegularCross}
 							alt={"close"}
 							onClick={onClose}
 						/>

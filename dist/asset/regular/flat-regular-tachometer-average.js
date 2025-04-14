@@ -1,0 +1,3 @@
+import FlatRegularTachometerAverage from "../../../asset/svg/regular/fi-rr-tachometer-average.svg";
+export { FlatRegularTachometerAverage };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRhY2hvbWV0ZXItYXZlcmFnZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci10YWNob21ldGVyLWF2ZXJhZ2UudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw0QkFBNEIsTUFBTSx5REFBeUQsQ0FBQztBQUNwRyxPQUFPLEVBQUMsNEJBQTRCLEVBQUMsQ0FBQyJ9

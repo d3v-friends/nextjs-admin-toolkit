@@ -1,0 +1,3 @@
+import FlatRegularClockTwelve from "../../../asset/svg/regular/fi-rr-clock-twelve.svg";
+export { FlatRegularClockTwelve };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNsb2NrLXR3ZWx2ZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1jbG9jay10d2VsdmUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxzQkFBc0IsTUFBTSxtREFBbUQsQ0FBQztBQUN4RixPQUFPLEVBQUMsc0JBQXNCLEVBQUMsQ0FBQyJ9

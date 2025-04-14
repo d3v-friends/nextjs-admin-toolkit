@@ -1,0 +1,3 @@
+import FlatRegularApartment from "../../../asset/svg/regular/fi-rr-apartment.svg";
+export { FlatRegularApartment };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFwYXJ0bWVudC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1hcGFydG1lbnQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxvQkFBb0IsTUFBTSxnREFBZ0QsQ0FBQztBQUNuRixPQUFPLEVBQUMsb0JBQW9CLEVBQUMsQ0FBQyJ9

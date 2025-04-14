@@ -1,0 +1,3 @@
+import FlatBrandAnimate from "../../../asset/svg/brand/fi-brands-animate.svg";
+export { FlatBrandAnimate };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1hbmltYXRlLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtYnJhbmQtYW5pbWF0ZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGdCQUFnQixNQUFNLGdEQUFnRCxDQUFDO0FBQy9FLE9BQU8sRUFBQyxnQkFBZ0IsRUFBQyxDQUFDIn0=

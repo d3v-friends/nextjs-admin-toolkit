@@ -1,0 +1,3 @@
+import FlatRegularReservationSmartphone from "../../../asset/svg/regular/fi-rr-reservation-smartphone.svg";
+export { FlatRegularReservationSmartphone };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXJlc2VydmF0aW9uLXNtYXJ0cGhvbmUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItcmVzZXJ2YXRpb24tc21hcnRwaG9uZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGdDQUFnQyxNQUFNLDZEQUE2RCxDQUFDO0FBQzVHLE9BQU8sRUFBQyxnQ0FBZ0MsRUFBQyxDQUFDIn0=

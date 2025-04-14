@@ -1,0 +1,3 @@
+import FlatRegularMattressPillow from "../../../asset/svg/regular/fi-rr-mattress-pillow.svg";
+export { FlatRegularMattressPillow };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1hdHRyZXNzLXBpbGxvdy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1tYXR0cmVzcy1waWxsb3cudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx5QkFBeUIsTUFBTSxzREFBc0QsQ0FBQztBQUM5RixPQUFPLEVBQUMseUJBQXlCLEVBQUMsQ0FBQyJ9

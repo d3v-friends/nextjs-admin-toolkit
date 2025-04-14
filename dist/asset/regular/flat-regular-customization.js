@@ -1,0 +1,3 @@
+import FlatRegularCustomization from "../../../asset/svg/regular/fi-rr-customization.svg";
+export { FlatRegularCustomization };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWN1c3RvbWl6YXRpb24uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItY3VzdG9taXphdGlvbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHdCQUF3QixNQUFNLG9EQUFvRCxDQUFDO0FBQzNGLE9BQU8sRUFBQyx3QkFBd0IsRUFBQyxDQUFDIn0=

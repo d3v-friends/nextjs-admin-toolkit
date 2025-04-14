@@ -1,0 +1,3 @@
+import FlatBrandYelp from "../../../asset/svg/brand/fi-brands-yelp.svg";
+export { FlatBrandYelp };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC15ZWxwLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtYnJhbmQteWVscC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGFBQWEsTUFBTSw2Q0FBNkMsQ0FBQztBQUN6RSxPQUFPLEVBQUMsYUFBYSxFQUFDLENBQUMifQ==

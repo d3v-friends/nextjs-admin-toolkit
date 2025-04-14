@@ -1,0 +1,3 @@
+import FlatRegularC from "../../../asset/svg/brand/fi-brands-c.svg";
+export { FlatRegularC };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLWMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxZQUFZLE1BQU0sMENBQTBDLENBQUM7QUFDckUsT0FBTyxFQUFDLFlBQVksRUFBQyxDQUFDIn0=

@@ -1,0 +1,3 @@
+import FlatRegularHourglass from "../../../asset/svg/regular/fi-rr-hourglass.svg";
+export { FlatRegularHourglass };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWhvdXJnbGFzcy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1ob3VyZ2xhc3MudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxvQkFBb0IsTUFBTSxnREFBZ0QsQ0FBQztBQUNuRixPQUFPLEVBQUMsb0JBQW9CLEVBQUMsQ0FBQyJ9

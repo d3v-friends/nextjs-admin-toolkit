@@ -1,0 +1,3 @@
+import FlatRegularBox from "../../../asset/svg/regular/fi-rr-box.svg";
+export { FlatRegularBox };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJveC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1ib3gudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxjQUFjLE1BQU0sMENBQTBDLENBQUM7QUFDdkUsT0FBTyxFQUFDLGNBQWMsRUFBQyxDQUFDIn0=

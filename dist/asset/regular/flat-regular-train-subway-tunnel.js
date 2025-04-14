@@ -1,0 +1,3 @@
+import FlatRegularTrainSubwayTunnel from "../../../asset/svg/regular/fi-rr-train-subway-tunnel.svg";
+export { FlatRegularTrainSubwayTunnel };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRyYWluLXN1YndheS10dW5uZWwuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItdHJhaW4tc3Vid2F5LXR1bm5lbC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDRCQUE0QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3JHLE9BQU8sRUFBQyw0QkFBNEIsRUFBQyxDQUFDIn0=

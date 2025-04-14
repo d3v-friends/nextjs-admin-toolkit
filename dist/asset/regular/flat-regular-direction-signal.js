@@ -1,0 +1,3 @@
+import FlatRegularDirectionSignal from "../../../asset/svg/regular/fi-rr-direction-signal.svg";
+export { FlatRegularDirectionSignal };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWRpcmVjdGlvbi1zaWduYWwuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZGlyZWN0aW9uLXNpZ25hbC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDBCQUEwQixNQUFNLHVEQUF1RCxDQUFDO0FBQ2hHLE9BQU8sRUFBQywwQkFBMEIsRUFBQyxDQUFDIn0=

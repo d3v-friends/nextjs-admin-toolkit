@@ -1,0 +1,3 @@
+import FlatRegularCamcorder from "../../../asset/svg/regular/fi-rr-camcorder.svg";
+export { FlatRegularCamcorder };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNhbWNvcmRlci5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1jYW1jb3JkZXIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxvQkFBb0IsTUFBTSxnREFBZ0QsQ0FBQztBQUNuRixPQUFPLEVBQUMsb0JBQW9CLEVBQUMsQ0FBQyJ9

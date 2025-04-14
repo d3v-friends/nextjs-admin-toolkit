@@ -1,0 +1,3 @@
+import FlatRegularIllustratorDraw from "../../../asset/svg/brand/fi-brands-illustrator-draw.svg";
+export { FlatRegularIllustratorDraw };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWlsbHVzdHJhdG9yLWRyYXcuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLWlsbHVzdHJhdG9yLWRyYXcudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwwQkFBMEIsTUFBTSx5REFBeUQsQ0FBQztBQUNsRyxPQUFPLEVBQUMsMEJBQTBCLEVBQUMsQ0FBQyJ9

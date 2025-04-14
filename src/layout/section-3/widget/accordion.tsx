@@ -1,8 +1,10 @@
 import Image from "next/image";
 import Link from "next/link";
 import {usePathname} from "next/navigation";
+import {fnCss} from "nextjs-tools";
 import React, {ReactNode, useState} from "react";
-import {FlatAngleSmallDown, FlatAngleSmallUp} from "../../..";
+import {FlatRegularAngleSmallDown} from "../../../asset/regular/flat-regular-angle-small-down";
+import {FlatRegularAngleSmallUp} from "../../../asset/regular/flat-regular-angle-small-up";
 
 type AsideMenu = Pick<MenuProps, "title" | "collapsed"> & {submenus: SubmenuProps[]};
 
@@ -68,16 +70,20 @@ export interface MenuProps {
 
 function Menu({children, collapsed, title}: Readonly<MenuProps>) {
 	const [collapse, setCollapse] = useState(collapsed);
-	const icon = collapse ? FlatAngleSmallDown : FlatAngleSmallUp;
+	const icon = collapse ? FlatRegularAngleSmallDown : FlatRegularAngleSmallUp;
 
 	return (
 		<>
 			<button
-				className="h-[30px] lg:h-[40px] w-full flex items-center p-3 text-(--primary) font-bold"
+				// className="h-[30px] lg:h-[40px] w-full flex items-center p-3 text-(--primary) font-bold"
+				className={fnCss.sum(
+					"h-[30px] lg:h-[40px] w-full flex items-center p-3 font-bold",
+					collapse ? "text-(--primary)" : "text-(--light)"
+				)}
 				onClick={() => setCollapse(!collapse)}>
 				<div className="grow text-left">{title}</div>
 				<Image
-					className="filter-(--primary-filter)"
+					className={collapse ? "filter-(--primary-filter)" : "filter-(--light-filter)"}
 					width={20}
 					height={20}
 					src={icon}

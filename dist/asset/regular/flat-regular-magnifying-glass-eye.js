@@ -1,0 +1,3 @@
+import FlatRegularMagnifyingGlassEye from "../../../asset/svg/regular/fi-rr-magnifying-glass-eye.svg";
+export { FlatRegularMagnifyingGlassEye };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1hZ25pZnlpbmctZ2xhc3MtZXllLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLW1hZ25pZnlpbmctZ2xhc3MtZXllLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNkJBQTZCLE1BQU0sMkRBQTJELENBQUM7QUFDdkcsT0FBTyxFQUFDLDZCQUE2QixFQUFDLENBQUMifQ==

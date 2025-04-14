@@ -1,0 +1,3 @@
+import FlatRegularCalendarArrowUp from "../../../asset/svg/regular/fi-rr-calendar-arrow-up.svg";
+export { FlatRegularCalendarArrowUp };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNhbGVuZGFyLWFycm93LXVwLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNhbGVuZGFyLWFycm93LXVwLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsMEJBQTBCLE1BQU0sd0RBQXdELENBQUM7QUFDakcsT0FBTyxFQUFDLDBCQUEwQixFQUFDLENBQUMifQ==

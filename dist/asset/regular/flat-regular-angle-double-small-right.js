@@ -1,0 +1,3 @@
+import FlatRegularAngleDoubleSmallRight from "../../../asset/svg/regular/fi-rr-angle-double-small-right.svg";
+export { FlatRegularAngleDoubleSmallRight };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFuZ2xlLWRvdWJsZS1zbWFsbC1yaWdodC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1hbmdsZS1kb3VibGUtc21hbGwtcmlnaHQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxnQ0FBZ0MsTUFBTSwrREFBK0QsQ0FBQztBQUM5RyxPQUFPLEVBQUMsZ0NBQWdDLEVBQUMsQ0FBQyJ9

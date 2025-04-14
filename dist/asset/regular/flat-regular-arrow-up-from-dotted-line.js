@@ -1,0 +1,3 @@
+import FlatRegularArrowUpFromDottedLine from "../../../asset/svg/regular/fi-rr-arrow-up-from-dotted-line.svg";
+export { FlatRegularArrowUpFromDottedLine };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93LXVwLWZyb20tZG90dGVkLWxpbmUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItYXJyb3ctdXAtZnJvbS1kb3R0ZWQtbGluZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGdDQUFnQyxNQUFNLGdFQUFnRSxDQUFDO0FBQy9HLE9BQU8sRUFBQyxnQ0FBZ0MsRUFBQyxDQUFDIn0=

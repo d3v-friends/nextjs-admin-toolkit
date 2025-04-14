@@ -1,0 +1,3 @@
+import FlatRegularCreativeCommonsZero from "../../../asset/svg/brand/fi-brands-creative-commons-zero.svg";
+export { FlatRegularCreativeCommonsZero };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNyZWF0aXZlLWNvbW1vbnMtemVyby5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItY3JlYXRpdmUtY29tbW9ucy16ZXJvLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsOEJBQThCLE1BQU0sOERBQThELENBQUM7QUFDM0csT0FBTyxFQUFDLDhCQUE4QixFQUFDLENBQUMifQ==

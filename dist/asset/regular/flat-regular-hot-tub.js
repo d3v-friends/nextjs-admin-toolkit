@@ -1,0 +1,3 @@
+import FlatRegularHotTub from "../../../asset/svg/regular/fi-rr-hot-tub.svg";
+export { FlatRegularHotTub };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWhvdC10dWIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItaG90LXR1Yi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGlCQUFpQixNQUFNLDhDQUE4QyxDQUFDO0FBQzlFLE9BQU8sRUFBQyxpQkFBaUIsRUFBQyxDQUFDIn0=

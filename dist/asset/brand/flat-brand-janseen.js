@@ -1,0 +1,3 @@
+import FlatBrandJanseen from "../../../asset/svg/brand/fi-brands-janseen.svg";
+export { FlatBrandJanseen };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1qYW5zZWVuLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtYnJhbmQtamFuc2Vlbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGdCQUFnQixNQUFNLGdEQUFnRCxDQUFDO0FBQy9FLE9BQU8sRUFBQyxnQkFBZ0IsRUFBQyxDQUFDIn0=

@@ -1,0 +1,3 @@
+import FlatBrandTheHomeDepot from "../../../asset/svg/brand/fi-brands-the-home-depot.svg";
+export { FlatBrandTheHomeDepot };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC10aGUtaG9tZS1kZXBvdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LWJyYW5kLXRoZS1ob21lLWRlcG90LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEscUJBQXFCLE1BQU0sdURBQXVELENBQUM7QUFDM0YsT0FBTyxFQUFDLHFCQUFxQixFQUFDLENBQUMifQ==

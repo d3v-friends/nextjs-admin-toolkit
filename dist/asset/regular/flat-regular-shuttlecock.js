@@ -1,0 +1,3 @@
+import FlatRegularShuttlecock from "../../../asset/svg/regular/fi-rr-shuttlecock.svg";
+export { FlatRegularShuttlecock };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNodXR0bGVjb2NrLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXNodXR0bGVjb2NrLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsc0JBQXNCLE1BQU0sa0RBQWtELENBQUM7QUFDdkYsT0FBTyxFQUFDLHNCQUFzQixFQUFDLENBQUMifQ==

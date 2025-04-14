@@ -1,0 +1,3 @@
+import FlatRegularUiUx from "../../../asset/svg/regular/fi-rr-ui-ux.svg";
+export { FlatRegularUiUx };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXVpLXV4LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXVpLXV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZUFBZSxNQUFNLDRDQUE0QyxDQUFDO0FBQzFFLE9BQU8sRUFBQyxlQUFlLEVBQUMsQ0FBQyJ9

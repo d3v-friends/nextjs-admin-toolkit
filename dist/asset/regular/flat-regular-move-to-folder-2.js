@@ -1,0 +1,3 @@
+import FlatRegularMoveToFolder2 from "../../../asset/svg/regular/fi-rr-move-to-folder-2.svg";
+export { FlatRegularMoveToFolder2 };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1vdmUtdG8tZm9sZGVyLTIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItbW92ZS10by1mb2xkZXItMi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHdCQUF3QixNQUFNLHVEQUF1RCxDQUFDO0FBQzlGLE9BQU8sRUFBQyx3QkFBd0IsRUFBQyxDQUFDIn0=

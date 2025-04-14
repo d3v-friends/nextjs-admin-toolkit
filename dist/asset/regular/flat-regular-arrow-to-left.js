@@ -1,0 +1,3 @@
+import FlatRegularArrowToLeft from "../../../asset/svg/regular/fi-rr-arrow-to-left.svg";
+export { FlatRegularArrowToLeft };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93LXRvLWxlZnQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItYXJyb3ctdG8tbGVmdC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHNCQUFzQixNQUFNLG9EQUFvRCxDQUFDO0FBQ3pGLE9BQU8sRUFBQyxzQkFBc0IsRUFBQyxDQUFDIn0=

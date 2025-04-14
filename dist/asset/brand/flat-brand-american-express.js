@@ -1,0 +1,3 @@
+import FlatBrandAmericanExpress from "../../../asset/svg/brand/fi-brands-american-express.svg";
+export { FlatBrandAmericanExpress };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1hbWVyaWNhbi1leHByZXNzLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtYnJhbmQtYW1lcmljYW4tZXhwcmVzcy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHdCQUF3QixNQUFNLHlEQUF5RCxDQUFDO0FBQ2hHLE9BQU8sRUFBQyx3QkFBd0IsRUFBQyxDQUFDIn0=

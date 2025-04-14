@@ -1,0 +1,3 @@
+import FlatRegularRoadMapPin from "../../../asset/svg/regular/fi-rr-road-map-pin.svg";
+export { FlatRegularRoadMapPin };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXJvYWQtbWFwLXBpbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1yb2FkLW1hcC1waW4udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxxQkFBcUIsTUFBTSxtREFBbUQsQ0FBQztBQUN2RixPQUFPLEVBQUMscUJBQXFCLEVBQUMsQ0FBQyJ9

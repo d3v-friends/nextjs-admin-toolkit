@@ -1,0 +1,3 @@
+import FlatRegularLightSwitchOn from "../../../asset/svg/regular/fi-rr-light-switch-on.svg";
+export { FlatRegularLightSwitchOn };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWxpZ2h0LXN3aXRjaC1vbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1saWdodC1zd2l0Y2gtb24udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx3QkFBd0IsTUFBTSxzREFBc0QsQ0FBQztBQUM3RixPQUFPLEVBQUMsd0JBQXdCLEVBQUMsQ0FBQyJ9

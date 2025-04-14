@@ -1,0 +1,3 @@
+import FlatBrandEvernote from "../../../asset/svg/brand/fi-brands-evernote.svg";
+export { FlatBrandEvernote };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1ldmVybm90ZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LWJyYW5kLWV2ZXJub3RlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsaUJBQWlCLE1BQU0saURBQWlELENBQUM7QUFDakYsT0FBTyxFQUFDLGlCQUFpQixFQUFDLENBQUMifQ==

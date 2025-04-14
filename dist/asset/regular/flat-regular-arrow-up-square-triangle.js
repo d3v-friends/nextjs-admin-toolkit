@@ -1,0 +1,3 @@
+import FlatRegularArrowUpSquareTriangle from "../../../asset/svg/regular/fi-rr-arrow-up-square-triangle.svg";
+export { FlatRegularArrowUpSquareTriangle };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93LXVwLXNxdWFyZS10cmlhbmdsZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1hcnJvdy11cC1zcXVhcmUtdHJpYW5nbGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxnQ0FBZ0MsTUFBTSwrREFBK0QsQ0FBQztBQUM5RyxPQUFPLEVBQUMsZ0NBQWdDLEVBQUMsQ0FBQyJ9

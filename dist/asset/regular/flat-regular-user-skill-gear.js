@@ -1,0 +1,3 @@
+import FlatRegularUserSkillGear from "../../../asset/svg/regular/fi-rr-user-skill-gear.svg";
+export { FlatRegularUserSkillGear };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXVzZXItc2tpbGwtZ2Vhci5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci11c2VyLXNraWxsLWdlYXIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx3QkFBd0IsTUFBTSxzREFBc0QsQ0FBQztBQUM3RixPQUFPLEVBQUMsd0JBQXdCLEVBQUMsQ0FBQyJ9

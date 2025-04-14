@@ -1,0 +1,3 @@
+import FlatRegularH2 from "../../../asset/svg/regular/fi-rr-h2.svg";
+export { FlatRegularH2 };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWgtMi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1oLTIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxhQUFhLE1BQU0seUNBQXlDLENBQUM7QUFDckUsT0FBTyxFQUFDLGFBQWEsRUFBQyxDQUFDIn0=

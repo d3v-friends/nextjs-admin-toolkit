@@ -1,0 +1,3 @@
+import FlatRegularSlidesgo from "../../../asset/svg/brand/fi-brands-slidesgo.svg";
+export { FlatRegularSlidesgo };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNsaWRlc2dvLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtcmVndWxhci1zbGlkZXNnby50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLG1CQUFtQixNQUFNLGlEQUFpRCxDQUFDO0FBQ25GLE9BQU8sRUFBQyxtQkFBbUIsRUFBQyxDQUFDIn0=

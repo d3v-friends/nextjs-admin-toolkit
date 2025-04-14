@@ -1,0 +1,3 @@
+import FlatRegularIntroductionHandshake from "../../../asset/svg/regular/fi-rr-introduction-handshake.svg";
+export { FlatRegularIntroductionHandshake };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWludHJvZHVjdGlvbi1oYW5kc2hha2UuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItaW50cm9kdWN0aW9uLWhhbmRzaGFrZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGdDQUFnQyxNQUFNLDZEQUE2RCxDQUFDO0FBQzVHLE9BQU8sRUFBQyxnQ0FBZ0MsRUFBQyxDQUFDIn0=

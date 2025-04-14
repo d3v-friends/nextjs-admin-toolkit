@@ -1,0 +1,3 @@
+import FlatRegularTimeTwentyFour from "../../../asset/svg/regular/fi-rr-time-twenty-four.svg";
+export { FlatRegularTimeTwentyFour };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRpbWUtdHdlbnR5LWZvdXIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItdGltZS10d2VudHktZm91ci50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHlCQUF5QixNQUFNLHVEQUF1RCxDQUFDO0FBQy9GLE9BQU8sRUFBQyx5QkFBeUIsRUFBQyxDQUFDIn0=

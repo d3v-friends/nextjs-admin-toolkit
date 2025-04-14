@@ -1,0 +1,3 @@
+import FlatRegularCircleBookOpen from "../../../asset/svg/regular/fi-rr-circle-book-open.svg";
+export { FlatRegularCircleBookOpen };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNpcmNsZS1ib29rLW9wZW4uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItY2lyY2xlLWJvb2stb3Blbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHlCQUF5QixNQUFNLHVEQUF1RCxDQUFDO0FBQy9GLE9BQU8sRUFBQyx5QkFBeUIsRUFBQyxDQUFDIn0=

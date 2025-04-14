@@ -1,0 +1,3 @@
+import FlatRegularCheckOutCalendar from "../../../asset/svg/regular/fi-rr-check-out-calendar.svg";
+export { FlatRegularCheckOutCalendar };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNoZWNrLW91dC1jYWxlbmRhci5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1jaGVjay1vdXQtY2FsZW5kYXIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwyQkFBMkIsTUFBTSx5REFBeUQsQ0FBQztBQUNuRyxPQUFPLEVBQUMsMkJBQTJCLEVBQUMsQ0FBQyJ9

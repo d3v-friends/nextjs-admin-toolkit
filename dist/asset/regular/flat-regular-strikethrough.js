@@ -1,0 +1,3 @@
+import FlatRegularStrikethrough from "../../../asset/svg/regular/fi-rr-strikethrough.svg";
+export { FlatRegularStrikethrough };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXN0cmlrZXRocm91Z2guanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItc3RyaWtldGhyb3VnaC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHdCQUF3QixNQUFNLG9EQUFvRCxDQUFDO0FBQzNGLE9BQU8sRUFBQyx3QkFBd0IsRUFBQyxDQUFDIn0=

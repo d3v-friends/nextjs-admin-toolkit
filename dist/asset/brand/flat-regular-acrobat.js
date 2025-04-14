@@ -1,0 +1,3 @@
+import FlatRegularAcrobat from "../../../asset/svg/brand/fi-brands-acrobat.svg";
+export { FlatRegularAcrobat };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFjcm9iYXQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLWFjcm9iYXQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxrQkFBa0IsTUFBTSxnREFBZ0QsQ0FBQztBQUNqRixPQUFPLEVBQUMsa0JBQWtCLEVBQUMsQ0FBQyJ9

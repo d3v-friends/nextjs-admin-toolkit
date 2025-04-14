@@ -1,0 +1,3 @@
+import FlatRegularFolderPlusCircle from "../../../asset/svg/regular/fi-rr-folder-plus-circle.svg";
+export { FlatRegularFolderPlusCircle };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZvbGRlci1wbHVzLWNpcmNsZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1mb2xkZXItcGx1cy1jaXJjbGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwyQkFBMkIsTUFBTSx5REFBeUQsQ0FBQztBQUNuRyxPQUFPLEVBQUMsMkJBQTJCLEVBQUMsQ0FBQyJ9

@@ -1,0 +1,3 @@
+import FlatRegularGroupArrowsRotate from "../../../asset/svg/regular/fi-rr-group-arrows-rotate.svg";
+export { FlatRegularGroupArrowsRotate };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWdyb3VwLWFycm93cy1yb3RhdGUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZ3JvdXAtYXJyb3dzLXJvdGF0ZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDRCQUE0QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3JHLE9BQU8sRUFBQyw0QkFBNEIsRUFBQyxDQUFDIn0=

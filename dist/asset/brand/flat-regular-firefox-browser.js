@@ -1,0 +1,3 @@
+import FlatRegularFirefoxBrowser from "../../../asset/svg/brand/fi-brands-firefox-browser.svg";
+export { FlatRegularFirefoxBrowser };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZpcmVmb3gtYnJvd3Nlci5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItZmlyZWZveC1icm93c2VyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEseUJBQXlCLE1BQU0sd0RBQXdELENBQUM7QUFDaEcsT0FBTyxFQUFDLHlCQUF5QixFQUFDLENBQUMifQ==

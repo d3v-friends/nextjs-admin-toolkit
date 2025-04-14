@@ -1,0 +1,3 @@
+import FlatRegularPianoKeyboard from "../../../asset/svg/regular/fi-rr-piano-keyboard.svg";
+export { FlatRegularPianoKeyboard };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBpYW5vLWtleWJvYXJkLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXBpYW5vLWtleWJvYXJkLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsd0JBQXdCLE1BQU0scURBQXFELENBQUM7QUFDNUYsT0FBTyxFQUFDLHdCQUF3QixFQUFDLENBQUMifQ==

@@ -1,0 +1,3 @@
+import FlatRegularSnowboarding from "../../../asset/svg/regular/fi-rr-snowboarding.svg";
+export { FlatRegularSnowboarding };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNub3dib2FyZGluZy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1zbm93Ym9hcmRpbmcudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx1QkFBdUIsTUFBTSxtREFBbUQsQ0FBQztBQUN6RixPQUFPLEVBQUMsdUJBQXVCLEVBQUMsQ0FBQyJ9

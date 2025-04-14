@@ -1,0 +1,3 @@
+import FlatRegularMegaphoneSoundWaves from "../../../asset/svg/regular/fi-rr-megaphone-sound-waves.svg";
+export { FlatRegularMegaphoneSoundWaves };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1lZ2FwaG9uZS1zb3VuZC13YXZlcy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1tZWdhcGhvbmUtc291bmQtd2F2ZXMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw4QkFBOEIsTUFBTSw0REFBNEQsQ0FBQztBQUN6RyxPQUFPLEVBQUMsOEJBQThCLEVBQUMsQ0FBQyJ9

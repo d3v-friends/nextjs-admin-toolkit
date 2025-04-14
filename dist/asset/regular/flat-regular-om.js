@@ -1,0 +1,3 @@
+import FlatRegularOm from "../../../asset/svg/regular/fi-rr-om.svg";
+export { FlatRegularOm };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW9tLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLW9tLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsYUFBYSxNQUFNLHlDQUF5QyxDQUFDO0FBQ3JFLE9BQU8sRUFBQyxhQUFhLEVBQUMsQ0FBQyJ9

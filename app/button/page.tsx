@@ -1,4 +1,5 @@
-import {FlatMenuBurger, Panel, Widget} from "@root";
+import {Panel, Widget} from "@root";
+import {FlatRegularMenuBurger} from "@root/asset/regular/flat-regular-menu-burger";
 import {NextPageProps} from "nextjs-tools";
 import React from "react";
 
@@ -26,7 +27,7 @@ export default function ({}: NextPageProps) {
 			<div className="grid grid-cols-1 gap-2 lg:grid-cols-4 lg:gap-4 mb-10">
 				{colors.map((color, key) => (
 					<Button
-						iconSrc={FlatMenuBurger}
+						iconSrc={FlatRegularMenuBurger}
 						key={key}
 						buttonColor={color as any}
 						buttonStyle={"filled"}>
@@ -39,7 +40,7 @@ export default function ({}: NextPageProps) {
 			<div className="grid grid-cols-1 gap-2 lg:grid-cols-4 lg:gap-4 mb-10">
 				{colors.map((color, key) => (
 					<Button
-						iconSrc={FlatMenuBurger}
+						iconSrc={FlatRegularMenuBurger}
 						key={key}
 						buttonColor={color as any}
 						buttonStyle={"filled"}
@@ -53,7 +54,7 @@ export default function ({}: NextPageProps) {
 			<div className="grid grid-cols-1 gap-2 lg:grid-cols-4 lg:gap-4 mb-10">
 				{colors.map((color, key) => (
 					<Button
-						iconSrc={FlatMenuBurger}
+						iconSrc={FlatRegularMenuBurger}
 						key={key}
 						buttonColor={color as any}
 						buttonStyle={"outlined"}>
@@ -71,21 +72,21 @@ export default function ({}: NextPageProps) {
 			</Button>
 			<Button
 				className="mr-2"
-				iconSrc={FlatMenuBurger}
+				iconSrc={FlatRegularMenuBurger}
 				buttonColor="primary"
 				buttonSize="sm">
 				sm
 			</Button>
 			<Button
 				className="mr-2"
-				iconSrc={FlatMenuBurger}
+				iconSrc={FlatRegularMenuBurger}
 				buttonColor="primary"
 				buttonSize="md">
 				md
 			</Button>
 			<Button
 				className="mr-2"
-				iconSrc={FlatMenuBurger}
+				iconSrc={FlatRegularMenuBurger}
 				buttonColor="primary"
 				buttonSize="lg">
 				lg
@@ -101,7 +102,7 @@ export default function ({}: NextPageProps) {
 			<Button
 				disabled
 				className="mr-2"
-				iconSrc={FlatMenuBurger}
+				iconSrc={FlatRegularMenuBurger}
 				buttonColor="primary"
 				buttonSize="sm">
 				disabled
@@ -116,7 +117,7 @@ export default function ({}: NextPageProps) {
 			<Button
 				disabled
 				className="mr-2"
-				iconSrc={FlatMenuBurger}
+				iconSrc={FlatRegularMenuBurger}
 				buttonColor="primary"
 				buttonSize="sm"
 				buttonStyle="outlined">
@@ -134,7 +135,7 @@ export default function ({}: NextPageProps) {
 			<Link
 				href="/table"
 				className="mr-2"
-				iconSrc={FlatMenuBurger}
+				iconSrc={FlatRegularMenuBurger}
 				buttonColor="primary"
 				buttonSize="sm">
 				/table

@@ -1,0 +1,3 @@
+import FlatRegularMediaEncoder from "../../../asset/svg/brand/fi-brands-media-encoder.svg";
+export { FlatRegularMediaEncoder };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1lZGlhLWVuY29kZXIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLW1lZGlhLWVuY29kZXIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx1QkFBdUIsTUFBTSxzREFBc0QsQ0FBQztBQUM1RixPQUFPLEVBQUMsdUJBQXVCLEVBQUMsQ0FBQyJ9

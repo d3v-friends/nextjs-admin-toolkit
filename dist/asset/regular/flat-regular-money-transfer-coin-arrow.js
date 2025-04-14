@@ -1,0 +1,3 @@
+import FlatRegularMoneyTransferCoinArrow from "../../../asset/svg/regular/fi-rr-money-transfer-coin-arrow.svg";
+export { FlatRegularMoneyTransferCoinArrow };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1vbmV5LXRyYW5zZmVyLWNvaW4tYXJyb3cuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItbW9uZXktdHJhbnNmZXItY29pbi1hcnJvdy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGlDQUFpQyxNQUFNLGdFQUFnRSxDQUFDO0FBQ2hILE9BQU8sRUFBQyxpQ0FBaUMsRUFBQyxDQUFDIn0=

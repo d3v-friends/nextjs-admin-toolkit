@@ -1,0 +1,3 @@
+import FlatBrandAtlassian from "../../../asset/svg/brand/fi-brands-atlassian.svg";
+export { FlatBrandAtlassian };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1hdGxhc3NpYW4uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC1hdGxhc3NpYW4udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxrQkFBa0IsTUFBTSxrREFBa0QsQ0FBQztBQUNuRixPQUFPLEVBQUMsa0JBQWtCLEVBQUMsQ0FBQyJ9

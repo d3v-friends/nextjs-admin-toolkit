@@ -1,0 +1,3 @@
+import FlatRegularFaceRaisedEyebrow from "../../../asset/svg/regular/fi-rr-face-raised-eyebrow.svg";
+export { FlatRegularFaceRaisedEyebrow };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZhY2UtcmFpc2VkLWV5ZWJyb3cuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZmFjZS1yYWlzZWQtZXllYnJvdy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDRCQUE0QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3JHLE9BQU8sRUFBQyw0QkFBNEIsRUFBQyxDQUFDIn0=

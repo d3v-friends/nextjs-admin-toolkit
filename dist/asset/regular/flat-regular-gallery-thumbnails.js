@@ -1,0 +1,3 @@
+import FlatRegularGalleryThumbnails from "../../../asset/svg/regular/fi-rr-gallery-thumbnails.svg";
+export { FlatRegularGalleryThumbnails };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWdhbGxlcnktdGh1bWJuYWlscy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1nYWxsZXJ5LXRodW1ibmFpbHMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw0QkFBNEIsTUFBTSx5REFBeUQsQ0FBQztBQUNwRyxPQUFPLEVBQUMsNEJBQTRCLEVBQUMsQ0FBQyJ9

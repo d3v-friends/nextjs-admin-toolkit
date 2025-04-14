@@ -1,0 +1,3 @@
+import FlatRegularFaceGrinTongueWink from "../../../asset/svg/regular/fi-rr-face-grin-tongue-wink.svg";
+export { FlatRegularFaceGrinTongueWink };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZhY2UtZ3Jpbi10b25ndWUtd2luay5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1mYWNlLWdyaW4tdG9uZ3VlLXdpbmsudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw2QkFBNkIsTUFBTSw0REFBNEQsQ0FBQztBQUN4RyxPQUFPLEVBQUMsNkJBQTZCLEVBQUMsQ0FBQyJ9

@@ -1,0 +1,3 @@
+import FlatRegularMicrosoftExplorer from "../../../asset/svg/brand/fi-brands-microsoft-explorer.svg";
+export { FlatRegularMicrosoftExplorer };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1pY3Jvc29mdC1leHBsb3Jlci5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItbWljcm9zb2Z0LWV4cGxvcmVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNEJBQTRCLE1BQU0sMkRBQTJELENBQUM7QUFDdEcsT0FBTyxFQUFDLDRCQUE0QixFQUFDLENBQUMifQ==

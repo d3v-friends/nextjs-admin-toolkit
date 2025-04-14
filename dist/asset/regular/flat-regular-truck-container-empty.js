@@ -1,0 +1,3 @@
+import FlatRegularTruckContainerEmpty from "../../../asset/svg/regular/fi-rr-truck-container-empty.svg";
+export { FlatRegularTruckContainerEmpty };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRydWNrLWNvbnRhaW5lci1lbXB0eS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci10cnVjay1jb250YWluZXItZW1wdHkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw4QkFBOEIsTUFBTSw0REFBNEQsQ0FBQztBQUN6RyxPQUFPLEVBQUMsOEJBQThCLEVBQUMsQ0FBQyJ9

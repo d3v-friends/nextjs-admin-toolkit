@@ -1,0 +1,3 @@
+import FlatRegularTypescript from "../../../asset/svg/brand/fi-brands-typescript.svg";
+export { FlatRegularTypescript };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXR5cGVzY3JpcHQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLXR5cGVzY3JpcHQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxxQkFBcUIsTUFBTSxtREFBbUQsQ0FBQztBQUN2RixPQUFPLEVBQUMscUJBQXFCLEVBQUMsQ0FBQyJ9

@@ -1,0 +1,3 @@
+import FlatRegularLesbianCouple from "../../../asset/svg/regular/fi-rr-lesbian-couple.svg";
+export { FlatRegularLesbianCouple };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWxlc2JpYW4tY291cGxlLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWxlc2JpYW4tY291cGxlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsd0JBQXdCLE1BQU0scURBQXFELENBQUM7QUFDNUYsT0FBTyxFQUFDLHdCQUF3QixFQUFDLENBQUMifQ==

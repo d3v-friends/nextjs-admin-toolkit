@@ -1,0 +1,3 @@
+import FlatRegularConciergeBell from "../../../asset/svg/regular/fi-rr-concierge-bell.svg";
+export { FlatRegularConciergeBell };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNvbmNpZXJnZS1iZWxsLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNvbmNpZXJnZS1iZWxsLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsd0JBQXdCLE1BQU0scURBQXFELENBQUM7QUFDNUYsT0FBTyxFQUFDLHdCQUF3QixFQUFDLENBQUMifQ==

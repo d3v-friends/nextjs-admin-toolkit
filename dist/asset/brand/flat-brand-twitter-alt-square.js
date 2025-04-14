@@ -1,0 +1,3 @@
+import FlatBrandTwitterAltSquare from "../../../asset/svg/brand/fi-brands-twitter-alt-square.svg";
+export { FlatBrandTwitterAltSquare };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC10d2l0dGVyLWFsdC1zcXVhcmUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC10d2l0dGVyLWFsdC1zcXVhcmUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx5QkFBeUIsTUFBTSwyREFBMkQsQ0FBQztBQUNuRyxPQUFPLEVBQUMseUJBQXlCLEVBQUMsQ0FBQyJ9

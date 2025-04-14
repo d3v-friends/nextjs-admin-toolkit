@@ -1,0 +1,3 @@
+import FlatRegularRankingPodiumEmpty from "../../../asset/svg/regular/fi-rr-ranking-podium-empty.svg";
+export { FlatRegularRankingPodiumEmpty };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXJhbmtpbmctcG9kaXVtLWVtcHR5LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXJhbmtpbmctcG9kaXVtLWVtcHR5LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNkJBQTZCLE1BQU0sMkRBQTJELENBQUM7QUFDdkcsT0FBTyxFQUFDLDZCQUE2QixFQUFDLENBQUMifQ==

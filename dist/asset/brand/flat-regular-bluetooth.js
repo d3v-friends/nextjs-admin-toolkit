@@ -1,0 +1,3 @@
+import FlatRegularBluetooth from "../../../asset/svg/brand/fi-brands-bluetooth.svg";
+export { FlatRegularBluetooth };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJsdWV0b290aC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItYmx1ZXRvb3RoLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsb0JBQW9CLE1BQU0sa0RBQWtELENBQUM7QUFDckYsT0FBTyxFQUFDLG9CQUFvQixFQUFDLENBQUMifQ==

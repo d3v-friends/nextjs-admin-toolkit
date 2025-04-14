@@ -1,0 +1,3 @@
+import FlatRegularPriorityImportance from "../../../asset/svg/regular/fi-rr-priority-importance.svg";
+export { FlatRegularPriorityImportance };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXByaW9yaXR5LWltcG9ydGFuY2UuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItcHJpb3JpdHktaW1wb3J0YW5jZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDZCQUE2QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3RHLE9BQU8sRUFBQyw2QkFBNkIsRUFBQyxDQUFDIn0=

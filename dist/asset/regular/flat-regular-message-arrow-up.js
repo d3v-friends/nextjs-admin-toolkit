@@ -1,0 +1,3 @@
+import FlatRegularMessageArrowUp from "../../../asset/svg/regular/fi-rr-message-arrow-up.svg";
+export { FlatRegularMessageArrowUp };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1lc3NhZ2UtYXJyb3ctdXAuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItbWVzc2FnZS1hcnJvdy11cC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHlCQUF5QixNQUFNLHVEQUF1RCxDQUFDO0FBQy9GLE9BQU8sRUFBQyx5QkFBeUIsRUFBQyxDQUFDIn0=

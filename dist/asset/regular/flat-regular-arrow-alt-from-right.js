@@ -1,0 +1,3 @@
+import FlatRegularArrowAltFromRight from "../../../asset/svg/regular/fi-rr-arrow-alt-from-right.svg";
+export { FlatRegularArrowAltFromRight };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93LWFsdC1mcm9tLXJpZ2h0LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWFycm93LWFsdC1mcm9tLXJpZ2h0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNEJBQTRCLE1BQU0sMkRBQTJELENBQUM7QUFDdEcsT0FBTyxFQUFDLDRCQUE0QixFQUFDLENBQUMifQ==

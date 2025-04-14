@@ -1,0 +1,3 @@
+import FlatRegularFaceNauseated from "../../../asset/svg/regular/fi-rr-face-nauseated.svg";
+export { FlatRegularFaceNauseated };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZhY2UtbmF1c2VhdGVkLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWZhY2UtbmF1c2VhdGVkLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsd0JBQXdCLE1BQU0scURBQXFELENBQUM7QUFDNUYsT0FBTyxFQUFDLHdCQUF3QixFQUFDLENBQUMifQ==

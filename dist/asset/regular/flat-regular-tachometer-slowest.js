@@ -1,0 +1,3 @@
+import FlatRegularTachometerSlowest from "../../../asset/svg/regular/fi-rr-tachometer-slowest.svg";
+export { FlatRegularTachometerSlowest };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRhY2hvbWV0ZXItc2xvd2VzdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci10YWNob21ldGVyLXNsb3dlc3QudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw0QkFBNEIsTUFBTSx5REFBeUQsQ0FBQztBQUNwRyxPQUFPLEVBQUMsNEJBQTRCLEVBQUMsQ0FBQyJ9

@@ -1,0 +1,3 @@
+import FlatBrandDrupal from "../../../asset/svg/brand/fi-brands-drupal.svg";
+export { FlatBrandDrupal };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1kcnVwYWwuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC1kcnVwYWwudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxlQUFlLE1BQU0sK0NBQStDLENBQUM7QUFDN0UsT0FBTyxFQUFDLGVBQWUsRUFBQyxDQUFDIn0=

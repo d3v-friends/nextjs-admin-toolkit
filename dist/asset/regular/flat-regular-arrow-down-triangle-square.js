@@ -1,0 +1,3 @@
+import FlatRegularArrowDownTriangleSquare from "../../../asset/svg/regular/fi-rr-arrow-down-triangle-square.svg";
+export { FlatRegularArrowDownTriangleSquare };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93LWRvd24tdHJpYW5nbGUtc3F1YXJlLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWFycm93LWRvd24tdHJpYW5nbGUtc3F1YXJlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsa0NBQWtDLE1BQU0saUVBQWlFLENBQUM7QUFDbEgsT0FBTyxFQUFDLGtDQUFrQyxFQUFDLENBQUMifQ==

@@ -1,0 +1,3 @@
+import FlatRegularCupTogo from "../../../asset/svg/regular/fi-rr-cup-togo.svg";
+export { FlatRegularCupTogo };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWN1cC10b2dvLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWN1cC10b2dvLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsa0JBQWtCLE1BQU0sK0NBQStDLENBQUM7QUFDaEYsT0FBTyxFQUFDLGtCQUFrQixFQUFDLENBQUMifQ==

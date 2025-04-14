@@ -1,0 +1,3 @@
+import FlatRegularAero from "../../../asset/svg/brand/fi-brands-aero.svg";
+export { FlatRegularAero };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFlcm8uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLWFlcm8udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxlQUFlLE1BQU0sNkNBQTZDLENBQUM7QUFDM0UsT0FBTyxFQUFDLGVBQWUsRUFBQyxDQUFDIn0=

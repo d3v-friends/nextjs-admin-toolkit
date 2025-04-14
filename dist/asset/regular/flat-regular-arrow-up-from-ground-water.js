@@ -1,0 +1,3 @@
+import FlatRegularArrowUpFromGroundWater from "../../../asset/svg/regular/fi-rr-arrow-up-from-ground-water.svg";
+export { FlatRegularArrowUpFromGroundWater };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93LXVwLWZyb20tZ3JvdW5kLXdhdGVyLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWFycm93LXVwLWZyb20tZ3JvdW5kLXdhdGVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsaUNBQWlDLE1BQU0saUVBQWlFLENBQUM7QUFDakgsT0FBTyxFQUFDLGlDQUFpQyxFQUFDLENBQUMifQ==

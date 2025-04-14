@@ -1,0 +1,3 @@
+import FlatRegularUserMdChat from "../../../asset/svg/regular/fi-rr-user-md-chat.svg";
+export { FlatRegularUserMdChat };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXVzZXItbWQtY2hhdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci11c2VyLW1kLWNoYXQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxxQkFBcUIsTUFBTSxtREFBbUQsQ0FBQztBQUN2RixPQUFPLEVBQUMscUJBQXFCLEVBQUMsQ0FBQyJ9

@@ -1,0 +1,3 @@
+import FlatRegularBattery100 from "../../../asset/svg/regular/fi-rr-battery-100.svg";
+export { FlatRegularBattery100 };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJhdHRlcnktMS0wLTAuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItYmF0dGVyeS0xLTAtMC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHFCQUFxQixNQUFNLGtEQUFrRCxDQUFDO0FBQ3RGLE9BQU8sRUFBQyxxQkFBcUIsRUFBQyxDQUFDIn0=

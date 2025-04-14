@@ -1,0 +1,3 @@
+import FlatRegularFlaticon1 from "../../../asset/svg/brand/fi-brands-flaticon-1.svg";
+export { FlatRegularFlaticon1 };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZsYXRpY29uLTEuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLWZsYXRpY29uLTEudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxvQkFBb0IsTUFBTSxtREFBbUQsQ0FBQztBQUN0RixPQUFPLEVBQUMsb0JBQW9CLEVBQUMsQ0FBQyJ9

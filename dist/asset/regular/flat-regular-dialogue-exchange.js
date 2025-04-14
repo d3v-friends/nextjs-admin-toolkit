@@ -1,0 +1,3 @@
+import FlatRegularDialogueExchange from "../../../asset/svg/regular/fi-rr-dialogue-exchange.svg";
+export { FlatRegularDialogueExchange };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWRpYWxvZ3VlLWV4Y2hhbmdlLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWRpYWxvZ3VlLWV4Y2hhbmdlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsMkJBQTJCLE1BQU0sd0RBQXdELENBQUM7QUFDbEcsT0FBTyxFQUFDLDJCQUEyQixFQUFDLENBQUMifQ==

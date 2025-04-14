@@ -1,0 +1,3 @@
+import FlatRegularPayrollCalendar from "../../../asset/svg/regular/fi-rr-payroll-calendar.svg";
+export { FlatRegularPayrollCalendar };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBheXJvbGwtY2FsZW5kYXIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItcGF5cm9sbC1jYWxlbmRhci50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDBCQUEwQixNQUFNLHVEQUF1RCxDQUFDO0FBQ2hHLE9BQU8sRUFBQywwQkFBMEIsRUFBQyxDQUFDIn0=

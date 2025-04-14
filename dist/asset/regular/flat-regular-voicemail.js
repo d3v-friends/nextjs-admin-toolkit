@@ -1,0 +1,3 @@
+import FlatRegularVoicemail from "../../../asset/svg/regular/fi-rr-voicemail.svg";
+export { FlatRegularVoicemail };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXZvaWNlbWFpbC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci12b2ljZW1haWwudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxvQkFBb0IsTUFBTSxnREFBZ0QsQ0FBQztBQUNuRixPQUFPLEVBQUMsb0JBQW9CLEVBQUMsQ0FBQyJ9

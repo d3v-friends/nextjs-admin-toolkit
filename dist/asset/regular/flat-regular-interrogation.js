@@ -1,0 +1,3 @@
+import FlatRegularInterrogation from "../../../asset/svg/regular/fi-rr-interrogation.svg";
+export { FlatRegularInterrogation };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWludGVycm9nYXRpb24uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItaW50ZXJyb2dhdGlvbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHdCQUF3QixNQUFNLG9EQUFvRCxDQUFDO0FBQzNGLE9BQU8sRUFBQyx3QkFBd0IsRUFBQyxDQUFDIn0=

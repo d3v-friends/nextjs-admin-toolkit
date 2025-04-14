@@ -2,7 +2,7 @@
 import Image from "next/image";
 import {fnCss} from "nextjs-tools";
 import React, {ReactNode, useState} from "react";
-import {FlatMenuBurger} from "../../..";
+import {FlatRegularMenuBurger} from "../../../asset/regular/flat-regular-menu-burger";
 import Accordion, {Props as AccordionProps} from "./accordion";
 import Aside from "./aside";
 
@@ -27,7 +27,7 @@ export default function ({header, asideMenus, top}: Readonly<Props>) {
 					onClick={() => setOpen(!open)}>
 					<Image
 						className="filter-(--light-filter)"
-						src={FlatMenuBurger}
+						src={FlatRegularMenuBurger}
 						width={25}
 						height={25}
 						alt="menu"

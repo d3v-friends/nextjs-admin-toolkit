@@ -1,0 +1,3 @@
+import FlatRegularScannerKeyboard from "../../../asset/svg/regular/fi-rr-scanner-keyboard.svg";
+export { FlatRegularScannerKeyboard };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNjYW5uZXIta2V5Ym9hcmQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItc2Nhbm5lci1rZXlib2FyZC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDBCQUEwQixNQUFNLHVEQUF1RCxDQUFDO0FBQ2hHLE9BQU8sRUFBQywwQkFBMEIsRUFBQyxDQUFDIn0=

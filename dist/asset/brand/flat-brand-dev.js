@@ -1,0 +1,3 @@
+import FlatBrandDev from "../../../asset/svg/brand/fi-brands-dev.svg";
+export { FlatBrandDev };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1kZXYuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC1kZXYudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxZQUFZLE1BQU0sNENBQTRDLENBQUM7QUFDdkUsT0FBTyxFQUFDLFlBQVksRUFBQyxDQUFDIn0=

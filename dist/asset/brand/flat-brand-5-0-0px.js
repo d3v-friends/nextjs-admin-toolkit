@@ -1,0 +1,3 @@
+import FlatBrand500px from "../../../asset/svg/brand/fi-brands-500px.svg";
+export { FlatBrand500px };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC01LTAtMHB4LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtYnJhbmQtNS0wLTBweC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGNBQWMsTUFBTSw4Q0FBOEMsQ0FBQztBQUMzRSxPQUFPLEVBQUMsY0FBYyxFQUFDLENBQUMifQ==

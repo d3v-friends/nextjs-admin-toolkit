@@ -1,0 +1,3 @@
+import FlatRegularBookCircleArrowUp from "../../../asset/svg/regular/fi-rr-book-circle-arrow-up.svg";
+export { FlatRegularBookCircleArrowUp };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJvb2stY2lyY2xlLWFycm93LXVwLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWJvb2stY2lyY2xlLWFycm93LXVwLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNEJBQTRCLE1BQU0sMkRBQTJELENBQUM7QUFDdEcsT0FBTyxFQUFDLDRCQUE0QixFQUFDLENBQUMifQ==

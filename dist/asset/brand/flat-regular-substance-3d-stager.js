@@ -1,0 +1,3 @@
+import FlatRegularSubstance3dStager from "../../../asset/svg/brand/fi-brands-substance-3d-stager.svg";
+export { FlatRegularSubstance3dStager };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXN1YnN0YW5jZS0zZC1zdGFnZXIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLXN1YnN0YW5jZS0zZC1zdGFnZXIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw0QkFBNEIsTUFBTSw0REFBNEQsQ0FBQztBQUN2RyxPQUFPLEVBQUMsNEJBQTRCLEVBQUMsQ0FBQyJ9

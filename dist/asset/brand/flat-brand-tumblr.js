@@ -1,0 +1,3 @@
+import FlatBrandTumblr from "../../../asset/svg/brand/fi-brands-tumblr.svg";
+export { FlatBrandTumblr };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC10dW1ibHIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC10dW1ibHIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxlQUFlLE1BQU0sK0NBQStDLENBQUM7QUFDN0UsT0FBTyxFQUFDLGVBQWUsRUFBQyxDQUFDIn0=

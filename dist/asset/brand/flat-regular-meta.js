@@ -1,0 +1,3 @@
+import FlatRegularMeta from "../../../asset/svg/brand/fi-brands-meta.svg";
+export { FlatRegularMeta };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1ldGEuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLW1ldGEudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxlQUFlLE1BQU0sNkNBQTZDLENBQUM7QUFDM0UsT0FBTyxFQUFDLGVBQWUsRUFBQyxDQUFDIn0=

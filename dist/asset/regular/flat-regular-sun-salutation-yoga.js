@@ -1,0 +1,3 @@
+import FlatRegularSunSalutationYoga from "../../../asset/svg/regular/fi-rr-sun-salutation-yoga.svg";
+export { FlatRegularSunSalutationYoga };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXN1bi1zYWx1dGF0aW9uLXlvZ2EuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItc3VuLXNhbHV0YXRpb24teW9nYS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDRCQUE0QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3JHLE9BQU8sRUFBQyw0QkFBNEIsRUFBQyxDQUFDIn0=

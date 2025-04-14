@@ -1,0 +1,3 @@
+import FlatRegularWifi2 from "../../../asset/svg/regular/fi-rr-wifi-2.svg";
+export { FlatRegularWifi2 };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXdpZmktMi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci13aWZpLTIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxnQkFBZ0IsTUFBTSw2Q0FBNkMsQ0FBQztBQUM1RSxPQUFPLEVBQUMsZ0JBQWdCLEVBQUMsQ0FBQyJ9

@@ -1,0 +1,3 @@
+import FlatRegularSmoke from "../../../asset/svg/regular/fi-rr-smoke.svg";
+export { FlatRegularSmoke };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNtb2tlLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXNtb2tlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0JBQWdCLE1BQU0sNENBQTRDLENBQUM7QUFDM0UsT0FBTyxFQUFDLGdCQUFnQixFQUFDLENBQUMifQ==

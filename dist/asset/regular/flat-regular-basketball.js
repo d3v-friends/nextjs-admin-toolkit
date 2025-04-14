@@ -1,0 +1,3 @@
+import FlatRegularBasketball from "../../../asset/svg/regular/fi-rr-basketball.svg";
+export { FlatRegularBasketball };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJhc2tldGJhbGwuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItYmFza2V0YmFsbC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHFCQUFxQixNQUFNLGlEQUFpRCxDQUFDO0FBQ3JGLE9BQU8sRUFBQyxxQkFBcUIsRUFBQyxDQUFDIn0=

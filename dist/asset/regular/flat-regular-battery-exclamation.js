@@ -1,0 +1,3 @@
+import FlatRegularBatteryExclamation from "../../../asset/svg/regular/fi-rr-battery-exclamation.svg";
+export { FlatRegularBatteryExclamation };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJhdHRlcnktZXhjbGFtYXRpb24uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItYmF0dGVyeS1leGNsYW1hdGlvbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDZCQUE2QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3RHLE9BQU8sRUFBQyw2QkFBNkIsRUFBQyxDQUFDIn0=

@@ -1,0 +1,3 @@
+import FlatRegularStarSharpHalfStroke from "../../../asset/svg/regular/fi-rr-star-sharp-half-stroke.svg";
+export { FlatRegularStarSharpHalfStroke };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXN0YXItc2hhcnAtaGFsZi1zdHJva2UuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItc3Rhci1zaGFycC1oYWxmLXN0cm9rZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDhCQUE4QixNQUFNLDZEQUE2RCxDQUFDO0FBQzFHLE9BQU8sRUFBQyw4QkFBOEIsRUFBQyxDQUFDIn0=

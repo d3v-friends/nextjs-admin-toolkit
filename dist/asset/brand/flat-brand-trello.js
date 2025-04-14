@@ -1,0 +1,3 @@
+import FlatBrandTrello from "../../../asset/svg/brand/fi-brands-trello.svg";
+export { FlatBrandTrello };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC10cmVsbG8uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC10cmVsbG8udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxlQUFlLE1BQU0sK0NBQStDLENBQUM7QUFDN0UsT0FBTyxFQUFDLGVBQWUsRUFBQyxDQUFDIn0=

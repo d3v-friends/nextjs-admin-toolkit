@@ -1,0 +1,3 @@
+import FlatRegularGameBoardAlt from "../../../asset/svg/regular/fi-rr-game-board-alt.svg";
+export { FlatRegularGameBoardAlt };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWdhbWUtYm9hcmQtYWx0LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWdhbWUtYm9hcmQtYWx0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsdUJBQXVCLE1BQU0scURBQXFELENBQUM7QUFDM0YsT0FBTyxFQUFDLHVCQUF1QixFQUFDLENBQUMifQ==

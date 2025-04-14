@@ -1,0 +1,3 @@
+import FlatRegularVidevo from "../../../asset/svg/brand/fi-brands-videvo.svg";
+export { FlatRegularVidevo };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXZpZGV2by5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItdmlkZXZvLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsaUJBQWlCLE1BQU0sK0NBQStDLENBQUM7QUFDL0UsT0FBTyxFQUFDLGlCQUFpQixFQUFDLENBQUMifQ==

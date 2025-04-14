@@ -1,0 +1,3 @@
+import FlatRegularTentArrowLeftRight from "../../../asset/svg/regular/fi-rr-tent-arrow-left-right.svg";
+export { FlatRegularTentArrowLeftRight };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRlbnQtYXJyb3ctbGVmdC1yaWdodC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci10ZW50LWFycm93LWxlZnQtcmlnaHQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw2QkFBNkIsTUFBTSw0REFBNEQsQ0FBQztBQUN4RyxPQUFPLEVBQUMsNkJBQTZCLEVBQUMsQ0FBQyJ9

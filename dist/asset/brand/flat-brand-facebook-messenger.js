@@ -1,0 +1,3 @@
+import FlatBrandFacebookMessenger from "../../../asset/svg/brand/fi-brands-facebook-messenger.svg";
+export { FlatBrandFacebookMessenger };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1mYWNlYm9vay1tZXNzZW5nZXIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC1mYWNlYm9vay1tZXNzZW5nZXIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwwQkFBMEIsTUFBTSwyREFBMkQsQ0FBQztBQUNwRyxPQUFPLEVBQUMsMEJBQTBCLEVBQUMsQ0FBQyJ9

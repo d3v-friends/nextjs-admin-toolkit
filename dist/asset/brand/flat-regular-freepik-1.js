@@ -1,0 +1,3 @@
+import FlatRegularFreepik1 from "../../../asset/svg/brand/fi-brands-freepik-1.svg";
+export { FlatRegularFreepik1 };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZyZWVwaWstMS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItZnJlZXBpay0xLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsbUJBQW1CLE1BQU0sa0RBQWtELENBQUM7QUFDcEYsT0FBTyxFQUFDLG1CQUFtQixFQUFDLENBQUMifQ==

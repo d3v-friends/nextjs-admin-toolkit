@@ -1,0 +1,3 @@
+import FlatRegularPersonCircleQuestion from "../../../asset/svg/regular/fi-rr-person-circle-question.svg";
+export { FlatRegularPersonCircleQuestion };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBlcnNvbi1jaXJjbGUtcXVlc3Rpb24uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItcGVyc29uLWNpcmNsZS1xdWVzdGlvbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLCtCQUErQixNQUFNLDZEQUE2RCxDQUFDO0FBQzNHLE9BQU8sRUFBQywrQkFBK0IsRUFBQyxDQUFDIn0=

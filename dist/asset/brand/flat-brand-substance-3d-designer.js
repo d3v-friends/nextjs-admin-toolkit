@@ -1,0 +1,3 @@
+import FlatBrandSubstance3dDesigner from "../../../asset/svg/brand/fi-brands-substance-3d-designer.svg";
+export { FlatBrandSubstance3dDesigner };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1zdWJzdGFuY2UtM2QtZGVzaWduZXIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC1zdWJzdGFuY2UtM2QtZGVzaWduZXIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw0QkFBNEIsTUFBTSw4REFBOEQsQ0FBQztBQUN6RyxPQUFPLEVBQUMsNEJBQTRCLEVBQUMsQ0FBQyJ9

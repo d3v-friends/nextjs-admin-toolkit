@@ -1,0 +1,3 @@
+import FlatRegularPencilPaintbrush from "../../../asset/svg/regular/fi-rr-pencil-paintbrush.svg";
+export { FlatRegularPencilPaintbrush };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBlbmNpbC1wYWludGJydXNoLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXBlbmNpbC1wYWludGJydXNoLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsMkJBQTJCLE1BQU0sd0RBQXdELENBQUM7QUFDbEcsT0FBTyxFQUFDLDJCQUEyQixFQUFDLENBQUMifQ==

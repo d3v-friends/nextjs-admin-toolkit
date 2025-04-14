@@ -1,0 +1,3 @@
+import FlatRegularAudioDescriptionSlash from "../../../asset/svg/regular/fi-rr-audio-description-slash.svg";
+export { FlatRegularAudioDescriptionSlash };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWF1ZGlvLWRlc2NyaXB0aW9uLXNsYXNoLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWF1ZGlvLWRlc2NyaXB0aW9uLXNsYXNoLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0NBQWdDLE1BQU0sOERBQThELENBQUM7QUFDN0csT0FBTyxFQUFDLGdDQUFnQyxFQUFDLENBQUMifQ==

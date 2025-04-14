@@ -1,0 +1,3 @@
+import FlatBrandSketch from "../../../asset/svg/brand/fi-brands-sketch.svg";
+export { FlatBrandSketch };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1za2V0Y2guanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC1za2V0Y2gudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxlQUFlLE1BQU0sK0NBQStDLENBQUM7QUFDN0UsT0FBTyxFQUFDLGVBQWUsRUFBQyxDQUFDIn0=

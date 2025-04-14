@@ -1,0 +1,3 @@
+import FlatRegularCustomizationCogwheel from "../../../asset/svg/regular/fi-rr-customization-cogwheel.svg";
+export { FlatRegularCustomizationCogwheel };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWN1c3RvbWl6YXRpb24tY29nd2hlZWwuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItY3VzdG9taXphdGlvbi1jb2d3aGVlbC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGdDQUFnQyxNQUFNLDZEQUE2RCxDQUFDO0FBQzVHLE9BQU8sRUFBQyxnQ0FBZ0MsRUFBQyxDQUFDIn0=

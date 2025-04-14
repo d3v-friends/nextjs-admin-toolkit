@@ -1,0 +1,3 @@
+import FlatRegularIncopy from "../../../asset/svg/brand/fi-brands-incopy.svg";
+export { FlatRegularIncopy };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWluY29weS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItaW5jb3B5LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsaUJBQWlCLE1BQU0sK0NBQStDLENBQUM7QUFDL0UsT0FBTyxFQUFDLGlCQUFpQixFQUFDLENBQUMifQ==

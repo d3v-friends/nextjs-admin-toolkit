@@ -1,0 +1,3 @@
+import FlatRegularCaretSquareLeft_1 from "../../../asset/svg/regular/fi-rr-caret-square-left_1.svg";
+export { FlatRegularCaretSquareLeft_1 };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNhcmV0LXNxdWFyZS1sZWZ0LV8tMS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1jYXJldC1zcXVhcmUtbGVmdC1fLTEudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw0QkFBNEIsTUFBTSwwREFBMEQsQ0FBQztBQUNyRyxPQUFPLEVBQUMsNEJBQTRCLEVBQUMsQ0FBQyJ9

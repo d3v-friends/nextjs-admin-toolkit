@@ -1,0 +1,3 @@
+import FlatRegularSortSizeDown from "../../../asset/svg/regular/fi-rr-sort-size-down.svg";
+export { FlatRegularSortSizeDown };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNvcnQtc2l6ZS1kb3duLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXNvcnQtc2l6ZS1kb3duLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsdUJBQXVCLE1BQU0scURBQXFELENBQUM7QUFDM0YsT0FBTyxFQUFDLHVCQUF1QixFQUFDLENBQUMifQ==

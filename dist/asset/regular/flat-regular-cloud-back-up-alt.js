@@ -1,0 +1,3 @@
+import FlatRegularCloudBackUpAlt from "../../../asset/svg/regular/fi-rr-cloud-back-up-alt.svg";
+export { FlatRegularCloudBackUpAlt };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNsb3VkLWJhY2stdXAtYWx0LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNsb3VkLWJhY2stdXAtYWx0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEseUJBQXlCLE1BQU0sd0RBQXdELENBQUM7QUFDaEcsT0FBTyxFQUFDLHlCQUF5QixFQUFDLENBQUMifQ==

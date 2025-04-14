@@ -1,0 +1,3 @@
+import FlatRegularSignOutAlt from "../../../asset/svg/regular/fi-rr-sign-out-alt.svg";
+export { FlatRegularSignOutAlt };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNpZ24tb3V0LWFsdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1zaWduLW91dC1hbHQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxxQkFBcUIsTUFBTSxtREFBbUQsQ0FBQztBQUN2RixPQUFPLEVBQUMscUJBQXFCLEVBQUMsQ0FBQyJ9

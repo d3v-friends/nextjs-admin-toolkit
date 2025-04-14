@@ -1,0 +1,3 @@
+import FlatRegularReplay10 from "../../../asset/svg/regular/fi-rr-replay-10.svg";
+export { FlatRegularReplay10 };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXJlcGxheS0xLTAuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItcmVwbGF5LTEtMC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLG1CQUFtQixNQUFNLGdEQUFnRCxDQUFDO0FBQ2xGLE9BQU8sRUFBQyxtQkFBbUIsRUFBQyxDQUFDIn0=

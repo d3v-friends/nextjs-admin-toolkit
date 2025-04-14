@@ -1,0 +1,3 @@
+import FlatRegularArrowRightToCity from "../../../asset/svg/regular/fi-rr-arrow-right-to-city.svg";
+export { FlatRegularArrowRightToCity };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93LXJpZ2h0LXRvLWNpdHkuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItYXJyb3ctcmlnaHQtdG8tY2l0eS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDJCQUEyQixNQUFNLDBEQUEwRCxDQUFDO0FBQ3BHLE9BQU8sRUFBQywyQkFBMkIsRUFBQyxDQUFDIn0=

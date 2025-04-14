@@ -1,0 +1,3 @@
+import FlatRegularDumbbellHorizontal from "../../../asset/svg/regular/fi-rr-dumbbell-horizontal.svg";
+export { FlatRegularDumbbellHorizontal };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWR1bWJiZWxsLWhvcml6b250YWwuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZHVtYmJlbGwtaG9yaXpvbnRhbC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDZCQUE2QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3RHLE9BQU8sRUFBQyw2QkFBNkIsRUFBQyxDQUFDIn0=

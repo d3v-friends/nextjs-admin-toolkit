@@ -1,0 +1,3 @@
+import FlatRegularBasketShoppingPlus from "../../../asset/svg/regular/fi-rr-basket-shopping-plus.svg";
+export { FlatRegularBasketShoppingPlus };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJhc2tldC1zaG9wcGluZy1wbHVzLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWJhc2tldC1zaG9wcGluZy1wbHVzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNkJBQTZCLE1BQU0sMkRBQTJELENBQUM7QUFDdkcsT0FBTyxFQUFDLDZCQUE2QixFQUFDLENBQUMifQ==

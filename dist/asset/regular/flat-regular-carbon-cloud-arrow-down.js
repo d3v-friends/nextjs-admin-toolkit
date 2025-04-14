@@ -1,0 +1,3 @@
+import FlatRegularCarbonCloudArrowDown from "../../../asset/svg/regular/fi-rr-carbon-cloud-arrow-down.svg";
+export { FlatRegularCarbonCloudArrowDown };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNhcmJvbi1jbG91ZC1hcnJvdy1kb3duLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNhcmJvbi1jbG91ZC1hcnJvdy1kb3duLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsK0JBQStCLE1BQU0sOERBQThELENBQUM7QUFDNUcsT0FBTyxFQUFDLCtCQUErQixFQUFDLENBQUMifQ==

@@ -1,0 +1,3 @@
+import FlatRegularLockAlt from "../../../asset/svg/regular/fi-rr-lock-alt.svg";
+export { FlatRegularLockAlt };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWxvY2stYWx0LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWxvY2stYWx0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsa0JBQWtCLE1BQU0sK0NBQStDLENBQUM7QUFDaEYsT0FBTyxFQUFDLGtCQUFrQixFQUFDLENBQUMifQ==

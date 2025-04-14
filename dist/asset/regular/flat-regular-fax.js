@@ -1,0 +1,3 @@
+import FlatRegularFax from "../../../asset/svg/regular/fi-rr-fax.svg";
+export { FlatRegularFax };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZheC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1mYXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxjQUFjLE1BQU0sMENBQTBDLENBQUM7QUFDdkUsT0FBTyxFQUFDLGNBQWMsRUFBQyxDQUFDIn0=

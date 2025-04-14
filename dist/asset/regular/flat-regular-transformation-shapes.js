@@ -1,0 +1,3 @@
+import FlatRegularTransformationShapes from "../../../asset/svg/regular/fi-rr-transformation-shapes.svg";
+export { FlatRegularTransformationShapes };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRyYW5zZm9ybWF0aW9uLXNoYXBlcy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci10cmFuc2Zvcm1hdGlvbi1zaGFwZXMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwrQkFBK0IsTUFBTSw0REFBNEQsQ0FBQztBQUMxRyxPQUFPLEVBQUMsK0JBQStCLEVBQUMsQ0FBQyJ9

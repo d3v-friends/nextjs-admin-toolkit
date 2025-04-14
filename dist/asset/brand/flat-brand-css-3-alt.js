@@ -1,0 +1,3 @@
+import FlatBrandCss3Alt from "../../../asset/svg/brand/fi-brands-css3-alt.svg";
+export { FlatBrandCss3Alt };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1jc3MtMy1hbHQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC1jc3MtMy1hbHQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxnQkFBZ0IsTUFBTSxpREFBaUQsQ0FBQztBQUNoRixPQUFPLEVBQUMsZ0JBQWdCLEVBQUMsQ0FBQyJ9

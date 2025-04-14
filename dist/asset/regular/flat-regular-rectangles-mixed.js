@@ -1,0 +1,3 @@
+import FlatRegularRectanglesMixed from "../../../asset/svg/regular/fi-rr-rectangles-mixed.svg";
+export { FlatRegularRectanglesMixed };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXJlY3RhbmdsZXMtbWl4ZWQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItcmVjdGFuZ2xlcy1taXhlZC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDBCQUEwQixNQUFNLHVEQUF1RCxDQUFDO0FBQ2hHLE9BQU8sRUFBQywwQkFBMEIsRUFBQyxDQUFDIn0=

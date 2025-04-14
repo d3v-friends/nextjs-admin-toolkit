@@ -1,0 +1,3 @@
+import FlatBrandPhotoshopCamera from "../../../asset/svg/brand/fi-brands-photoshop-camera.svg";
+export { FlatBrandPhotoshopCamera };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1waG90b3Nob3AtY2FtZXJhLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtYnJhbmQtcGhvdG9zaG9wLWNhbWVyYS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHdCQUF3QixNQUFNLHlEQUF5RCxDQUFDO0FBQ2hHLE9BQU8sRUFBQyx3QkFBd0IsRUFBQyxDQUFDIn0=
