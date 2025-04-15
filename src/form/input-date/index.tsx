@@ -1,6 +1,5 @@
 "use client";
-import {Button, Calendar, ModalCallback} from "@root";
-import {Props as ButtonProps} from "@root/widget/button/index";
+import {Calendar, ModalCallback} from "@root";
 import {DateTime} from "luxon";
 import {fnCss} from "nextjs-tools";
 import React, {ReactNode, useState} from "react";
@@ -10,7 +9,6 @@ interface Props {
 	label?: ReactNode;
 	displayFormat?: string;
 	valueFormat?: string;
-	buttonProps?: ButtonProps;
 	name: string;
 	defaultValue?: string;
 }
@@ -22,7 +20,6 @@ export default function ({
 	className,
 	name,
 	label,
-	buttonProps,
 }: Readonly<Props>) {
 	const [open, setOpen] = useState(false);
 	const [date, setDate] = useState(DateTime.fromISO(defaultValue).toJSDate());
@@ -31,7 +28,9 @@ export default function ({
 			<div className={fnCss.concat(className)}>
 				{label && <div className="label">{label}</div>}
 				<div className="flex">
-					<div className="input field flex items-center grow mr-3">
+					<div
+						className="input field flex items-center grow mr-3 cursor-default hover:underline"
+						onClick={() => setOpen(true)}>
 						{DateTime.fromJSDate(date).toFormat(displayFormat)}
 					</div>
 					<input
@@ -41,11 +40,6 @@ export default function ({
 						value={DateTime.fromJSDate(date).toFormat(valueFormat)}
 						onChange={() => {}}
 					/>
-					<Button
-						{...buttonProps}
-						onClick={() => setOpen(true)}>
-						{buttonProps?.children || "선택"}
-					</Button>
 				</div>
 			</div>
 
