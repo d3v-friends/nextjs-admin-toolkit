@@ -1,3 +1,0 @@
-import FlatRegularSony from "../../../asset/svg/brand/fi-brands-sony.svg";
-export { FlatRegularSony };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNvbnkuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLXNvbnkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxlQUFlLE1BQU0sNkNBQTZDLENBQUM7QUFDM0UsT0FBTyxFQUFDLGVBQWUsRUFBQyxDQUFDIn0=

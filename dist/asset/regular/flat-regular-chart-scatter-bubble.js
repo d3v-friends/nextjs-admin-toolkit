@@ -1,3 +1,0 @@
-import FlatRegularChartScatterBubble from "../../../asset/svg/regular/fi-rr-chart-scatter-bubble.svg";
-export { FlatRegularChartScatterBubble };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNoYXJ0LXNjYXR0ZXItYnViYmxlLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNoYXJ0LXNjYXR0ZXItYnViYmxlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNkJBQTZCLE1BQU0sMkRBQTJELENBQUM7QUFDdkcsT0FBTyxFQUFDLDZCQUE2QixFQUFDLENBQUMifQ==

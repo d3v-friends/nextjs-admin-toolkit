@@ -1,3 +1,0 @@
-import FlatRegularPersonSeatReclined from "../../../asset/svg/regular/fi-rr-person-seat-reclined.svg";
-export { FlatRegularPersonSeatReclined };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBlcnNvbi1zZWF0LXJlY2xpbmVkLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXBlcnNvbi1zZWF0LXJlY2xpbmVkLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNkJBQTZCLE1BQU0sMkRBQTJELENBQUM7QUFDdkcsT0FBTyxFQUFDLDZCQUE2QixFQUFDLENBQUMifQ==

@@ -1,3 +1,0 @@
-import FlatRegularCircleMicrophoneLines from "../../../asset/svg/regular/fi-rr-circle-microphone-lines.svg";
-export { FlatRegularCircleMicrophoneLines };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNpcmNsZS1taWNyb3Bob25lLWxpbmVzLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNpcmNsZS1taWNyb3Bob25lLWxpbmVzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0NBQWdDLE1BQU0sOERBQThELENBQUM7QUFDN0csT0FBTyxFQUFDLGdDQUFnQyxFQUFDLENBQUMifQ==

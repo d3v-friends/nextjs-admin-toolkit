@@ -1,3 +1,0 @@
-import FlatRegularTipCoin from "../../../asset/svg/regular/fi-rr-tip-coin.svg";
-export { FlatRegularTipCoin };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRpcC1jb2luLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXRpcC1jb2luLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsa0JBQWtCLE1BQU0sK0NBQStDLENBQUM7QUFDaEYsT0FBTyxFQUFDLGtCQUFrQixFQUFDLENBQUMifQ==

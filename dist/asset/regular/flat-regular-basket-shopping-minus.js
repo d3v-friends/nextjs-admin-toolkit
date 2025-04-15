@@ -1,3 +1,0 @@
-import FlatRegularBasketShoppingMinus from "../../../asset/svg/regular/fi-rr-basket-shopping-minus.svg";
-export { FlatRegularBasketShoppingMinus };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJhc2tldC1zaG9wcGluZy1taW51cy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1iYXNrZXQtc2hvcHBpbmctbWludXMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw4QkFBOEIsTUFBTSw0REFBNEQsQ0FBQztBQUN6RyxPQUFPLEVBQUMsOEJBQThCLEVBQUMsQ0FBQyJ9

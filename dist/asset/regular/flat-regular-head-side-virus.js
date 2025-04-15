@@ -1,3 +1,0 @@
-import FlatRegularHeadSideVirus from "../../../asset/svg/regular/fi-rr-head-side-virus.svg";
-export { FlatRegularHeadSideVirus };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWhlYWQtc2lkZS12aXJ1cy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1oZWFkLXNpZGUtdmlydXMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx3QkFBd0IsTUFBTSxzREFBc0QsQ0FBQztBQUM3RixPQUFPLEVBQUMsd0JBQXdCLEVBQUMsQ0FBQyJ9

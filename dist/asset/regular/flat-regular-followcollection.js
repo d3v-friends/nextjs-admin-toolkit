@@ -1,3 +1,0 @@
-import FlatRegularFollowcollection from "../../../asset/svg/regular/fi-rr-followcollection.svg";
-export { FlatRegularFollowcollection };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZvbGxvd2NvbGxlY3Rpb24uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZm9sbG93Y29sbGVjdGlvbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDJCQUEyQixNQUFNLHVEQUF1RCxDQUFDO0FBQ2pHLE9BQU8sRUFBQywyQkFBMkIsRUFBQyxDQUFDIn0=

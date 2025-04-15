@@ -1,3 +1,0 @@
-import FlatRegularMicrosoftEdge from "../../../asset/svg/brand/fi-brands-microsoft-edge.svg";
-export { FlatRegularMicrosoftEdge };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1pY3Jvc29mdC1lZGdlLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtcmVndWxhci1taWNyb3NvZnQtZWRnZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHdCQUF3QixNQUFNLHVEQUF1RCxDQUFDO0FBQzlGLE9BQU8sRUFBQyx3QkFBd0IsRUFBQyxDQUFDIn0=

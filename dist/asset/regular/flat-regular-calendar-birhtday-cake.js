@@ -1,3 +1,0 @@
-import FlatRegularCalendarBirhtdayCake from "../../../asset/svg/regular/fi-rr-calendar-birhtday-cake.svg";
-export { FlatRegularCalendarBirhtdayCake };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNhbGVuZGFyLWJpcmh0ZGF5LWNha2UuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItY2FsZW5kYXItYmlyaHRkYXktY2FrZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLCtCQUErQixNQUFNLDZEQUE2RCxDQUFDO0FBQzNHLE9BQU8sRUFBQywrQkFBK0IsRUFBQyxDQUFDIn0=

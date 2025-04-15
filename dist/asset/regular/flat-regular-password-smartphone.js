@@ -1,3 +1,0 @@
-import FlatRegularPasswordSmartphone from "../../../asset/svg/regular/fi-rr-password-smartphone.svg";
-export { FlatRegularPasswordSmartphone };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBhc3N3b3JkLXNtYXJ0cGhvbmUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItcGFzc3dvcmQtc21hcnRwaG9uZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDZCQUE2QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3RHLE9BQU8sRUFBQyw2QkFBNkIsRUFBQyxDQUFDIn0=

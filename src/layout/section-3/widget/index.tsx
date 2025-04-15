@@ -2,7 +2,7 @@
 import Image from "next/image";
 import {fnCss} from "nextjs-tools";
 import React, {ReactNode, useState} from "react";
-import {FlatRegularMenuBurger} from "../../../asset/regular/flat-regular-menu-burger";
+import {FlatRegularMenuBurger} from "web-asset/src/regular/flat-regular-menu-burger";
 import Accordion, {Props as AccordionProps} from "./accordion";
 import Aside from "./aside";
 

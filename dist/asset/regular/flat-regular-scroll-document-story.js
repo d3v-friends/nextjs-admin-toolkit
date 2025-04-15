@@ -1,3 +1,0 @@
-import FlatRegularScrollDocumentStory from "../../../asset/svg/regular/fi-rr-scroll-document-story.svg";
-export { FlatRegularScrollDocumentStory };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNjcm9sbC1kb2N1bWVudC1zdG9yeS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1zY3JvbGwtZG9jdW1lbnQtc3RvcnkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw4QkFBOEIsTUFBTSw0REFBNEQsQ0FBQztBQUN6RyxPQUFPLEVBQUMsOEJBQThCLEVBQUMsQ0FBQyJ9

@@ -1,3 +1,0 @@
-import FlatRegularArrowsSplitRightAndLeft from "../../../asset/svg/regular/fi-rr-arrows-split-right-and-left.svg";
-export { FlatRegularArrowsSplitRightAndLeft };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93cy1zcGxpdC1yaWdodC1hbmQtbGVmdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1hcnJvd3Mtc3BsaXQtcmlnaHQtYW5kLWxlZnQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxrQ0FBa0MsTUFBTSxrRUFBa0UsQ0FBQztBQUNuSCxPQUFPLEVBQUMsa0NBQWtDLEVBQUMsQ0FBQyJ9

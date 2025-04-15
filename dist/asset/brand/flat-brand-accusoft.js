@@ -1,3 +1,0 @@
-import FlatBrandAccusoft from "../../../asset/svg/brand/fi-brands-accusoft.svg";
-export { FlatBrandAccusoft };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1hY2N1c29mdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LWJyYW5kLWFjY3Vzb2Z0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsaUJBQWlCLE1BQU0saURBQWlELENBQUM7QUFDakYsT0FBTyxFQUFDLGlCQUFpQixFQUFDLENBQUMifQ==

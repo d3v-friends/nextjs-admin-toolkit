@@ -1,3 +1,0 @@
-import FlatRegularFaceBeamHandOverMouth from "../../../asset/svg/regular/fi-rr-face-beam-hand-over-mouth.svg";
-export { FlatRegularFaceBeamHandOverMouth };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZhY2UtYmVhbS1oYW5kLW92ZXItbW91dGguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZmFjZS1iZWFtLWhhbmQtb3Zlci1tb3V0aC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGdDQUFnQyxNQUFNLGdFQUFnRSxDQUFDO0FBQy9HLE9BQU8sRUFBQyxnQ0FBZ0MsRUFBQyxDQUFDIn0=

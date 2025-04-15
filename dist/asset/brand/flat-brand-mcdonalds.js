@@ -1,3 +1,0 @@
-import FlatBrandMcdonalds from "../../../asset/svg/brand/fi-brands-mcdonalds.svg";
-export { FlatBrandMcdonalds };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1tY2RvbmFsZHMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC1tY2RvbmFsZHMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxrQkFBa0IsTUFBTSxrREFBa0QsQ0FBQztBQUNuRixPQUFPLEVBQUMsa0JBQWtCLEVBQUMsQ0FBQyJ9

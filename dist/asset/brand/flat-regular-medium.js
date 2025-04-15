@@ -1,3 +1,0 @@
-import FlatRegularMedium from "../../../asset/svg/brand/fi-brands-medium.svg";
-export { FlatRegularMedium };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1lZGl1bS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItbWVkaXVtLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsaUJBQWlCLE1BQU0sK0NBQStDLENBQUM7QUFDL0UsT0FBTyxFQUFDLGlCQUFpQixFQUFDLENBQUMifQ==

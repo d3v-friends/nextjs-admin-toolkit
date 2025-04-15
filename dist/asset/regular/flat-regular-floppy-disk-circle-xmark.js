@@ -1,3 +1,0 @@
-import FlatRegularFloppyDiskCircleXmark from "../../../asset/svg/regular/fi-rr-floppy-disk-circle-xmark.svg";
-export { FlatRegularFloppyDiskCircleXmark };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZsb3BweS1kaXNrLWNpcmNsZS14bWFyay5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1mbG9wcHktZGlzay1jaXJjbGUteG1hcmsudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxnQ0FBZ0MsTUFBTSwrREFBK0QsQ0FBQztBQUM5RyxPQUFPLEVBQUMsZ0NBQWdDLEVBQUMsQ0FBQyJ9

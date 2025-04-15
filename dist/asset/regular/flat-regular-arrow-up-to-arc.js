@@ -1,3 +1,0 @@
-import FlatRegularArrowUpToArc from "../../../asset/svg/regular/fi-rr-arrow-up-to-arc.svg";
-export { FlatRegularArrowUpToArc };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93LXVwLXRvLWFyYy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1hcnJvdy11cC10by1hcmMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx1QkFBdUIsTUFBTSxzREFBc0QsQ0FBQztBQUM1RixPQUFPLEVBQUMsdUJBQXVCLEVBQUMsQ0FBQyJ9

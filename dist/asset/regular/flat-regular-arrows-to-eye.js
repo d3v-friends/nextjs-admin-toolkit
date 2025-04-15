@@ -1,3 +1,0 @@
-import FlatRegularArrowsToEye from "../../../asset/svg/regular/fi-rr-arrows-to-eye.svg";
-export { FlatRegularArrowsToEye };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93cy10by1leWUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItYXJyb3dzLXRvLWV5ZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHNCQUFzQixNQUFNLG9EQUFvRCxDQUFDO0FBQ3pGLE9BQU8sRUFBQyxzQkFBc0IsRUFBQyxDQUFDIn0=

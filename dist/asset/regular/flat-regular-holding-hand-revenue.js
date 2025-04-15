@@ -1,3 +1,0 @@
-import FlatRegularHoldingHandRevenue from "../../../asset/svg/regular/fi-rr-holding-hand-revenue.svg";
-export { FlatRegularHoldingHandRevenue };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWhvbGRpbmctaGFuZC1yZXZlbnVlLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWhvbGRpbmctaGFuZC1yZXZlbnVlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNkJBQTZCLE1BQU0sMkRBQTJELENBQUM7QUFDdkcsT0FBTyxFQUFDLDZCQUE2QixFQUFDLENBQUMifQ==

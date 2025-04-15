@@ -1,3 +1,0 @@
-import FlatRegularTikTok from "../../../asset/svg/brand/fi-brands-tik-tok.svg";
-export { FlatRegularTikTok };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRpay10b2suanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLXRpay10b2sudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxpQkFBaUIsTUFBTSxnREFBZ0QsQ0FBQztBQUNoRixPQUFPLEVBQUMsaUJBQWlCLEVBQUMsQ0FBQyJ9

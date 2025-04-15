@@ -1,3 +1,0 @@
-import FlatBrandBridgestone from "../../../asset/svg/brand/fi-brands-bridgestone.svg";
-export { FlatBrandBridgestone };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1icmlkZ2VzdG9uZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LWJyYW5kLWJyaWRnZXN0b25lLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsb0JBQW9CLE1BQU0sb0RBQW9ELENBQUM7QUFDdkYsT0FBTyxFQUFDLG9CQUFvQixFQUFDLENBQUMifQ==

@@ -1,3 +1,0 @@
-import FlatRegularWikipedia from "../../../asset/svg/brand/fi-brands-wikipedia.svg";
-export { FlatRegularWikipedia };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXdpa2lwZWRpYS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItd2lraXBlZGlhLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsb0JBQW9CLE1BQU0sa0RBQWtELENBQUM7QUFDckYsT0FBTyxFQUFDLG9CQUFvQixFQUFDLENBQUMifQ==

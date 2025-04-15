@@ -1,3 +1,0 @@
-import FlatRegularFilms from "../../../asset/svg/regular/fi-rr-films.svg";
-export { FlatRegularFilms };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZpbG1zLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWZpbG1zLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0JBQWdCLE1BQU0sNENBQTRDLENBQUM7QUFDM0UsT0FBTyxFQUFDLGdCQUFnQixFQUFDLENBQUMifQ==

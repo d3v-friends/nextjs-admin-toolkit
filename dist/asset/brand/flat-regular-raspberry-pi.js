@@ -1,3 +1,0 @@
-import FlatRegularRaspberryPi from "../../../asset/svg/brand/fi-brands-raspberry-pi.svg";
-export { FlatRegularRaspberryPi };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXJhc3BiZXJyeS1waS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItcmFzcGJlcnJ5LXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsc0JBQXNCLE1BQU0scURBQXFELENBQUM7QUFDMUYsT0FBTyxFQUFDLHNCQUFzQixFQUFDLENBQUMifQ==

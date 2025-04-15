@@ -1,3 +1,0 @@
-import FlatRegularVideoconference from "../../../asset/svg/regular/fi-rr-videoconference.svg";
-export { FlatRegularVideoconference };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXZpZGVvY29uZmVyZW5jZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci12aWRlb2NvbmZlcmVuY2UudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwwQkFBMEIsTUFBTSxzREFBc0QsQ0FBQztBQUMvRixPQUFPLEVBQUMsMEJBQTBCLEVBQUMsQ0FBQyJ9

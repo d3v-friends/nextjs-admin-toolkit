@@ -1,3 +1,0 @@
-import FlatRegularTransformationBlock from "../../../asset/svg/regular/fi-rr-transformation-block.svg";
-export { FlatRegularTransformationBlock };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRyYW5zZm9ybWF0aW9uLWJsb2NrLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXRyYW5zZm9ybWF0aW9uLWJsb2NrLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsOEJBQThCLE1BQU0sMkRBQTJELENBQUM7QUFDeEcsT0FBTyxFQUFDLDhCQUE4QixFQUFDLENBQUMifQ==

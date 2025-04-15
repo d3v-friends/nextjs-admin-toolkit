@@ -1,3 +1,0 @@
-import FlatRegularJpg from "../../../asset/svg/regular/fi-rr-jpg.svg";
-export { FlatRegularJpg };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWpwZy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1qcGcudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxjQUFjLE1BQU0sMENBQTBDLENBQUM7QUFDdkUsT0FBTyxFQUFDLGNBQWMsRUFBQyxDQUFDIn0=

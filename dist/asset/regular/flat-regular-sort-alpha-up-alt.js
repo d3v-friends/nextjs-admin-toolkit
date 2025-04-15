@@ -1,3 +1,0 @@
-import FlatRegularSortAlphaUpAlt from "../../../asset/svg/regular/fi-rr-sort-alpha-up-alt.svg";
-export { FlatRegularSortAlphaUpAlt };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNvcnQtYWxwaGEtdXAtYWx0LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXNvcnQtYWxwaGEtdXAtYWx0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEseUJBQXlCLE1BQU0sd0RBQXdELENBQUM7QUFDaEcsT0FBTyxFQUFDLHlCQUF5QixFQUFDLENBQUMifQ==

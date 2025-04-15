@@ -1,3 +1,0 @@
-import FlatRegularSkip15Seconds from "../../../asset/svg/regular/fi-rr-skip-15-seconds.svg";
-export { FlatRegularSkip15Seconds };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXNraXAtMS01LXNlY29uZHMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItc2tpcC0xLTUtc2Vjb25kcy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHdCQUF3QixNQUFNLHNEQUFzRCxDQUFDO0FBQzdGLE9BQU8sRUFBQyx3QkFBd0IsRUFBQyxDQUFDIn0=

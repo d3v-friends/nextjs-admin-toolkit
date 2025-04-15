@@ -1,3 +1,0 @@
-import FlatRegularCss3Alt from "../../../asset/svg/brand/fi-brands-css3-alt.svg";
-export { FlatRegularCss3Alt };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNzcy0zLWFsdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItY3NzLTMtYWx0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsa0JBQWtCLE1BQU0saURBQWlELENBQUM7QUFDbEYsT0FBTyxFQUFDLGtCQUFrQixFQUFDLENBQUMifQ==

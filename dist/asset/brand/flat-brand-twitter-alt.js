@@ -1,3 +1,0 @@
-import FlatBrandTwitterAlt from "../../../asset/svg/brand/fi-brands-twitter-alt.svg";
-export { FlatBrandTwitterAlt };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC10d2l0dGVyLWFsdC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LWJyYW5kLXR3aXR0ZXItYWx0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsbUJBQW1CLE1BQU0sb0RBQW9ELENBQUM7QUFDdEYsT0FBTyxFQUFDLG1CQUFtQixFQUFDLENBQUMifQ==

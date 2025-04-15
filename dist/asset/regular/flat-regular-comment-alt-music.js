@@ -1,3 +1,0 @@
-import FlatRegularCommentAltMusic from "../../../asset/svg/regular/fi-rr-comment-alt-music.svg";
-export { FlatRegularCommentAltMusic };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNvbW1lbnQtYWx0LW11c2ljLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNvbW1lbnQtYWx0LW11c2ljLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsMEJBQTBCLE1BQU0sd0RBQXdELENBQUM7QUFDakcsT0FBTyxFQUFDLDBCQUEwQixFQUFDLENBQUMifQ==

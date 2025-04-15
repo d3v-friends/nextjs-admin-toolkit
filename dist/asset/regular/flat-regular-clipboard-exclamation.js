@@ -1,3 +1,0 @@
-import FlatRegularClipboardExclamation from "../../../asset/svg/regular/fi-rr-clipboard-exclamation.svg";
-export { FlatRegularClipboardExclamation };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNsaXBib2FyZC1leGNsYW1hdGlvbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1jbGlwYm9hcmQtZXhjbGFtYXRpb24udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwrQkFBK0IsTUFBTSw0REFBNEQsQ0FBQztBQUMxRyxPQUFPLEVBQUMsK0JBQStCLEVBQUMsQ0FBQyJ9

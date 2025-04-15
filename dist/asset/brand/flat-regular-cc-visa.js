@@ -1,3 +1,0 @@
-import FlatRegularCcVisa from "../../../asset/svg/brand/fi-brands-cc-visa.svg";
-export { FlatRegularCcVisa };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNjLXZpc2EuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLWNjLXZpc2EudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxpQkFBaUIsTUFBTSxnREFBZ0QsQ0FBQztBQUNoRixPQUFPLEVBQUMsaUJBQWlCLEVBQUMsQ0FBQyJ9

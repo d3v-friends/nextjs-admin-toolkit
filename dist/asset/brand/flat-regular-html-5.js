@@ -1,3 +1,0 @@
-import FlatRegularHtml5 from "../../../asset/svg/brand/fi-brands-html5.svg";
-export { FlatRegularHtml5 };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWh0bWwtNS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItaHRtbC01LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0JBQWdCLE1BQU0sOENBQThDLENBQUM7QUFDN0UsT0FBTyxFQUFDLGdCQUFnQixFQUFDLENBQUMifQ==

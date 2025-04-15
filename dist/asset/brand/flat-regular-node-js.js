@@ -1,3 +1,0 @@
-import FlatRegularNodeJs from "../../../asset/svg/brand/fi-brands-node-js.svg";
-export { FlatRegularNodeJs };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW5vZGUtanMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLW5vZGUtanMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxpQkFBaUIsTUFBTSxnREFBZ0QsQ0FBQztBQUNoRixPQUFPLEVBQUMsaUJBQWlCLEVBQUMsQ0FBQyJ9

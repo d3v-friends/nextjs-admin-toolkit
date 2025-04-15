@@ -1,3 +1,0 @@
-import FlatRegularFireExtinguisher from "../../../asset/svg/regular/fi-rr-fire-extinguisher.svg";
-export { FlatRegularFireExtinguisher };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZpcmUtZXh0aW5ndWlzaGVyLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWZpcmUtZXh0aW5ndWlzaGVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsMkJBQTJCLE1BQU0sd0RBQXdELENBQUM7QUFDbEcsT0FBTyxFQUFDLDJCQUEyQixFQUFDLENBQUMifQ==

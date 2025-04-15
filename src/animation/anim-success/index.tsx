@@ -1,8 +1,8 @@
 import Image from "next/image";
 import {fnCss} from "nextjs-tools";
 import {CSSProperties} from "react";
+import {FlatRegularCheck} from "web-asset/src/regular/flat-regular-check";
 import {ColorStyle} from "../..";
-import {FlatRegularCheck} from "../../asset/regular/flat-regular-check";
 
 type Props = {
 	className?: string;

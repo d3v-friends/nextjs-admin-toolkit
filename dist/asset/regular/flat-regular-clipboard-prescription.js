@@ -1,3 +1,0 @@
-import FlatRegularClipboardPrescription from "../../../asset/svg/regular/fi-rr-clipboard-prescription.svg";
-export { FlatRegularClipboardPrescription };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNsaXBib2FyZC1wcmVzY3JpcHRpb24uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItY2xpcGJvYXJkLXByZXNjcmlwdGlvbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLGdDQUFnQyxNQUFNLDZEQUE2RCxDQUFDO0FBQzVHLE9BQU8sRUFBQyxnQ0FBZ0MsRUFBQyxDQUFDIn0=

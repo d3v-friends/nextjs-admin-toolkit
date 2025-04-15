@@ -1,3 +1,0 @@
-import FlatRegularCarSideBolt from "../../../asset/svg/regular/fi-rr-car-side-bolt.svg";
-export { FlatRegularCarSideBolt };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNhci1zaWRlLWJvbHQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItY2FyLXNpZGUtYm9sdC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHNCQUFzQixNQUFNLG9EQUFvRCxDQUFDO0FBQ3pGLE9BQU8sRUFBQyxzQkFBc0IsRUFBQyxDQUFDIn0=

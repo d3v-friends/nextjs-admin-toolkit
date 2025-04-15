@@ -1,3 +1,0 @@
-import FlatRegularReflectHorizontalAlt from "../../../asset/svg/regular/fi-rr-reflect-horizontal-alt.svg";
-export { FlatRegularReflectHorizontalAlt };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXJlZmxlY3QtaG9yaXpvbnRhbC1hbHQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItcmVmbGVjdC1ob3Jpem9udGFsLWFsdC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLCtCQUErQixNQUFNLDZEQUE2RCxDQUFDO0FBQzNHLE9BQU8sRUFBQywrQkFBK0IsRUFBQyxDQUFDIn0=

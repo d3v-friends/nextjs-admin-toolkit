@@ -1,3 +1,0 @@
-import FlatBrandSubstance3dStager from "../../../asset/svg/brand/fi-brands-substance-3d-stager.svg";
-export { FlatBrandSubstance3dStager };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1zdWJzdGFuY2UtM2Qtc3RhZ2VyLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtYnJhbmQtc3Vic3RhbmNlLTNkLXN0YWdlci50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDBCQUEwQixNQUFNLDREQUE0RCxDQUFDO0FBQ3JHLE9BQU8sRUFBQywwQkFBMEIsRUFBQyxDQUFDIn0=

@@ -1,3 +1,0 @@
-import FlatRegularPointOfSaleBill from "../../../asset/svg/regular/fi-rr-point-of-sale-bill.svg";
-export { FlatRegularPointOfSaleBill };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBvaW50LW9mLXNhbGUtYmlsbC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1wb2ludC1vZi1zYWxlLWJpbGwudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwwQkFBMEIsTUFBTSx5REFBeUQsQ0FBQztBQUNsRyxPQUFPLEVBQUMsMEJBQTBCLEVBQUMsQ0FBQyJ9

@@ -1,3 +1,0 @@
-import FlatRegularWheelchairSleeping from "../../../asset/svg/regular/fi-rr-wheelchair-sleeping.svg";
-export { FlatRegularWheelchairSleeping };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXdoZWVsY2hhaXItc2xlZXBpbmcuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItd2hlZWxjaGFpci1zbGVlcGluZy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDZCQUE2QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3RHLE9BQU8sRUFBQyw2QkFBNkIsRUFBQyxDQUFDIn0=

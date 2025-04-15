@@ -1,3 +1,0 @@
-import FlatRegularRugby from "../../../asset/svg/regular/fi-rr-rugby.svg";
-export { FlatRegularRugby };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXJ1Z2J5LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXJ1Z2J5LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0JBQWdCLE1BQU0sNENBQTRDLENBQUM7QUFDM0UsT0FBTyxFQUFDLGdCQUFnQixFQUFDLENBQUMifQ==

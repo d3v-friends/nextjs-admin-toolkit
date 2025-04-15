@@ -1,3 +1,0 @@
-import FlatBrandPhotoshopLightroom from "../../../asset/svg/brand/fi-brands-photoshop-lightroom.svg";
-export { FlatBrandPhotoshopLightroom };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1waG90b3Nob3AtbGlnaHRyb29tLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtYnJhbmQtcGhvdG9zaG9wLWxpZ2h0cm9vbS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDJCQUEyQixNQUFNLDREQUE0RCxDQUFDO0FBQ3RHLE9BQU8sRUFBQywyQkFBMkIsRUFBQyxDQUFDIn0=

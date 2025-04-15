@@ -1,3 +1,0 @@
-import FlatRegularForeignLanguageAudio from "../../../asset/svg/regular/fi-rr-foreign-language-audio.svg";
-export { FlatRegularForeignLanguageAudio };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZvcmVpZ24tbGFuZ3VhZ2UtYXVkaW8uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZm9yZWlnbi1sYW5ndWFnZS1hdWRpby50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLCtCQUErQixNQUFNLDZEQUE2RCxDQUFDO0FBQzNHLE9BQU8sRUFBQywrQkFBK0IsRUFBQyxDQUFDIn0=

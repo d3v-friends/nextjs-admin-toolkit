@@ -1,3 +1,0 @@
-import FlatRegularChartSimpleHorizontal from "../../../asset/svg/regular/fi-rr-chart-simple-horizontal.svg";
-export { FlatRegularChartSimpleHorizontal };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNoYXJ0LXNpbXBsZS1ob3Jpem9udGFsLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNoYXJ0LXNpbXBsZS1ob3Jpem9udGFsLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0NBQWdDLE1BQU0sOERBQThELENBQUM7QUFDN0csT0FBTyxFQUFDLGdDQUFnQyxFQUFDLENBQUMifQ==

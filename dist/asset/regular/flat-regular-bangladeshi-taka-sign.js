@@ -1,3 +1,0 @@
-import FlatRegularBangladeshiTakaSign from "../../../asset/svg/regular/fi-rr-bangladeshi-taka-sign.svg";
-export { FlatRegularBangladeshiTakaSign };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJhbmdsYWRlc2hpLXRha2Etc2lnbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1iYW5nbGFkZXNoaS10YWthLXNpZ24udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw4QkFBOEIsTUFBTSw0REFBNEQsQ0FBQztBQUN6RyxPQUFPLEVBQUMsOEJBQThCLEVBQUMsQ0FBQyJ9

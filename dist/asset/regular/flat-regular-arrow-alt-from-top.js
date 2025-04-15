@@ -1,3 +1,0 @@
-import FlatRegularArrowAltFromTop from "../../../asset/svg/regular/fi-rr-arrow-alt-from-top.svg";
-export { FlatRegularArrowAltFromTop };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93LWFsdC1mcm9tLXRvcC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1hcnJvdy1hbHQtZnJvbS10b3AudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwwQkFBMEIsTUFBTSx5REFBeUQsQ0FBQztBQUNsRyxPQUFPLEVBQUMsMEJBQTBCLEVBQUMsQ0FBQyJ9

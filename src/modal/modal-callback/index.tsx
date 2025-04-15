@@ -1,18 +1,23 @@
 "use client";
 import Image from "next/image";
 import {fnCss} from "nextjs-tools";
-import React from "react";
+import React, {ReactNode} from "react";
 import {FlatRegularCross} from "web-asset/src/regular/flat-regular-cross";
 import Backdrop, {Props as BaseProps} from "../modal-backdrop";
 
-type Props = {
+interface Props extends Pick<BaseProps, "disableBackdrop" | "disableEscapeKey" | "open" | "onClose"> {
 	disableCloseButton?: boolean;
-} & BaseProps;
+	children: (close: () => void) => ReactNode;
+}
 
-export default function ({open, onClose, children, disableEscapeKey, disableBackdrop, disableCloseButton}: Props) {
-	if (!open) return null;
-	if (!children) return null;
-
+export default function ({
+	open,
+	onClose,
+	children,
+	disableEscapeKey,
+	disableBackdrop,
+	disableCloseButton,
+}: Readonly<Props>) {
 	return (
 		<Backdrop
 			open={open}
@@ -37,7 +42,7 @@ export default function ({open, onClose, children, disableEscapeKey, disableBack
 					</div>
 				)}
 				<div className={fnCss.concat("w-full p-4 rounded-md shadow-2xl bg-(--color-background-modal-content)")}>
-					{children}
+					{children(onClose)}
 				</div>
 			</div>
 		</Backdrop>

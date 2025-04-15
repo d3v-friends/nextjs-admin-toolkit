@@ -1,3 +1,0 @@
-import FlatBrandAfterEffects from "../../../asset/svg/brand/fi-brands-after-effects.svg";
-export { FlatBrandAfterEffects };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1hZnRlci1lZmZlY3RzLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtYnJhbmQtYWZ0ZXItZWZmZWN0cy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHFCQUFxQixNQUFNLHNEQUFzRCxDQUFDO0FBQzFGLE9BQU8sRUFBQyxxQkFBcUIsRUFBQyxDQUFDIn0=

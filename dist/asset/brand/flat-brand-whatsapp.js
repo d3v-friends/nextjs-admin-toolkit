@@ -1,3 +1,0 @@
-import FlatBrandWhatsapp from "../../../asset/svg/brand/fi-brands-whatsapp.svg";
-export { FlatBrandWhatsapp };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC13aGF0c2FwcC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LWJyYW5kLXdoYXRzYXBwLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsaUJBQWlCLE1BQU0saURBQWlELENBQUM7QUFDakYsT0FBTyxFQUFDLGlCQUFpQixFQUFDLENBQUMifQ==

@@ -1,3 +1,0 @@
-import FlatRegularAgeRestrictionThree from "../../../asset/svg/regular/fi-rr-age-restriction-three.svg";
-export { FlatRegularAgeRestrictionThree };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFnZS1yZXN0cmljdGlvbi10aHJlZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1hZ2UtcmVzdHJpY3Rpb24tdGhyZWUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw4QkFBOEIsTUFBTSw0REFBNEQsQ0FBQztBQUN6RyxPQUFPLEVBQUMsOEJBQThCLEVBQUMsQ0FBQyJ9

@@ -1,3 +1,0 @@
-import FlatBrandMicrosoftExplorer from "../../../asset/svg/brand/fi-brands-microsoft-explorer.svg";
-export { FlatBrandMicrosoftExplorer };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1taWNyb3NvZnQtZXhwbG9yZXIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC1taWNyb3NvZnQtZXhwbG9yZXIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwwQkFBMEIsTUFBTSwyREFBMkQsQ0FBQztBQUNwRyxPQUFPLEVBQUMsMEJBQTBCLEVBQUMsQ0FBQyJ9

@@ -1,0 +1,11 @@
+"use client";
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+import Image from "next/image";
+import { fnCss } from "nextjs-tools";
+import { FlatRegularCross } from "web-asset/src/regular/flat-regular-cross";
+import Backdrop from "../modal-backdrop";
+export default function ({ open, onClose, children, disableEscapeKey, disableBackdrop, disableCloseButton, }) {
+    return (_jsx(Backdrop, { open: open, onClose: onClose, disableEscapeKey,
+        disableBackdrop, children: _jsxs("div", { className: "flex flex-wrap", children: [!disableCloseButton && (_jsx("div", { className: "w-full pb-2 flex justify-end", children: _jsx(Image, { className: fnCss.concat("p-[0.2rem] cursor-pointer rounded-full filter-(--filter-hover-modal-close-button)"), width: 30, height: 30, src: FlatRegularCross, alt: "close", onClick: onClose }) })), _jsx("div", { className: fnCss.concat("w-full p-4 rounded-md shadow-2xl bg-(--color-background-modal-content)"), children: children(onClose) })] }) }));
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvbW9kYWwvbW9kYWwtY2FsbGJhY2svaW5kZXgudHN4Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLFlBQVksQ0FBQzs7QUFDYixPQUFPLEtBQUssTUFBTSxZQUFZLENBQUM7QUFDL0IsT0FBTyxFQUFDLEtBQUssRUFBQyxNQUFNLGNBQWMsQ0FBQztBQUVuQyxPQUFPLEVBQUMsZ0JBQWdCLEVBQUMsTUFBTSwwQ0FBMEMsQ0FBQztBQUMxRSxPQUFPLFFBQThCLE1BQU0sbUJBQW1CLENBQUM7QUFPL0QsTUFBTSxDQUFDLE9BQU8sV0FBVyxFQUN4QixJQUFJLEVBQ0osT0FBTyxFQUNQLFFBQVEsRUFDUixnQkFBZ0IsRUFDaEIsZUFBZSxFQUNmLGtCQUFrQixHQUNEO0lBQ2pCLE9BQU8sQ0FDTixLQUFDLFFBQVEsSUFDUixJQUFJLEVBQUUsSUFBSSxFQUNWLE9BQU8sRUFBRSxPQUFPLEVBRWYsZ0JBQWdCO1FBQ2hCLGVBQWUsWUFFaEIsZUFBSyxTQUFTLEVBQUMsZ0JBQWdCLGFBQzdCLENBQUMsa0JBQWtCLElBQUksQ0FDdkIsY0FBSyxTQUFTLEVBQUMsOEJBQThCLFlBQzVDLEtBQUMsS0FBSyxJQUNMLFNBQVMsRUFBRSxLQUFLLENBQUMsTUFBTSxDQUN0QixtRkFBbUYsQ0FDbkYsRUFDRCxLQUFLLEVBQUUsRUFBRSxFQUNULE1BQU0sRUFBRSxFQUFFLEVBQ1YsR0FBRyxFQUFFLGdCQUFnQixFQUNyQixHQUFHLEVBQUUsT0FBTyxFQUNaLE9BQU8sRUFBRSxPQUFPLEdBQ2YsR0FDRyxDQUNOLEVBQ0QsY0FBSyxTQUFTLEVBQUUsS0FBSyxDQUFDLE1BQU0sQ0FBQyx3RUFBd0UsQ0FBQyxZQUNwRyxRQUFRLENBQUMsT0FBTyxDQUFDLEdBQ2IsSUFDRCxHQUNJLENBQ1gsQ0FBQztBQUNILENBQUMifQ==

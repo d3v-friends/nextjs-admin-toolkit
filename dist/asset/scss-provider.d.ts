@@ -1,6 +1,6 @@
+import { Viewport } from "next";
 import { ReactNode } from "react";
 import "../../asset/style/index.scss";
-import { Viewport } from "next";
 interface Props {
     children?: ReactNode;
 }

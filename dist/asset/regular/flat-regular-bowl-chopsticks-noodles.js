@@ -1,3 +1,0 @@
-import FlatRegularBowlChopsticksNoodles from "../../../asset/svg/regular/fi-rr-bowl-chopsticks-noodles.svg";
-export { FlatRegularBowlChopsticksNoodles };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJvd2wtY2hvcHN0aWNrcy1ub29kbGVzLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWJvd2wtY2hvcHN0aWNrcy1ub29kbGVzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0NBQWdDLE1BQU0sOERBQThELENBQUM7QUFDN0csT0FBTyxFQUFDLGdDQUFnQyxFQUFDLENBQUMifQ==

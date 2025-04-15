@@ -1,3 +1,0 @@
-import FlatBrandIllustratorDraw from "../../../asset/svg/brand/fi-brands-illustrator-draw.svg";
-export { FlatBrandIllustratorDraw };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1pbGx1c3RyYXRvci1kcmF3LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L2JyYW5kL2ZsYXQtYnJhbmQtaWxsdXN0cmF0b3ItZHJhdy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHdCQUF3QixNQUFNLHlEQUF5RCxDQUFDO0FBQ2hHLE9BQU8sRUFBQyx3QkFBd0IsRUFBQyxDQUFDIn0=

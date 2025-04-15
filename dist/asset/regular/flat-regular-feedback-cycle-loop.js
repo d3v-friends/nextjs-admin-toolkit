@@ -1,3 +1,0 @@
-import FlatRegularFeedbackCycleLoop from "../../../asset/svg/regular/fi-rr-feedback-cycle-loop.svg";
-export { FlatRegularFeedbackCycleLoop };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZlZWRiYWNrLWN5Y2xlLWxvb3AuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItZmVlZGJhY2stY3ljbGUtbG9vcC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDRCQUE0QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3JHLE9BQU8sRUFBQyw0QkFBNEIsRUFBQyxDQUFDIn0=

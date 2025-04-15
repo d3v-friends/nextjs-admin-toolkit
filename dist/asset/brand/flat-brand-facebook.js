@@ -1,3 +1,0 @@
-import FlatBrandFacebook from "../../../asset/svg/brand/fi-brands-facebook.svg";
-export { FlatBrandFacebook };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1mYWNlYm9vay5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LWJyYW5kLWZhY2Vib29rLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsaUJBQWlCLE1BQU0saURBQWlELENBQUM7QUFDakYsT0FBTyxFQUFDLGlCQUFpQixFQUFDLENBQUMifQ==

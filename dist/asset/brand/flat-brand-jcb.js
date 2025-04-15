@@ -1,3 +1,0 @@
-import FlatBrandJcb from "../../../asset/svg/brand/fi-brands-jcb.svg";
-export { FlatBrandJcb };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1qY2IuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC1qY2IudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxZQUFZLE1BQU0sNENBQTRDLENBQUM7QUFDdkUsT0FBTyxFQUFDLFlBQVksRUFBQyxDQUFDIn0=

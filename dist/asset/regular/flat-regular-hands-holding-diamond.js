@@ -1,3 +1,0 @@
-import FlatRegularHandsHoldingDiamond from "../../../asset/svg/regular/fi-rr-hands-holding-diamond.svg";
-export { FlatRegularHandsHoldingDiamond };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWhhbmRzLWhvbGRpbmctZGlhbW9uZC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1oYW5kcy1ob2xkaW5nLWRpYW1vbmQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw4QkFBOEIsTUFBTSw0REFBNEQsQ0FBQztBQUN6RyxPQUFPLEVBQUMsOEJBQThCLEVBQUMsQ0FBQyJ9

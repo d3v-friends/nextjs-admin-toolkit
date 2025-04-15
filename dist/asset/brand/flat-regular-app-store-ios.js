@@ -1,3 +1,0 @@
-import FlatRegularAppStoreIos from "../../../asset/svg/brand/fi-brands-app-store-ios.svg";
-export { FlatRegularAppStoreIos };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFwcC1zdG9yZS1pb3MuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLWFwcC1zdG9yZS1pb3MudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxzQkFBc0IsTUFBTSxzREFBc0QsQ0FBQztBQUMzRixPQUFPLEVBQUMsc0JBQXNCLEVBQUMsQ0FBQyJ9

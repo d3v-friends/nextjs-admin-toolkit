@@ -1,3 +1,0 @@
-import FlatRegularCreativeCommonsRemix from "../../../asset/svg/brand/fi-brands-creative-commons-remix.svg";
-export { FlatRegularCreativeCommonsRemix };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNyZWF0aXZlLWNvbW1vbnMtcmVtaXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLWNyZWF0aXZlLWNvbW1vbnMtcmVtaXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSwrQkFBK0IsTUFBTSwrREFBK0QsQ0FBQztBQUM3RyxPQUFPLEVBQUMsK0JBQStCLEVBQUMsQ0FBQyJ9

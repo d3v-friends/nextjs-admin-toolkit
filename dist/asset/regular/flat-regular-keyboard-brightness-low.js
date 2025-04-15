@@ -1,3 +1,0 @@
-import FlatRegularKeyboardBrightnessLow from "../../../asset/svg/regular/fi-rr-keyboard-brightness-low.svg";
-export { FlatRegularKeyboardBrightnessLow };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWtleWJvYXJkLWJyaWdodG5lc3MtbG93LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWtleWJvYXJkLWJyaWdodG5lc3MtbG93LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0NBQWdDLE1BQU0sOERBQThELENBQUM7QUFDN0csT0FBTyxFQUFDLGdDQUFnQyxFQUFDLENBQUMifQ==

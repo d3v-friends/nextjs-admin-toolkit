@@ -1,3 +1,0 @@
-import FlatRegularKpi from "../../../asset/svg/regular/fi-rr-kpi.svg";
-export { FlatRegularKpi };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWtwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1rcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxjQUFjLE1BQU0sMENBQTBDLENBQUM7QUFDdkUsT0FBTyxFQUFDLGNBQWMsRUFBQyxDQUFDIn0=

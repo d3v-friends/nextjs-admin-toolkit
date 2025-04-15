@@ -1,3 +1,0 @@
-import FlatBrandTMobile from "../../../asset/svg/brand/fi-brands-t-mobile.svg";
-export { FlatBrandTMobile };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC10LW1vYmlsZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LWJyYW5kLXQtbW9iaWxlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0JBQWdCLE1BQU0saURBQWlELENBQUM7QUFDaEYsT0FBTyxFQUFDLGdCQUFnQixFQUFDLENBQUMifQ==

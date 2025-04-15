@@ -1,3 +1,0 @@
-import FlatRegularInternetSpeedWifi from "../../../asset/svg/regular/fi-rr-internet-speed-wifi.svg";
-export { FlatRegularInternetSpeedWifi };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWludGVybmV0LXNwZWVkLXdpZmkuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItaW50ZXJuZXQtc3BlZWQtd2lmaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDRCQUE0QixNQUFNLDBEQUEwRCxDQUFDO0FBQ3JHLE9BQU8sRUFBQyw0QkFBNEIsRUFBQyxDQUFDIn0=

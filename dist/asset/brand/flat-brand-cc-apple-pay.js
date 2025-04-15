@@ -1,3 +1,0 @@
-import FlatBrandCcApplePay from "../../../asset/svg/brand/fi-brands-cc-apple-pay.svg";
-export { FlatBrandCcApplePay };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1jYy1hcHBsZS1wYXkuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC1jYy1hcHBsZS1wYXkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxtQkFBbUIsTUFBTSxxREFBcUQsQ0FBQztBQUN2RixPQUFPLEVBQUMsbUJBQW1CLEVBQUMsQ0FBQyJ9

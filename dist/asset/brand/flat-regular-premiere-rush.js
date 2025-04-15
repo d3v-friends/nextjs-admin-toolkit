@@ -1,3 +1,0 @@
-import FlatRegularPremiereRush from "../../../asset/svg/brand/fi-brands-premiere-rush.svg";
-export { FlatRegularPremiereRush };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXByZW1pZXJlLXJ1c2guanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLXByZW1pZXJlLXJ1c2gudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSx1QkFBdUIsTUFBTSxzREFBc0QsQ0FBQztBQUM1RixPQUFPLEVBQUMsdUJBQXVCLEVBQUMsQ0FBQyJ9

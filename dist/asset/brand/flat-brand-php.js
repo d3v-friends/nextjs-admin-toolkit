@@ -1,3 +1,0 @@
-import FlatBrandPhp from "../../../asset/svg/brand/fi-brands-php.svg";
-export { FlatBrandPhp };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1waHAuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC1waHAudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxZQUFZLE1BQU0sNENBQTRDLENBQUM7QUFDdkUsT0FBTyxFQUFDLFlBQVksRUFBQyxDQUFDIn0=

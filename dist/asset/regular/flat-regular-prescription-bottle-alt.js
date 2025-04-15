@@ -1,3 +1,0 @@
-import FlatRegularPrescriptionBottleAlt from "../../../asset/svg/regular/fi-rr-prescription-bottle-alt.svg";
-export { FlatRegularPrescriptionBottleAlt };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXByZXNjcmlwdGlvbi1ib3R0bGUtYWx0LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXByZXNjcmlwdGlvbi1ib3R0bGUtYWx0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0NBQWdDLE1BQU0sOERBQThELENBQUM7QUFDN0csT0FBTyxFQUFDLGdDQUFnQyxFQUFDLENBQUMifQ==

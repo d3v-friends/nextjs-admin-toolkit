@@ -1,3 +1,0 @@
-import FlatBrandVisualBasic from "../../../asset/svg/brand/fi-brands-visual-basic.svg";
-export { FlatBrandVisualBasic };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC12aXN1YWwtYmFzaWMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1icmFuZC12aXN1YWwtYmFzaWMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxvQkFBb0IsTUFBTSxxREFBcUQsQ0FBQztBQUN4RixPQUFPLEVBQUMsb0JBQW9CLEVBQUMsQ0FBQyJ9

@@ -1,3 +1,0 @@
-import FlatRegularQR from "../../../asset/svg/regular/fi-rr-QR.svg";
-export { FlatRegularQR };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXEtci5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1xLXIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxhQUFhLE1BQU0seUNBQXlDLENBQUM7QUFDckUsT0FBTyxFQUFDLGFBQWEsRUFBQyxDQUFDIn0=

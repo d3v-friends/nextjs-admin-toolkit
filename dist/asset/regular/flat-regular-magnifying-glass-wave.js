@@ -1,3 +1,0 @@
-import FlatRegularMagnifyingGlassWave from "../../../asset/svg/regular/fi-rr-magnifying-glass-wave.svg";
-export { FlatRegularMagnifyingGlassWave };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLW1hZ25pZnlpbmctZ2xhc3Mtd2F2ZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1tYWduaWZ5aW5nLWdsYXNzLXdhdmUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw4QkFBOEIsTUFBTSw0REFBNEQsQ0FBQztBQUN6RyxPQUFPLEVBQUMsOEJBQThCLEVBQUMsQ0FBQyJ9

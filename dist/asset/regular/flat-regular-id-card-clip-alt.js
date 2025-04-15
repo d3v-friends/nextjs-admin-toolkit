@@ -1,3 +1,0 @@
-import FlatRegularIdCardClipAlt from "../../../asset/svg/regular/fi-rr-id-card-clip-alt.svg";
-export { FlatRegularIdCardClipAlt };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWlkLWNhcmQtY2xpcC1hbHQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItaWQtY2FyZC1jbGlwLWFsdC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLHdCQUF3QixNQUFNLHVEQUF1RCxDQUFDO0FBQzlGLE9BQU8sRUFBQyx3QkFBd0IsRUFBQyxDQUFDIn0=

@@ -1,3 +1,0 @@
-import FlatRegularPeopleArrowsLeftRight from "../../../asset/svg/regular/fi-rr-people-arrows-left-right.svg";
-export { FlatRegularPeopleArrowsLeftRight };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXBlb3BsZS1hcnJvd3MtbGVmdC1yaWdodC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1wZW9wbGUtYXJyb3dzLWxlZnQtcmlnaHQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxnQ0FBZ0MsTUFBTSwrREFBK0QsQ0FBQztBQUM5RyxPQUFPLEVBQUMsZ0NBQWdDLEVBQUMsQ0FBQyJ9

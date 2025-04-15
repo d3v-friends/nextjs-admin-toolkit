@@ -1,3 +1,0 @@
-import FlatRegularFan from "../../../asset/svg/regular/fi-rr-fan.svg";
-export { FlatRegularFan };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWZhbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9yZWd1bGFyL2ZsYXQtcmVndWxhci1mYW4udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSxjQUFjLE1BQU0sMENBQTBDLENBQUM7QUFDdkUsT0FBTyxFQUFDLGNBQWMsRUFBQyxDQUFDIn0=

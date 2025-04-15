@@ -1,3 +1,0 @@
-import FlatRegularUserKey from "../../../asset/svg/regular/fi-rr-user-key.svg";
-export { FlatRegularUserKey };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXVzZXIta2V5LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXVzZXIta2V5LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsa0JBQWtCLE1BQU0sK0NBQStDLENBQUM7QUFDaEYsT0FBTyxFQUFDLGtCQUFrQixFQUFDLENBQUMifQ==

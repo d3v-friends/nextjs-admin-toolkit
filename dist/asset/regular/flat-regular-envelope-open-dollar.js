@@ -1,3 +1,0 @@
-import FlatRegularEnvelopeOpenDollar from "../../../asset/svg/regular/fi-rr-envelope-open-dollar.svg";
-export { FlatRegularEnvelopeOpenDollar };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWVudmVsb3BlLW9wZW4tZG9sbGFyLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWVudmVsb3BlLW9wZW4tZG9sbGFyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsNkJBQTZCLE1BQU0sMkRBQTJELENBQUM7QUFDdkcsT0FBTyxFQUFDLDZCQUE2QixFQUFDLENBQUMifQ==

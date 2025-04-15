@@ -1,3 +1,0 @@
-import FlatRegularCreativeCommonsNcJp from "../../../asset/svg/brand/fi-brands-creative-commons-nc-jp.svg";
-export { FlatRegularCreativeCommonsNcJp };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNyZWF0aXZlLWNvbW1vbnMtbmMtanAuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvYnJhbmQvZmxhdC1yZWd1bGFyLWNyZWF0aXZlLWNvbW1vbnMtbmMtanAudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsT0FBUSw4QkFBOEIsTUFBTSwrREFBK0QsQ0FBQztBQUM1RyxPQUFPLEVBQUMsOEJBQThCLEVBQUMsQ0FBQyJ9

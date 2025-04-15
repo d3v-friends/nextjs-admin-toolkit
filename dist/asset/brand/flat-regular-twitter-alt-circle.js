@@ -1,3 +1,0 @@
-import FlatRegularTwitterAltCircle from "../../../asset/svg/brand/fi-brands-twitter-alt-circle.svg";
-export { FlatRegularTwitterAltCircle };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXR3aXR0ZXItYWx0LWNpcmNsZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LXJlZ3VsYXItdHdpdHRlci1hbHQtY2lyY2xlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsMkJBQTJCLE1BQU0sMkRBQTJELENBQUM7QUFDckcsT0FBTyxFQUFDLDJCQUEyQixFQUFDLENBQUMifQ==

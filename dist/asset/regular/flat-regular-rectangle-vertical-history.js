@@ -1,3 +1,0 @@
-import FlatRegularRectangleVerticalHistory from "../../../asset/svg/regular/fi-rr-rectangle-vertical-history.svg";
-export { FlatRegularRectangleVerticalHistory };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXJlY3RhbmdsZS12ZXJ0aWNhbC1oaXN0b3J5LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLXJlY3RhbmdsZS12ZXJ0aWNhbC1oaXN0b3J5LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsbUNBQW1DLE1BQU0saUVBQWlFLENBQUM7QUFDbkgsT0FBTyxFQUFDLG1DQUFtQyxFQUFDLENBQUMifQ==

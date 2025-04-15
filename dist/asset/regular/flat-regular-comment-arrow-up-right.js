@@ -1,3 +1,0 @@
-import FlatRegularCommentArrowUpRight from "../../../asset/svg/regular/fi-rr-comment-arrow-up-right.svg";
-export { FlatRegularCommentArrowUpRight };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNvbW1lbnQtYXJyb3ctdXAtcmlnaHQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItY29tbWVudC1hcnJvdy11cC1yaWdodC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLDhCQUE4QixNQUFNLDZEQUE2RCxDQUFDO0FBQzFHLE9BQU8sRUFBQyw4QkFBOEIsRUFBQyxDQUFDIn0=

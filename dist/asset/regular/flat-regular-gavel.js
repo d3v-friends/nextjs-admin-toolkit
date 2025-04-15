@@ -1,3 +1,0 @@
-import FlatRegularGavel from "../../../asset/svg/regular/fi-rr-gavel.svg";
-export { FlatRegularGavel };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWdhdmVsLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWdhdmVsLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsZ0JBQWdCLE1BQU0sNENBQTRDLENBQUM7QUFDM0UsT0FBTyxFQUFDLGdCQUFnQixFQUFDLENBQUMifQ==

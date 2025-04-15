@@ -1,7 +1,7 @@
-import {Panel, Widget} from "@root";
-import {FlatRegularMenuBurger} from "@root/asset/regular/flat-regular-menu-burger";
+import {Button, Link, Panel} from "@root";
 import {NextPageProps} from "nextjs-tools";
 import React from "react";
+import {FlatRegularMenuBurger} from "web-asset/src/regular/flat-regular-menu-burger";
 
 const colors = [
 	"primary",
@@ -16,8 +16,6 @@ const colors = [
 	"purple",
 	"blue",
 ];
-
-const {Button, Link} = Widget;
 
 export default function ({}: NextPageProps) {
 	return (

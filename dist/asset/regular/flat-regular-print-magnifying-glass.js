@@ -1,3 +1,0 @@
-import FlatRegularPrintMagnifyingGlass from "../../../asset/svg/regular/fi-rr-print-magnifying-glass.svg";
-export { FlatRegularPrintMagnifyingGlass };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXByaW50LW1hZ25pZnlpbmctZ2xhc3MuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYXNzZXQvcmVndWxhci9mbGF0LXJlZ3VsYXItcHJpbnQtbWFnbmlmeWluZy1nbGFzcy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxPQUFRLCtCQUErQixNQUFNLDZEQUE2RCxDQUFDO0FBQzNHLE9BQU8sRUFBQywrQkFBK0IsRUFBQyxDQUFDIn0=

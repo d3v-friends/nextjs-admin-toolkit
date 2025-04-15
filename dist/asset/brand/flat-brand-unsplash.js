@@ -1,3 +1,0 @@
-import FlatBrandUnsplash from "../../../asset/svg/brand/fi-brands-unsplash.svg";
-export { FlatBrandUnsplash };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC11bnNwbGFzaC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldC9icmFuZC9mbGF0LWJyYW5kLXVuc3BsYXNoLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsaUJBQWlCLE1BQU0saURBQWlELENBQUM7QUFDakYsT0FBTyxFQUFDLGlCQUFpQixFQUFDLENBQUMifQ==

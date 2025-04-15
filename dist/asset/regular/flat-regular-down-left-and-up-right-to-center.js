@@ -1,3 +1,0 @@
-import FlatRegularDownLeftAndUpRightToCenter from "../../../asset/svg/regular/fi-rr-down-left-and-up-right-to-center.svg";
-export { FlatRegularDownLeftAndUpRightToCenter };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWRvd24tbGVmdC1hbmQtdXAtcmlnaHQtdG8tY2VudGVyLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWRvd24tbGVmdC1hbmQtdXAtcmlnaHQtdG8tY2VudGVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEscUNBQXFDLE1BQU0sdUVBQXVFLENBQUM7QUFDM0gsT0FBTyxFQUFDLHFDQUFxQyxFQUFDLENBQUMifQ==

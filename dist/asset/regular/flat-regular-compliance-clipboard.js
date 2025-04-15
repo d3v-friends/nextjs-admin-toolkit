@@ -1,3 +1,0 @@
-import FlatRegularComplianceClipboard from "../../../asset/svg/regular/fi-rr-compliance-clipboard.svg";
-export { FlatRegularComplianceClipboard };
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNvbXBsaWFuY2UtY2xpcGJvYXJkLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2Fzc2V0L3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNvbXBsaWFuY2UtY2xpcGJvYXJkLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLE9BQVEsOEJBQThCLE1BQU0sMkRBQTJELENBQUM7QUFDeEcsT0FBTyxFQUFDLDhCQUE4QixFQUFDLENBQUMifQ==
