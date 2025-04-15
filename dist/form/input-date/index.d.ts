@@ -3,10 +3,11 @@ import { ReactNode } from "react";
 interface Props {
     className?: string;
     label?: ReactNode;
-    format?: string;
-    value: Date;
-    onChange: (value: Date) => void;
+    displayFormat?: string;
+    valueFormat?: string;
     buttonProps?: ButtonProps;
+    name: string;
+    defaultValue?: string;
 }
-export default function ({ format, className, label, value, onChange, buttonProps }: Readonly<Props>): import("react/jsx-runtime").JSX.Element;
+export default function ({ displayFormat, valueFormat, defaultValue, className, name, label, buttonProps, }: Readonly<Props>): import("react/jsx-runtime").JSX.Element;
 export {};

@@ -8,21 +8,39 @@ import React, {ReactNode, useState} from "react";
 interface Props {
 	className?: string;
 	label?: ReactNode;
-	format?: string;
-	value: Date;
-	onChange: (value: Date) => void;
+	displayFormat?: string;
+	valueFormat?: string;
 	buttonProps?: ButtonProps;
+	name: string;
+	defaultValue?: string;
 }
 
-export default function ({format = "yyyy-MM-dd", className, label, value, onChange, buttonProps}: Readonly<Props>) {
+export default function ({
+	displayFormat = "yyyy-MM-dd",
+	valueFormat = "yyyy-MM-dd",
+	defaultValue = new Date().toISOString(),
+	className,
+	name,
+	label,
+	buttonProps,
+}: Readonly<Props>) {
 	const [open, setOpen] = useState(false);
+	const [date, setDate] = useState(DateTime.fromISO(defaultValue).toJSDate());
 	return (
 		<>
 			<div className={fnCss.concat(className)}>
 				{label && <div className="label">{label}</div>}
-
-				<div className="input field flex items-center">
-					<div className="grow mr-3">{value ? DateTime.fromJSDate(value).toFormat(format) : ""}</div>
+				<div className="flex">
+					<div className="input field flex items-center grow mr-3">
+						{DateTime.fromJSDate(date).toFormat(displayFormat)}
+					</div>
+					<input
+						name={name}
+						hidden
+						type="text"
+						value={DateTime.fromJSDate(date).toFormat(valueFormat)}
+						onChange={() => {}}
+					/>
 					<Button
 						{...buttonProps}
 						onClick={() => setOpen(true)}>
@@ -38,9 +56,9 @@ export default function ({format = "yyyy-MM-dd", className, label, value, onChan
 				onClose={() => setOpen(false)}>
 				{(close) => (
 					<Calendar
-						value={value}
+						value={date}
 						onChange={(date) => {
-							onChange(date);
+							setDate(date);
 							close();
 						}}
 					/>
