@@ -1,6 +1,6 @@
 import {DateTime} from "luxon";
 import React from "react";
-import {FlatRegularClock} from "web-asset/src/regular/flat-regular-clock";
+import FlatRegularClock from "web-asset/svg/regular/fi-rr-clock.svg";
 import Base, {Props as BaseProps} from "../v-base";
 
 type Props = Pick<BaseProps, "className" | "align" | "copy"> & {

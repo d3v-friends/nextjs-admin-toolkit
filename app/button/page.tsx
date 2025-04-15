@@ -1,7 +1,7 @@
 import {Button, Link, Panel} from "@root";
 import {NextPageProps} from "nextjs-tools";
 import React from "react";
-import {FlatRegularMenuBurger} from "web-asset/src/regular/flat-regular-menu-burger";
+import FlatRegularMenuBurger from "web-asset/svg/regular/fi-rr-menu-burger.svg";
 
 const colors = [
 	"primary",

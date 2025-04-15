@@ -57,8 +57,8 @@ importers:
         specifier: 11.0.5
         version: 11.0.5
       web-asset:
-        specifier: github:d3v-friends/web-asset#0.0.2
-        version: https://codeload.github.com/d3v-friends/web-asset/tar.gz/9e0de391f3fcc1338cfac6a97a4a924463f5eac8
+        specifier: github:d3v-friends/web-asset#0.0.4
+        version: https://codeload.github.com/d3v-friends/web-asset/tar.gz/b44956a2fda59e2440a4fc32726d969cb1dba5c8
     devDependencies:
       '@tailwindcss/postcss':
         specifier: 4.0.15
@@ -1713,9 +1713,9 @@ packages:
   warning@4.0.3:
     resolution: {integrity: sha512-rpJyN222KWIvHJ/F53XSZv0Zl/accqHR8et1kpaMTD/fLCRxtV8iX8czMzY7sVZupTI3zcUTg8eycS2kNF9l6w==}
 
-  web-asset@https://codeload.github.com/d3v-friends/web-asset/tar.gz/9e0de391f3fcc1338cfac6a97a4a924463f5eac8:
-    resolution: {tarball: https://codeload.github.com/d3v-friends/web-asset/tar.gz/9e0de391f3fcc1338cfac6a97a4a924463f5eac8}
-    version: 0.0.2
+  web-asset@https://codeload.github.com/d3v-friends/web-asset/tar.gz/b44956a2fda59e2440a4fc32726d969cb1dba5c8:
+    resolution: {tarball: https://codeload.github.com/d3v-friends/web-asset/tar.gz/b44956a2fda59e2440a4fc32726d969cb1dba5c8}
+    version: 0.0.4
 
   web-namespaces@2.0.1:
     resolution: {integrity: sha512-bKr1DkiNa2krS7qxNtdrtHAmzuYGFQLiQ13TsorsdT6ULTkPLKuu5+GsFpDlg6JFjUTwX2DyhMPG2be8uPrqsQ==}
@@ -3763,7 +3763,7 @@ snapshots:
     dependencies:
       loose-envify: 1.4.0
 
-  web-asset@https://codeload.github.com/d3v-friends/web-asset/tar.gz/9e0de391f3fcc1338cfac6a97a4a924463f5eac8: {}
+  web-asset@https://codeload.github.com/d3v-friends/web-asset/tar.gz/b44956a2fda59e2440a4fc32726d969cb1dba5c8: {}
 
   web-namespaces@2.0.1: {}
 

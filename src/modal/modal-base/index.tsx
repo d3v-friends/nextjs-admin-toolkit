@@ -2,7 +2,7 @@
 import Image from "next/image";
 import {fnCss} from "nextjs-tools";
 import React from "react";
-import {FlatRegularCross} from "web-asset/src/regular/flat-regular-cross";
+import FlatRegularCross from "web-asset/svg/regular/fi-rr-cross.svg";
 import Backdrop, {Props as BaseProps} from "../modal-backdrop";
 
 type Props = {

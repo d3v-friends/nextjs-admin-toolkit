@@ -3,8 +3,8 @@ import Link from "next/link";
 import {usePathname} from "next/navigation";
 import {fnCss} from "nextjs-tools";
 import React, {ReactNode, useState} from "react";
-import {FlatRegularAngleSmallDown} from "web-asset/src/regular/flat-regular-angle-small-down";
-import {FlatRegularAngleSmallUp} from "web-asset/src/regular/flat-regular-angle-small-up";
+import Down from "web-asset/svg/regular/fi-rr-angle-small-down.svg";
+import Up from "web-asset/svg/regular/fi-rr-angle-small-up.svg";
 
 type AsideMenu = Pick<MenuProps, "title" | "collapsed"> & {submenus: SubmenuProps[]};
 
@@ -70,7 +70,7 @@ export interface MenuProps {
 
 function Menu({children, collapsed, title}: Readonly<MenuProps>) {
 	const [collapse, setCollapse] = useState(collapsed);
-	const icon = collapse ? FlatRegularAngleSmallDown : FlatRegularAngleSmallUp;
+	const icon = collapse ? Down : Up;
 
 	return (
 		<>
@@ -87,7 +87,7 @@ function Menu({children, collapsed, title}: Readonly<MenuProps>) {
 					width={20}
 					height={20}
 					src={icon}
-					alt="up"
+					alt="indicator"
 				/>
 			</button>
 

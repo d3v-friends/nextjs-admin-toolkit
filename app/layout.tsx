@@ -1,16 +1,16 @@
 import {HTML, Section3} from "@root";
 import {NextLayoutProps} from "nextjs-tools";
-import {FlatRegularCalendarDay} from "web-asset/src/regular/flat-regular-calendar-day";
-import {FlatRegularForm} from "web-asset/src/regular/flat-regular-form";
-import {FlatRegularInputPipe} from "web-asset/src/regular/flat-regular-input-pipe";
-import {FlatRegularMenuBurger} from "web-asset/src/regular/flat-regular-menu-burger";
-import {FlatRegularMenuDots} from "web-asset/src/regular/flat-regular-menu-dots";
-import {FlatRegularRefresh} from "web-asset/src/regular/flat-regular-refresh";
-import {FlatRegularRocketLunch} from "web-asset/src/regular/flat-regular-rocket-lunch";
-import {FlatRegularSubscriptionAlt} from "web-asset/src/regular/flat-regular-subscription-alt";
-import {FlatRegularTableLayout} from "web-asset/src/regular/flat-regular-table-layout";
-import {FlatRegularTextInputLeft} from "web-asset/src/regular/flat-regular-text-input-left";
-import {FlatRegularWindowRestore} from "web-asset/src/regular/flat-regular-window-restore";
+import FlatRegularCalendarDay from "web-asset/svg/regular/fi-rr-calendar-day.svg";
+import FlatRegularForm from "web-asset/svg/regular/fi-rr-form.svg";
+import FlatRegularInputPipe from "web-asset/svg/regular/fi-rr-input-pipe.svg";
+import FlatRegularMenuBurger from "web-asset/svg/regular/fi-rr-menu-burger.svg";
+import FlatRegularMenuDots from "web-asset/svg/regular/fi-rr-menu-dots.svg";
+import FlatRegularRefresh from "web-asset/svg/regular/fi-rr-refresh.svg";
+import FlatRegularRocketLunch from "web-asset/svg/regular/fi-rr-rocket-lunch.svg";
+import FlatRegularSubscriptionAlt from "web-asset/svg/regular/fi-rr-subscription-alt.svg";
+import FlatRegularTableLayout from "web-asset/svg/regular/fi-rr-table-layout.svg";
+import FlatRegularTextInputLeft from "web-asset/svg/regular/fi-rr-text-input-left.svg";
+import FlatRegularWindowRestore from "web-asset/svg/regular/fi-rr-window-restore.svg";
 
 import Header from "./_comp/header";
 

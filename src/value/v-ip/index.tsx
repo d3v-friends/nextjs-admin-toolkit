@@ -1,5 +1,5 @@
 import React from "react";
-import {FlatRegularIpAddress} from "web-asset/src/regular/flat-regular-ip-address";
+import FlatRegularIpAddress from "web-asset/svg/regular/fi-rr-ip-address.svg";
 import Base, {Props as BaseProps} from "../v-base";
 
 type Props = Pick<BaseProps, "className" | "children" | "align" | "copy" | "ellipsis" | "length">;
