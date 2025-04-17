@@ -15,8 +15,11 @@ importers:
         specifier: 15.3.0
         version: 15.3.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(sass@1.86.3)
       nextjs-tools:
-        specifier: github:d3v-friends/nextjs-tools#0.1.23
-        version: https://codeload.github.com/d3v-friends/nextjs-tools/tar.gz/e31949596b8d99cb70742f753804886dd5964da8
+        specifier: github:d3v-friends/nextjs-tools#0.1.28
+        version: https://codeload.github.com/d3v-friends/nextjs-tools/tar.gz/6d05615690fe6f7d0b795f878f51b1214757746c
+      pbkdf2:
+        specifier: 3.1.2
+        version: 3.1.2
       prismjs:
         specifier: 1.30.0
         version: 1.30.0
@@ -69,6 +72,9 @@ importers:
       '@types/node':
         specifier: 22.14.1
         version: 22.14.1
+      '@types/pbkdf2':
+        specifier: 3.1.2
+        version: 3.1.2
       '@types/react':
         specifier: 19.1.2
         version: 19.1.2
@@ -1330,9 +1336,9 @@ packages:
       sass:
         optional: true
 
-  nextjs-tools@https://codeload.github.com/d3v-friends/nextjs-tools/tar.gz/e31949596b8d99cb70742f753804886dd5964da8:
-    resolution: {tarball: https://codeload.github.com/d3v-friends/nextjs-tools/tar.gz/e31949596b8d99cb70742f753804886dd5964da8}
-    version: 0.1.23
+  nextjs-tools@https://codeload.github.com/d3v-friends/nextjs-tools/tar.gz/6d05615690fe6f7d0b795f878f51b1214757746c:
+    resolution: {tarball: https://codeload.github.com/d3v-friends/nextjs-tools/tar.gz/6d05615690fe6f7d0b795f878f51b1214757746c}
+    version: 0.1.28
 
   node-addon-api@7.1.1:
     resolution: {integrity: sha512-5m3bsyrjFWE1xf7nz7YXdN4udnVtXK6/Yfgn5qnahL6bCkf2yKt4k3nuTKAtT4r3IG8JNR2ncsIMdZuAzJjHQQ==}
@@ -3257,9 +3263,8 @@ snapshots:
       - '@babel/core'
       - babel-plugin-macros
 
-  nextjs-tools@https://codeload.github.com/d3v-friends/nextjs-tools/tar.gz/e31949596b8d99cb70742f753804886dd5964da8:
+  nextjs-tools@https://codeload.github.com/d3v-friends/nextjs-tools/tar.gz/6d05615690fe6f7d0b795f878f51b1214757746c:
     dependencies:
-      '@types/pbkdf2': 3.1.2
       pbkdf2: 3.1.2
 
   node-addon-api@7.1.1:
