@@ -1,6 +1,6 @@
 "use client";
+import {useRouter} from "next/navigation";
 import React, {ReactNode} from "react";
-import {redirect} from "next/navigation";
 
 interface Props {
 	children: ReactNode;
@@ -8,12 +8,13 @@ interface Props {
 }
 
 export default function ({children, href}: Readonly<Props>) {
+	const router = useRouter();
 	return (
 		<tr
 			onClick={(e) => {
 				e.stopPropagation();
 				e.preventDefault();
-				redirect(href);
+				router.push(href);
 			}}>
 			{children}
 		</tr>
