@@ -13,6 +13,7 @@ export interface Props {
 	buttonSize?: ButtonSize;
 	buttonColor?: ColorStyle;
 	buttonStyle?: ButtonStyle;
+	buttonBorder?: ButtonBorder;
 	buttonCorner?: ButtonCorner;
 	buttonAlign?: "text-center" | "text-left" | "text-right";
 }
@@ -21,6 +22,7 @@ export type ButtonStyle = "outlined" | "filled";
 export type ButtonCorner = "square" | "round";
 export type ButtonSize = "sm" | "md" | "lg";
 export type ButtonType = "submit" | "reset" | "button";
+export type ButtonBorder = "borderless" | "solid";
 
 export default function ({
 	type = "button",
@@ -31,6 +33,7 @@ export default function ({
 	buttonCorner = "square",
 	buttonAlign = "text-center",
 	buttonSize = "md",
+	buttonBorder = "solid",
 	className = "",
 	disabled,
 	onClick,
@@ -47,7 +50,8 @@ export default function ({
 				buttonCorner,
 				buttonSize,
 				className,
-				disabled ? "disabled" : ""
+				disabled ? "disabled" : "",
+				buttonBorder
 			)}>
 			{/* todo item-baseline 으로하면 아이콘 없는 버튼의 위치와 똑같아 지는데 items-center 로 하면 높이 차이가 나게 됨 이유 찾아보기*/}
 			{/* img 의 사이즈의 좌표값이 불명확*/}

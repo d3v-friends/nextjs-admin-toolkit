@@ -61,6 +61,20 @@ export default function ({}: NextPageProps) {
 				))}
 			</div>
 
+			<h4 className="mb-5">borderless</h4>
+			<div className="grid grid-cols-1 gap-2 lg:grid-cols-4 lg:gap-4 mb-10">
+				{colors.map((color, key) => (
+					<Button
+						iconSrc={FlatRegularMenuBurger}
+						key={key}
+						buttonColor={color as any}
+						buttonStyle={"outlined"}
+						buttonBorder={"borderless"}>
+						{color}
+					</Button>
+				))}
+			</div>
+
 			<h4 className="mb-5">size</h4>
 			<Button
 				className="mr-2"
