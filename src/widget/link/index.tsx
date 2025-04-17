@@ -1,6 +1,6 @@
+import Link from "next/link";
 import React from "react";
 import Button, {Props as BaseProps} from "../button";
-import Link from "next/link";
 
 interface Props
 	extends Pick<
@@ -13,6 +13,7 @@ interface Props
 		| "buttonStyle"
 		| "buttonCorner"
 		| "buttonAlign"
+		| "buttonBorder"
 	> {
 	href: string;
 }
