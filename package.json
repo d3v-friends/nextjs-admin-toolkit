@@ -1,6 +1,6 @@
 {
   "name": "nextjs-admin-toolkit",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "scripts": {
     "dev": "source .env && PORT=$PORT next dev --turbopack",
     "export": "sh ./script/build.sh",

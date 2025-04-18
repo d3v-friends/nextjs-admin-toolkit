@@ -14,7 +14,16 @@ export default function ({children, href}: Readonly<Props>) {
 			onClick={(e) => {
 				e.stopPropagation();
 				e.preventDefault();
-				router.push(href);
+				switch (e.button) {
+					case 0:
+						// e.button = 0 : left click
+						router.push(href);
+						return;
+					case 1:
+						// e.button = 1 : center click
+						window.open(href, "_blank");
+						return;
+				}
 			}}>
 			{children}
 		</tr>
