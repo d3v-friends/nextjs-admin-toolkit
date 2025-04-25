@@ -1,6 +1,6 @@
 {
   "name": "nextjs-admin-toolkit",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "scripts": {
     "dev": "source .env && PORT=$PORT next dev --turbopack",
     "export": "sh ./script/build.sh",
@@ -16,7 +16,7 @@
   "dependencies": {
     "luxon": "3.6.1",
     "next": "15.3.0",
-    "nextjs-tools": "github:d3v-friends/nextjs-tools#0.1.35",
+    "nextjs-tools": "github:d3v-friends/nextjs-tools#0.1.36",
     "pbkdf2": "3.1.2",
     "prismjs": "1.30.0",
     "react": "19.1.0",
