@@ -4,7 +4,7 @@ interface Props {
     label?: ReactNode;
     displayFormat?: string;
     valueFormat?: string;
-    name: string;
+    name?: string;
     defaultValue?: string;
 }
 export default function ({ displayFormat, valueFormat, defaultValue, className, name, label, }: Readonly<Props>): import("react/jsx-runtime").JSX.Element;

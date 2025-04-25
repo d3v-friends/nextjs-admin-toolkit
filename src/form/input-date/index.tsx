@@ -9,7 +9,7 @@ interface Props {
 	label?: ReactNode;
 	displayFormat?: string;
 	valueFormat?: string;
-	name: string;
+	name?: string;
 	defaultValue?: string;
 }
 
