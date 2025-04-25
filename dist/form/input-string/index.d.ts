@@ -1,6 +1,6 @@
 import { HTMLInputModeAttribute } from "nextjs-tools";
 import { HTMLInputAutoCompleteAttribute, HTMLInputTypeAttribute, ReactNode } from "react";
-type Props = {
+type Props<T> = {
     label?: ReactNode;
     className?: string;
     hidden?: boolean;
@@ -9,13 +9,13 @@ type Props = {
     required?: boolean;
     name?: string;
     defaultValue?: string;
-    value?: string;
     type?: HTMLInputTypeAttribute;
     autoComplete?: HTMLInputAutoCompleteAttribute;
     inputMode?: HTMLInputModeAttribute;
     regexp?: string;
     invalidMessage?: string;
     readOnly?: boolean;
+    value?: T;
 };
-export default function ({ label, className, hidden, children, disabled, required, name, defaultValue, type, autoComplete, inputMode, regexp, invalidMessage, readOnly, }: Props): import("react/jsx-runtime").JSX.Element;
+export default function <T>({ label, className, hidden, children, disabled, required, name, defaultValue, type, autoComplete, inputMode, regexp, invalidMessage, readOnly, }: Props<T>): import("react/jsx-runtime").JSX.Element;
 export {};

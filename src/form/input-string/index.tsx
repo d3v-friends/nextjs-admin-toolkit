@@ -2,7 +2,7 @@
 import {fnCss, HTMLInputModeAttribute} from "nextjs-tools";
 import React, {HTMLInputAutoCompleteAttribute, HTMLInputTypeAttribute, ReactNode, useEffect, useState} from "react";
 
-type Props = {
+type Props<T> = {
 	label?: ReactNode;
 	className?: string;
 	hidden?: boolean;
@@ -11,18 +11,18 @@ type Props = {
 	required?: boolean;
 	name?: string;
 	defaultValue?: string;
-	value?: string;
 	type?: HTMLInputTypeAttribute;
 	autoComplete?: HTMLInputAutoCompleteAttribute;
 	inputMode?: HTMLInputModeAttribute;
 	regexp?: string;
 	invalidMessage?: string;
 	readOnly?: boolean;
+	value?: T;
 	// todo 빈값일 때 처리하는 기능 추가하기
 	// emptyValue?: boolean;
 };
 
-export default function ({
+export default function <T>({
 	label,
 	className,
 	hidden,
@@ -37,7 +37,7 @@ export default function ({
 	regexp,
 	invalidMessage,
 	readOnly,
-}: Props) {
+}: Props<T>) {
 	const [value, setValue] = useState(defaultValue || "");
 	const isValid = new RegExp(regexp || "").test(`${value || ""}`);
 	const errMsg = value && !isValid ? invalidMessage || "" : "";
