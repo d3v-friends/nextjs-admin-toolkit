@@ -1,6 +1,5 @@
 import { ReactNode } from "react";
 export * from "./action";
-export * from "./asset";
 export * from "./base";
 export * from "./form";
 export * from "./layout";
@@ -18,3 +17,4 @@ export type TableCol<T> = {
     headerClassName?: string;
     cellClassName?: string;
 };
+export type VoidFunction = () => void;

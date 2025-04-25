@@ -1,7 +1,5 @@
-import ActErrors from "./act-errors";
-import ActLoading from "./act-loading";
-import ActRedirect from "./act-redirect";
-import ActResponseModal from "./act-response-modal";
-
-export {ActErrors, ActLoading, ActRedirect, ActResponseModal};
-export default {Errors: ActErrors, Loading: ActLoading, Redirect: ActRedirect, ResponseModal: ActResponseModal};
+export {default as ActErrors} from "./act-errors";
+export {default as ActLoading} from "./act-loading";
+export {default as ActResponseModal} from "./act-response-modal";
+export {default as ActAskForm} from "./act-ask-form";
+export {default as ActAskFormConfirmBox} from "./act-ask-form/confirm-box";

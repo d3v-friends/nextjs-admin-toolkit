@@ -1,7 +1,6 @@
 import {HTML, Section3} from "@root";
 import {NextLayoutProps} from "nextjs-tools";
 import FlatRegularCalendarDay from "web-asset/svg/regular/fi-rr-calendar-day.svg";
-import FlatRegularForm from "web-asset/svg/regular/fi-rr-form.svg";
 import FlatRegularInputPipe from "web-asset/svg/regular/fi-rr-input-pipe.svg";
 import FlatRegularMenuBurger from "web-asset/svg/regular/fi-rr-menu-burger.svg";
 import FlatRegularMenuDots from "web-asset/svg/regular/fi-rr-menu-dots.svg";
@@ -79,11 +78,6 @@ export default async function ({children}: NextLayoutProps) {
 								title: "action",
 								iconSrc: FlatRegularRocketLunch,
 								href: "/action",
-							},
-							{
-								title: "form",
-								iconSrc: FlatRegularForm,
-								href: "/form",
 							},
 						],
 					},

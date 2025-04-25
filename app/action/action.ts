@@ -1,5 +1,5 @@
 "use server";
-import {fnAction} from "nextjs-tools";
+import {fnServerAction} from "nextjs-tools";
 import actionForm from "./form";
 
 function delay(ms: number) {
@@ -7,13 +7,16 @@ function delay(ms: number) {
 }
 
 export default async function (_: any, form: FormData) {
-	return fnAction.new(form, actionForm, async ({username, password}) => {
-		await delay(3000);
+	return fnServerAction.parser(form, actionForm, async ({username, password}) => {
+		await delay(1000);
 		return {
-			time: new Date().getTime(),
+			time: 123,
 			value: {
 				username,
 				password,
+			},
+			other: {
+				message: "good",
 			},
 		};
 	});

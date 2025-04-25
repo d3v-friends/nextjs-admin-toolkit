@@ -1,10 +1,10 @@
 "use client";
-import React, {ReactNode, useEffect, useState} from "react";
-import ServerAction from "./server-action";
-import Form from "./form";
-import {fnAction, Nullable} from "nextjs-tools";
 import {useRouter} from "next/navigation";
+import {Nullable, useServerAction} from "nextjs-tools";
+import React, {ReactNode, useEffect, useState} from "react";
 import {expect, Theme} from "../fn";
+import Action from "./action";
+import Form from "./form";
 
 interface Props {
 	children?: (props: ChildrenPros) => ReactNode;
@@ -17,11 +17,11 @@ interface ChildrenPros {
 
 export default function ({children}: Readonly<Props>) {
 	const [time, setTime] = useState(0);
-	const {state, action} = fnAction.use(ServerAction, Form);
+	const [state, action] = useServerAction(Action, Form);
 	const [form, setForm] = useState<Nullable<HTMLFormElement>>();
 	const [theme, setTheme] = useState<Nullable<Theme>>();
 	const router = useRouter();
-	
+
 	useEffect(() => {
 		if (!state.response) return;
 		if (state.response.time === time) return;

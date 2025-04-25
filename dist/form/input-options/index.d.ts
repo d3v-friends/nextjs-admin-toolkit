@@ -4,7 +4,7 @@ interface Props {
     label?: ReactNode;
     className?: string;
     defaultValue?: string;
-    name: string;
+    name?: string;
     options: string[];
     printer?: (v: string) => ReactNode;
     buttonColor?: ColorStyle;

@@ -1,6 +1,10 @@
-import {fnInput} from "nextjs-tools";
+import {fnServerAction} from "nextjs-tools";
 
-export default fnInput.field.form({
-	username: fnInput.field.username(),
-	password: fnInput.field.password(),
+export default fnServerAction.forms.createForm({
+	username: fnServerAction.inputs.username({}),
+	password: fnServerAction.inputs.password({}),
+	opts: fnServerAction.inputs.strings({
+		defaultValue: "A,B",
+		regexp: "^A|B|C$",
+	}),
 });

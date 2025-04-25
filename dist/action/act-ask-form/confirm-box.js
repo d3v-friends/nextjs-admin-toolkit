@@ -1,0 +1,7 @@
+"use client";
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+import { Button } from "../..";
+export default function ({ onConfirm, onCancel, children, confirm = "확인", cancel = "취소" }) {
+    return (_jsxs("div", { className: "grid grid-cols-2 gap-2 lg:gap-4", children: [_jsx("h4", { className: "col-span-2", children: children }), _jsx(Button, { onClick: onConfirm, children: confirm }), _jsx(Button, { buttonStyle: "outlined", onClick: onCancel, children: cancel })] }));
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29uZmlybS1ib3guanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvYWN0aW9uL2FjdC1hc2stZm9ybS9jb25maXJtLWJveC50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsWUFBWSxDQUFDOztBQUViLE9BQU8sRUFBQyxNQUFNLEVBQWUsTUFBTSxPQUFPLENBQUM7QUFVM0MsTUFBTSxDQUFDLE9BQU8sV0FBVyxFQUFDLFNBQVMsRUFBRSxRQUFRLEVBQUUsUUFBUSxFQUFFLE9BQU8sR0FBRyxJQUFJLEVBQUUsTUFBTSxHQUFHLElBQUksRUFBa0I7SUFDdkcsT0FBTyxDQUNOLGVBQUssU0FBUyxFQUFDLGlDQUFpQyxhQUMvQyxhQUFJLFNBQVMsRUFBQyxZQUFZLFlBQUUsUUFBUSxHQUFNLEVBQzFDLEtBQUMsTUFBTSxJQUFDLE9BQU8sRUFBRSxTQUFTLFlBQUcsT0FBTyxHQUFVLEVBQzlDLEtBQUMsTUFBTSxJQUNOLFdBQVcsRUFBQyxVQUFVLEVBQ3RCLE9BQU8sRUFBRSxRQUFRLFlBQ2hCLE1BQU0sR0FDQyxJQUNKLENBQ04sQ0FBQztBQUNILENBQUMifQ==

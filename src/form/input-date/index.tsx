@@ -1,8 +1,8 @@
 "use client";
-import {Calendar, ModalCallback} from "@root";
 import {DateTime} from "luxon";
 import {fnCss} from "nextjs-tools";
 import React, {ReactNode, useState} from "react";
+import {Calendar, ModalCallback} from "../..";
 
 interface Props {
 	className?: string;

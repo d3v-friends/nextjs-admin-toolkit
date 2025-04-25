@@ -1,41 +1,28 @@
 "use client";
-import {State} from "nextjs-tools";
+import {ActionState} from "nextjs-tools";
 import React, {ReactNode, useEffect, useState} from "react";
 import {ModalBase} from "../..";
 
 interface Props<T> {
-	children?: (props: ChildrenProps) => ReactNode;
-	state?: State<unknown, ActionStateDone<T>>;
+	children?: (onClose: () => void) => ReactNode;
+	state?: ActionState<unknown, unknown>;
 }
-
-interface ChildrenProps {
-	close: () => void;
-}
-
-export type ActionStateDone<T> = {
-	time: number;
-	value: T;
-};
 
 export default function <T>({state, children}: Readonly<Props<T>>) {
-	const [open, setOpen] = useState(true);
+	const [open, setOpen] = useState(false);
 	const [time, setTime] = useState(0);
+
 	useEffect(() => {
 		if (!state) return;
-		if (!state.response) return;
-		if (time === state.response.time) return;
+		if (time === state.time) return;
 
 		setOpen(true);
-		setTime(state.response.time);
+		setTime(state.time);
 	}, [state]);
 
 	if (!state) return null;
-	if (!state.response) return null;
+	if (state.err) return null;
 	if (!children) return null;
-
-	const childrenProps: ChildrenProps = {
-		close: () => setOpen(false),
-	};
 
 	return (
 		<ModalBase
@@ -43,7 +30,7 @@ export default function <T>({state, children}: Readonly<Props<T>>) {
 			disableCloseButton
 			open={open}
 			onClose={() => setOpen(false)}>
-			{children(childrenProps)}
+			{children(() => setOpen(false))}
 		</ModalBase>
 	);
 }

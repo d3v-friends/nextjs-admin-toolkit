@@ -1,11 +1,11 @@
 "use server";
-import {fnAction} from "nextjs-tools";
-import actionForm from "./form";
 import {cookies} from "next/headers";
+import {fnServerAction} from "nextjs-tools";
 import {THEME_KEY, toggle, validate} from "../fn";
+import actionForm from "./form";
 
 export default async function (_: any, form: FormData) {
-	return fnAction.new(form, actionForm, async () => {
+	return fnServerAction.parser(form, actionForm, async () => {
 		const c = await cookies();
 		const prev = validate(c.get(THEME_KEY)?.value || "light");
 		const next = toggle(prev);

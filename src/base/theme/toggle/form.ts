@@ -1,3 +1,3 @@
-import {fnInput} from "nextjs-tools";
+import {fnServerAction} from "nextjs-tools";
 
-export default fnInput.field.form({});
+export default fnServerAction.forms.createForm({});
